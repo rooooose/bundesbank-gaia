@@ -1,9 +1,9 @@
 import fitz
 
-file = fitz.open("adidas_2020_report.pdf")
+file = fitz.open("telekom_2017_report.pdf")
 
 
-txt = open('report.txt', 'wb')
+txt = open('telekom_report.txt', 'wb')
 
 pageNum = 0
 for page in file:
@@ -21,10 +21,11 @@ for page in file:
         xref = img[0]
         pix = fitz.Pixmap(file, xref)
 
-        if pix.n > 4:
+        # if pix.n > 4:
+        #     pix = fitz.Pixmap(fitz.csRGB, pix)
+        if not pix.colorspace.name in (fitz.csGRAY.name, fitz.csRGB.name):
             pix = fitz.Pixmap(fitz.csRGB, pix)
-        # pix = page.get_pixmap()  # render page to an image
         if imgHasContent:
-            pix.save("images/image-p.%i-%i.png" % (pageNum, imgNum))  # store image as a PNG
+            pix.save("images_telekom/image-p.%i-%i.png" % (pageNum, imgNum))  # store image as a PNG
 txt.close()
 
