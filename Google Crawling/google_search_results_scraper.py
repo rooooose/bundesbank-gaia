@@ -5,9 +5,64 @@ from bs4 import BeautifulSoup
 import time, random
 import json
 
+user_agent_list = [
+        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15',
+        'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0',
+        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36',
+        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:77.0) Gecko/20100101 Firefox/77.0',
+        'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36',
+    ]
+
+for _ in user_agent_list:
+    #Pick a random user agent
+    user_agent = random.choice(user_agent_list)
+
+print(user_agent)
+
+#Set the headers 
+headers = {'User-Agent': user_agent,
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate",
+            "Connection": "keep-alive",
+            "Upgrade-Insecure-Requests": "1",
+            "Sec-Fetch-Dest": "document",
+            "Sec-Fetch-Mode": "navigate",
+            "Sec-Fetch-Site": "none",
+            "Sec-Fetch-User": "?1",
+            'Cache-Control': 'no-cache'
+}
+
+from itertools import cycle
+
+list_proxy = [
+                'https://176.113.73.104:3128',
+                'https://176.113.73.99:3128',
+                'https://67.205.190.164:8080',
+                'https://46.21.153.16:3128',
+                'https://84.17.35.129:3128',
+                'https://104.248.59.38:80',
+                'https://12.156.45.155:3128',
+                'https://176.113.73.102:3128',
+                'https://142.11.222.22:80',
+                'https://107.178.9.186:8080',
+                'https://34.29.41.58:3128',
+                'https://137.184.197.190:80',
+                'https://194.186.127.60:80'
+            ]
+
+proxy_cycle = cycle(list_proxy)
+proxy = next(proxy_cycle)
+print(proxy)
+proxy = {
+   "http": proxy,
+    "https":proxy
+}
 
 def scrape_google(query, year, doubt_count, company, doubt_list, found_list):
     print(year)
+
+    # set the list of formats of company names wished in the url
     companySmall = company.lower()
     companySmallNoSpace = companySmall.replace(" ", "")
     companyNoSpace = company.replace(" ", "")
@@ -21,27 +76,9 @@ def scrape_google(query, year, doubt_count, company, doubt_list, found_list):
         companySlice1 = companySmall.split(" ")[1]
     else:
         companySlice1 = ""
-    #2 derniers chiffres de l'année SAUF 20
-    #print(companySmall, companySmallDash, companySmallNoSpace, companySmallNoDot, companyNoSpace)
-
-    user_agent_list = [
-        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15',
-        'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0',
-        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36',
-        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:77.0) Gecko/20100101 Firefox/77.0',
-        'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36',
-    ]
-
-    for _ in user_agent_list:
-        #Pick a random user agent
-        user_agent = random.choice(user_agent_list)
-
-    #Set the headers 
-    headers = {'User-Agent': user_agent}
-
-    headers={'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36'}
+    
     url = "https://www.google.com/search?q=" + query
-    html = requests.get(url,headers=headers)
+    html = requests.get(url,headers=headers, proxies=proxy)
     soup = BeautifulSoup(html.text, 'html.parser')
     # Find all google search results (g class) and sub-results (d4rhi class)
     allData = soup.find_all("div",{"class":["g", "d4rhi"]})
@@ -77,19 +114,15 @@ def scrape_google(query, year, doubt_count, company, doubt_list, found_list):
                 
                 doubt_list[year].append({'query': query, 'link': most_relevant_link})
             first = False
-                
-            
-        
-        
     
-        
     return most_relevant_link, doubt_count
 
 def download_pdf(link,yearString, companyName):
 
     if link is not None:
         print("J'attends : " + link)
-        response = requests.get(link)
+        response = requests.get(link, headers=headers)
+        print(response.status_code)
         print("Response = " + str(response))
         # Access name of pdf : Split on last occurrence of delimiter
         splittedLink = link.rsplit('/', 1)
@@ -115,47 +148,35 @@ conclusions_found = []
 for year in years_to_search:
     to_find_per_year = 0
 
-    with open('dax.csv') as csv_file:
-        dax_reader = csv.reader(csv_file, delimiter='\n')
+    # with open('Google Crawling/dax.csv') as csv_file:
+    #     dax_reader = csv.reader(csv_file, delimiter='\n')
 
-        for i, companyRow in enumerate(dax_reader):
-            print(companyRow[0])
-            to_find_per_year += 1
-            scraping_result = scrape_google(companyRow[0] + " sustainability report " + str(year) + " inurl:pdf", str(year), doubt_count, companyRow[0], doubt_list, found_list)
-            most_relevant_link = scraping_result[0]
-            doubt_count = scraping_result[1]
-            # if(i >= 29):
-            #     download_pdf(most_relevant_link, str(year), companyRow[0])
-        found_per_year = len(found_list[str(year)])*100/to_find_per_year
-        conclusions_found.append(str(year) + " : " + str(found_per_year) + "% were found\n")
+    #     for i, companyRow in enumerate(dax_reader):
+    #         print(companyRow[0])
+    #         to_find_per_year += 1
+    #         scraping_result = scrape_google(companyRow[0] + " sustainability report " + str(year) + " inurl:pdf", str(year), doubt_count, companyRow[0], doubt_list, found_list)
+    #         most_relevant_link = scraping_result[0]
+    #         doubt_count = scraping_result[1]
+    #          #if(i >= 29):
+    #         download_pdf(most_relevant_link, str(year), companyRow[0])
+    #     found_per_year = len(found_list[str(year)])*100/to_find_per_year
+    #     conclusions_found.append(str(year) + " : " + str(found_per_year) + "% were found\n")
 
     
     
-    conclusion_doubt = str(doubt_count) + " might be wrong :"
+    # conclusion_doubt = str(doubt_count) + " might be wrong :"
     
     
-    # writing the data into the files
-    with open('Zweifel_Ergebnisse.txt','w') as write_file: 
-      write_file.write(conclusion_doubt)
-      json.dump(doubt_list, write_file, indent=4)
-    with open('found_results.txt','w') as write_file: 
-      for percentage in conclusions_found :
-          write_file.write(percentage)
-      json.dump(found_list, write_file, indent=4)
+    # # writing the data into the files
+    # with open('Zweifel_Ergebnisse.txt','w') as write_file: 
+    #   write_file.write(conclusion_doubt)
+    #   json.dump(doubt_list, write_file, indent=4)
+    # with open('found_results.txt','w') as write_file: 
+    #   for percentage in conclusions_found :
+    #       write_file.write(percentage)
+    #   json.dump(found_list, write_file, indent=4)
 
-#TEST
-# companyRow = "Henkel"
-# year = 2019
-# scraping_result = scrape_google(companyRow + " sustainability report " + str(year) + " inurl:pdf", str(year), doubt_count, companyRow, doubt_list, found_list)
-
-##
-
-#TODO Prozent von gefundene PDFs pro Jahr
-# Sometimes the year is in the link but another year is in the filename
-
-# Henkel 2020
-#infineon 2021 bon
-#infineon 2020
-#Henkel sustainability report 2017 inurl:pdf bon
-#telekom
-# Fitz Paket testen
+# TEST
+companyRow = "E.ON"
+year = 2019
+download_pdf('https://www.sap.cn/integrated-reports/2021/en.html?pdf-asset=903be721-1b7e-0010-bca6-c68f7e60039b&page=103', str(year), companyRow)

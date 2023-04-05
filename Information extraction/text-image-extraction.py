@@ -1,9 +1,9 @@
 import fitz
+import requests
+response = requests.get("https://www.linde.com/-/media/linde/merger/documents/sustainable-development/praxair-2017-sustainable-value-report.pdf?la=en")
+file = fitz.open(response.content)
 
-file = fitz.open("telekom_2017_report.pdf")
-
-
-txt = open('telekom_report.txt', 'wb')
+txt = open('linde_2017_report.txt', 'wb')
 
 pageNum = 0
 for page in file:
@@ -11,7 +11,7 @@ for page in file:
     # Extract text
     text = page.get_text().encode("utf8")
     txt.write(text)
-    #txt.write(bytes((12,)))
+
     # Extract image
     imgNum=0
     for img in page.get_images():
@@ -21,8 +21,6 @@ for page in file:
         xref = img[0]
         pix = fitz.Pixmap(file, xref)
 
-        # if pix.n > 4:
-        #     pix = fitz.Pixmap(fitz.csRGB, pix)
         if not pix.colorspace.name in (fitz.csGRAY.name, fitz.csRGB.name):
             pix = fitz.Pixmap(fitz.csRGB, pix)
         if imgHasContent:
