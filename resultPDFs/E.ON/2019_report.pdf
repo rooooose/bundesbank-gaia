@@ -1,731 +1,86 @@
 <!DOCTYPE html>
-<html lang="en" class="content-en_us en_us   touchPageRenderingFix" data-language="en_us" data-page-path="/content/integrated-reports/2021/en" data-site-code="usa" data-request-path="/content/integrated-reports/2021/en.asset-id-903be721-1b7e-0010-bca6-c68f7e60039b.html" data-page-model-path="/integrated-reports/2021/en.model.json" data-is-publish xmlns="http://www.w3.org/1999/xhtml" prefix="og: http://ogp.me/ns# fb: http://www.facebook.com/2008/fbml" data-contact-module-model-path="/bin/sapdxc/cache/contactModule/content/integrated-reports/2021/en/_jcr_content/parContactModule/contactModule.model.json" data-header-model-path="/bin/sapdxc/cache/header/content/integrated-reports/2021/en/_jcr_content/parHeader/headerstandard.model.json">
+<html lang="en-US">
 <head>
-<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
-<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
-<title>SAP Integrated Report 2021</title>
-<meta name="description" content="SAP reports its financial, social, and environmental performance in the SAP Integrated Report 2021"/>
-<meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta property="og:type" content="website"/><meta property="og:url" content="https://www.sap.com/docs/download/investors/2021/sap-2021-integrated-report.pdf"/><meta property="og:title" content="SAP Integrated Report 2021"/><meta property="og:description" content="SAP reports its financial, social, and environmental performance in the SAP Integrated Report 2021"/><meta property="og:site_name" content="SAP"/><meta property="og:image" content="http://www.sap.com/dam/site/investors/assets/2021/sap-2021-integrated-report.pdf/_jcr_content/renditions/cq5dam.thumbnail.319.319.png"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:url" content="https://www.sap.com/docs/download/investors/2021/sap-2021-integrated-report.pdf"/><meta name="twitter:title" content="SAP Integrated Report 2021"/><meta name="twitter:description" content="SAP reports its financial, social, and environmental performance in the SAP Integrated Report 2021"/><meta name="twitter:site" content="@SAP"/><meta name="twitter:image" content="http://www.sap.com/dam/site/investors/assets/2021/sap-2021-integrated-report.pdf/_jcr_content/renditions/cq5dam.thumbnail.319.319.png"/><meta name="content_format" content="Web Pages"/>
-<link rel="apple-touch-icon" sizes="60x60" href="/etc.clientlibs/sapdx/clientlibs/clientlib-generic-legacy/resources/images/apple-touch-icons/touch-icon-60x60.png"/>
-<link rel="apple-touch-icon" sizes="120x120" href="/etc.clientlibs/sapdx/clientlibs/clientlib-generic-legacy/resources/images/apple-touch-icons/touch-icon-120x120.png"/>
-<link rel="apple-touch-icon" sizes="180x180" href="/etc.clientlibs/sapdx/clientlibs/clientlib-generic-legacy/resources/images/apple-touch-icons/touch-icon-180x180.png"/>
-<!--*/ Used for metadata customization of inherited pages */-->
-<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"/>
-<link rel="dns-prefetch" href="https://epsilon.6sense.com"/><link rel="preconnect" href="https://epsilon.6sense.com"/>
-<link rel="dns-prefetch" href="https://assets.adobedtm.com"/><link rel="preconnect" href="https://assets.adobedtm.com"/>
-<link rel="dns-prefetch" href="https://sapglobalmarketingin.tt.omtrdc.net"/><link rel="preconnect" href="https://sapglobalmarketingin.tt.omtrdc.net"/>
-<link rel="dns-prefetch" href="https://consent.trustarc.com"/><link rel="preconnect" href="https://consent.trustarc.com"/>
-<link rel="dns-prefetch" href="https://content.cdn.sap.com"/><link rel="preconnect" href="https://content.cdn.sap.com"/>
-<link rel="canonical" href="https://www.sap.com/docs/download/investors/2021/sap-2021-integrated-report.pdf"/>
-<link rel="preload" href="/etc.clientlibs/sapdx/front-layer/dist/resources/assets/fonts/fiori-icons.woff2" as="font" type="font/woff2" crossorigin/>
-<link rel="preload" href="/etc.clientlibs/sapdx/front-layer/dist/resources/assets/fonts/sapcom-icons.woff2" as="font" type="font/woff2" crossorigin/>
-<link rel="preload" href="/etc.clientlibs/sapdx/front-layer/dist/resources/assets/fonts/BentonSansBook.woff2" as="font" type="font/woff2" crossorigin/>
-<link rel="preload" href="/etc.clientlibs/sapdx/front-layer/dist/resources/assets/fonts/BentonSansBold.woff2" as="font" type="font/woff2" crossorigin/>
-<link rel="preload" href="/etc.clientlibs/sapdx/front-layer/dist/resources/assets/fonts/BentonSansRegular.woff2" as="font" type="font/woff2" crossorigin/>
-<link href="/etc.clientlibs/sapdx/front-layer/dist/resources/sapcom/navigation-NavigationIconBarGridVersion2.2083da9fc20d18cad3c2.css" rel="stylesheet" type="text/css"><link href="/etc.clientlibs/sapdx/front-layer/dist/resources/sapcom/1638.60708006cccbdeee9357.css" rel="stylesheet" type="text/css"><link href="/etc.clientlibs/sapdx/front-layer/dist/resources/sapcom/navigation-Footer.9aa7e290745563518720.css" rel="stylesheet" type="text/css"><link href="/etc.clientlibs/sapdx/front-layer/dist/resources/sapcom/default.141634ed0ecca33eaa3c.css" rel="stylesheet" type="text/css">
-<link rel="stylesheet" href="/etc.clientlibs/sapdx/clientlibs/clientlib-global-usage/clientlib-global-usage-codebase.min.6084de9a16a7d7b55c59be7565be5f94.css" type="text/css">
-<link rel="stylesheet" href="/etc.clientlibs/sapdx/clientlibs/clientlib-footnote.min.d855980a7ad2e188a539e0a56d91328d.css" type="text/css">
-<script src="/etc.clientlibs/clientlibs/granite/jquery.min.f65891607efbe75b84a8031849cec6c7.js"></script>
-<script src="/etc.clientlibs/clientlibs/granite/utils.min.fd64744866d6499535dd464d6da82678.js"></script>
-<script src="/etc.clientlibs/clientlibs/granite/jquery/granite.min.da45f476f6c3ee364516239ac10cd5f1.js"></script>
-<script src="/etc.clientlibs/foundation/clientlibs/jquery.min.dd9b395c741ce2784096e26619e14910.js"></script>
-<script src="/etc.clientlibs/foundation/clientlibs/shared.min.6cd003256d877aa91c7c5632fd28d19d.js"></script>
-<script src="/etc.clientlibs/sapdx/clientlibs/clientlib-tnt.min.c182075b040f4ea36a8a6c1c37c7e019.js"></script>
-<script src="/etc.clientlibs/sapdx/clientlibs/clientlib-test-and-target-all.min.466da504b55de4ac93126f7c88082693.js"></script>
-<script src="/etc.clientlibs/sapdx/clientlibs/clientlib-handlebars.min.16a2d71aa7c87d0187a4faf3f6c82e52.js"></script>
-<script src="/etc.clientlibs/sapdx/clientlibs/clientlib-global-usage/clientlib-global-usage-codebase.min.2588e5de3aced56bd1b7470092cb1799.js"></script>
-<script src="/etc.clientlibs/sapdx/clientlibs/analytics/clientlib-aa-all.min.325909cf166cc386da4c8eda656aa5b9.js"></script>
-<script src="/etc.clientlibs/sapdx/components/modular/truste/clientlib.min.217c8d92dc17cbb1bbadac55622c9164.js"></script>
-<script src="/etc.clientlibs/sapdx/clientlibs/clientlib-gating-autoloading.min.2edc9a1996091b1c23c173e4a17abba4.js"></script>
-<script src="/etc.clientlibs/sapdx/clientlibs/clientlib-jquery-ui-customized.min.c71b45d2b74a17de10ba9f43680acdda.js"></script>
-<script src="/etc.clientlibs/sapdx/clientlibs/clientlib-global-usage.min.d41d8cd98f00b204e9800998ecf8427e.js"></script>
-<script type="text/javascript">
-        (function(){
-            window.SAP = window.SAP || {};
-            SAP.DTM = SAP.DTM || {};
-            SAP.DTM.pageComponents = ["sapdx/components/modular/heroes/heroTiles/item","sapdx/components/modular/heroes/heroHomepage","sapdx/components/modular/heroes/heroTiles","sapdx/components/modular/nav/headerStandard","nt:unstructured","foundation/components/parsys","foundation/components/iparsys","sapdx/components/modular/nav/navigationIconBarGridVersion2","sapdx/components/page/contentpages/homePageStandard","sapdx/components/modular/nav/footer"];
-            SAP.DTM.runMode = "prod";
-        })();
-    </script>
-<script src="//assets.adobedtm.com/ccc66c06b30b/7f1afd17dc3b/launch-7ee8b84a36a9.min.js"></script>
-<style>#teconsent{display:none!important}#consent_blackbar{bottom:-15px;position:fixed;z-index:1000000;width:100%}#header{height:64px;background-color:#000}#header.tier2{background-color:#f4f4f4}#footer{background-color:#222}#footer.tier2{background-color:#f4f4f4}[data-is-publish] [data-component=SecondaryNavigation]{position:static;min-height:45px;width:100%;z-index:22}@media only screen and (min-width:768px){[data-is-publish] [data-component=SecondaryNavigation]{min-height:84px}}.sectionUI2020{min-height:180px}.standardGrid3.is-lightbox .sectionUI2020{min-height:200px}.universalLayoutUI2020.horizontal{min-height:300px}.universalLayoutUI2020.horizontal.one-box{min-height:100px}.universalLayoutUI2020.horizontal.two-boxes,.universalLayoutUI2020.vertical{min-height:200px}.standardGrid3.is-lightbox .universalLayoutUI2020{min-height:50px}.heroUniversalUI2020.preview-large,.heroUniversalUI2020.preview-medium{min-height:238px}.heroUniversalUI2020.preview-small{height:135px}@media only screen and (min-width:980px){.heroUniversalUI2020.preview-small{height:146px}}html:not(.aem-AuthorLayer-Preview) #header.cq-Editable-dom{height:280px;background-color:#fff}.storyContainer{background:#222;color:#fff;padding-top:5.25rem}.customer-reference-standard .carousel-holder .carousel-mask .carousel-slider{display:flex}.customer-reference-standard .carousel-holder .carousel-mask .carousel-slider .max-divider{min-width:3.25rem}.customer-reference-standard .item-content .navbar-item-icon-link:after{display:none}.customer-reference-standard .item-content .navbar-item-icon-link .navbar-item-icon{width:140px;height:86px}.customer-reference-standard .item-content .navbar-item-icon-link .navbar-item-icon .svg-image{max-width:140px;max-height:90%;filter:grayscale(100%)}.customer-reference-standard .arrows{display:none}@media only screen and (max-width:767px){.navigation-icon-bar-standard{min-height:180px}}.hidden-chat-button{display:none}.event-includer-visible{min-height:75px}@media only screen and (max-width:767px){.event-includer-visible{min-height:100px}}.flexible-columns .flexible-columns__left-column{margin-left:10px}.flexible-columns .flexible-columns__right-column{margin-right:10px}@media only screen and (max-width:1023px){.flexible-columns .flexible-columns__left-column{margin-left:0}.flexible-columns .flexible-columns__right-column{margin-right:0}}</style><script defer="defer" src="/etc.clientlibs/sapdx/front-layer/dist/resources/sapcom/runtime.2d566dd7641311c74a23.js"></script><script defer="defer" src="/etc.clientlibs/sapdx/front-layer/dist/resources/sapcom/icons.e4d6b44e48df17b97b42.js"></script><script defer="defer" src="/etc.clientlibs/sapdx/front-layer/dist/resources/sapcom/critical.1e6bde4c5cc14010549f.js"></script><script defer="defer" src="/etc.clientlibs/sapdx/front-layer/dist/resources/sapcom/6363.423abe475aafdc4635c2.js"></script><script defer="defer" src="/etc.clientlibs/sapdx/front-layer/dist/resources/sapcom/4482.835277a1c30d33a33ec1.js"></script><script defer="defer" src="/etc.clientlibs/sapdx/front-layer/dist/resources/sapcom/5022.b28d6d4faabc8c23fa28.js"></script><script defer="defer" src="/etc.clientlibs/sapdx/front-layer/dist/resources/sapcom/3123.65557dbb9ecdf46c856a.js"></script><script defer="defer" src="/etc.clientlibs/sapdx/front-layer/dist/resources/sapcom/sapcom-77a2a1a6.51a726e64bea62fbc51c.js"></script><script defer="defer" src="/etc.clientlibs/sapdx/front-layer/dist/resources/sapcom/sapcom-9bf88260.467c4f59a3d5001c3d6d.js"></script><link href="/etc.clientlibs/sapdx/front-layer/dist/resources/sapcom/icons.8e6f657f821105f9965a.css" rel="stylesheet"/><link href="/etc.clientlibs/sapdx/front-layer/dist/resources/sapcom/sapcom-77a2a1a6.3391c4f8933fbb6233a4.css" rel="stylesheet"/>
-<link rel="stylesheet" href="/etc.clientlibs/sapdx/clientlibs/clientlib-homepage-standard-all.min.133c4fe52f0240659432a5198b9ebd72.css" type="text/css">
-<span class='lazy-loader-event-wrapper' data-categories='apps.sapdx.videojs'>
-<span class='lazy-css' data-src="/etc/sapdx/binary/clientlib-videojs.min.18daxb2.1.0.4550.css"></span><span class='lazy-script' data-src="/etc/sapdx/binary/clientlib-videojs.min.18daxb2.1.0.4550.js"></span>
-</span>
-<span class='lazy-loader-event-wrapper' data-categories='apps.sapdx.pdfjs,apps.sapdx.pdfjs.extensions'>
-<span class='lazy-css' data-src="/etc/sapdx/binary/clientlib-pdfjs.min.18daxb2.1.0.4550.css"></span><span class='lazy-css' data-src="/etc/sapdx/binary/clientlibs-pdfjs-extensions.min.18daxb2.1.0.4550.css"></span><span class='lazy-script' data-src="/etc/sapdx/binary/clientlib-pdfjs.min.18daxb2.1.0.4550.js"></span>
-<span class='lazy-script' data-src="/etc/sapdx/binary/clientlibs-pdfjs-extensions.min.18daxb2.1.0.4550.js"></span>
-</span>
-<link rel="stylesheet" href="/etc.clientlibs/sapdx/clientlibs/clientlib-common-homepage.min.8fe1f08300f1915a655c1db566cdad8a.css" type="text/css">
-<script defer type="text/javascript" src="/etc.clientlibs/sapdx/clientlibs/clientlib-common-homepage.min.92aab34afe7498b92cbeb2c53a8158c9.js"></script>
-<script defer type="text/javascript" src="/etc.clientlibs/sapdx/clientlibs/clientlib-homepage-ir.min.cc14573ddd03099e3c9dfeb40cbbb265.js"></script>
-<script>window.schema_highlighter={outputCache:true,key:"325UM-NQRHZ-P7T97-M5SY8",accountId:"Acronym/SAP"}</script>
-<script async src="https://cdn.schemaapp.com/javascript/highlight.js"></script>
+    <title>Just a moment...</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="robots" content="noindex,nofollow">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link href="/cdn-cgi/styles/challenges.css" rel="stylesheet">
+    
 
-<script>!function(){function o(n,i){if(n&&i)for(var r in i)i.hasOwnProperty(r)&&(void 0===n[r]?n[r]=i[r]:n[r].constructor===Object&&i[r].constructor===Object?o(n[r],i[r]):n[r]=i[r])}try{var n=decodeURIComponent("%7B%22BW%22%3A%20%7B%20%22test_https%22%3A%20true%20%7D%7D");if(n.length>0&&window.JSON&&"function"==typeof window.JSON.parse){var i=JSON.parse(n);void 0!==window.BOOMR_config?o(window.BOOMR_config,i):window.BOOMR_config=i}}catch(r){window.console&&"function"==typeof window.console.error&&console.error("mPulse: Could not parse configuration",r)}}();</script>
-                              <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="G3JB4-MG6V2-K5QTM-ZUA37-AURLV",function(){function e(){if(!r){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,o.appendChild(e),r=!0}}function t(e){r=!0;var n,t,a,i,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(o,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",i=(a.frameElement||a).style,i.width=0,i.height=0,i.border=0,i.display="none",o.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void 0;",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=14,window.BOOMR.url=n+"G3JB4-MG6V2-K5QTM-ZUA37-AURLV";var i=document.currentScript||document.getElementsByTagName("script")[0],o=i.parentNode,r=!1,d=document.createElement("link");if(d.relList&&"function"==typeof d.relList.supports&&d.relList.supports("preload")&&"as"in d)window.BOOMR.snippetMethod="p",d.href=window.BOOMR.url,d.rel="preload",d.as="script",d.addEventListener("load",e),d.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!r)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),o.appendChild(d);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="ls4gvy3iiuhiezbnsboa-f-fc30701c7-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"34","ak.cp":"197059","ak.ai":parseInt("168275",10),"ak.ol":"0","ak.cr":12,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"24dbd43d","ak.r":42727,"ak.a2":n,"ak.m":"dsca","ak.n":"essl","ak.bpcip":"92.184.106.0","ak.cport":64192,"ak.gh":"23.192.236.137","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1680707676","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==sEmgMq2NpOFjQbxBqR4QyQ5RqTE096B4mdm/I032XuK9M0Ob5WXD31BRaUBWlIu/7DOdWN1PeAU5y4k9gZGIRk7o0y4bUiRyLIeYFqb7JoV1rHLixd5ltFvXwcX4pLNAWv4wf2VFyN7OVJJiFxK/+9M+7W66fFW2Jp9OctboDzS446VDWmdB4ybJAfq2taU9ZXOE4C8XWdoCrGW5X8NyOXFc1aj4+pxmQHYmD4rwzjfVMWd4ZATIxeculxeHbTDprLF/QxWjw/SMzfHel6vLGzMBT7fvUUIzT+FF8q8uxy1te37B5yFHWK34zLWlUedW2S8J8mQ/okEPNH2EymCviOdXpL6Yt9UROr5rC+1hcm0TH00aYnIlbgQ0ejEpGoqtYCiLl4bbhS1yZsgM/GyBzmmRwfxMgCE94/htNzyfuuI=","ak.pv":"75","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script><script nonce="0027baf4be062314731288410760372c">bazadebezolkohpepadr="902491834"</script><script type="text/javascript" src="https://www.sap.com/akam/13/35caed7e" nonce="0027baf4be062314731288410760372c" defer></script></head>
-<body class="is-publish-true homePageStandard " data-is-pdf-lightbox-enabled="true" data-is-video-lightbox-enabled="true" data-is-pdf-rating-allowed="false" data-is-video-rating-allowed="false" data-qualtrics-survey-language="EN" data-enable-qualtrics-service-layer="true" data-banner-key="Header.NotificationBanner.PrivacyUpdate.Text" data-build-version="2.1.0.4550">
-<div class="notificationBannerWrapper" style="position: absolute;" data-component="NotificationBanner" data-banner-text="SAP is updating its Privacy Statement to reflect its ongoing commitment to be transparent about how SAP uses your personal data. Read the new Privacy Statement now before it comes into effect. You can access the new statement by clicking on Privacy in the footer." data-banner-button-text="Dismiss">
-</div>
-<noscript>
-<div class="nojs">Javascript must be enabled for the correct page display</div>
-</noscript>
-<div id="page">
-<div id="idsConfig" class="hidden" data-ids-sp-name="sapdx" data-ids-cookie-loggedout-value="xxxxxx"></div>
-<div class="pageAnalytics-block hidden">
-<div class="pageAnalytics" data-every-page-analytics-page-name="sap:/integrated-reports/2021/en.html" data-page-template="Home Page - Standard" data-country-code="glo" data-page-section="integrated-reports" data-callback-delay="1500">
-</div>
-<div class="assetAnalytics" data-sap-global-domains="[concur.com, fieldglass.com, gigya.com, successfactors.eu, sapanalytics.cloud, sapandasug.com, jam4.sapjam.com, saps4hanahub.com, sap.wegone.com, sapsupport.info, sapforum.it, sapappsdevelopmentpartnercenter.com, aribalive.com, concur.cn, concur.co.jp, concur.co.uk, concur.com.sg, sapsf.eu, mailsap.com, sapbydesign.com, yaas.io, sapsf.com, sapdigital.com, sapbusinessobjects.cloud, workconnect.io, digital.sap.com, sap.io, sap.to, growthmattersnetwork.com, saplumira.com, sapappcenter.com, digitalistmag.com, hybris.com, the-future-of-commerce.com, sapmobileconsumertrends.com, sapeducationsolutions.com, sapns2.com, sapvirtualevents.com, streamwork.com, sapstreamwork.com, aboutsapcampbell.com, analytics-usa.com, estara.com, businessobjects.com, businessobjects.com.pl, business-objects.com.pl, businessobjects.pl, business-objects.pl, careersatsap.com, cfolder.de, cfolders.com, cfolders.de, cfolders.net, crystalreports.com, digitalriver.com, edusap.at, fazi.at, fazi.com, fazi.de, futurefactoryinitiative.com, futurefactoryinitiative.org, fuzzy.at, fuzzy.ch, fuzzy-informatik.com, fuzzy-informatik.de, fuzzy-online.com, fuzzy-online.de, infommersion.com, ondemand.com, sap.at, sap.bg, sap.biz, sap.ca, sap.ch, sap.cl, sap.cn, sap.co.at, sap.co.il, sap.co.jp, sap.co.kr, sap.co.nz, sap.co.th, sap.co.uk, sap.co.za, sap.com, sap.com.au, sap.com.cn, sap.com.pl, sap.com.sg, sap.com.tr, sap.com.tw, sap.cz, sap.de, sap.ee, sap.fi, sap.hk, sap.hr, sap.hu, sap.ie, sap.in, sap.info, sap.kz, sap.lu, sap.nl, sap.pl, sap.pt, sap.ro, sap.ru, sap.si, sap.sk, sap.tw, sap.ua, sap.us, sapag.de, sap-ag.de, sapamerica.com, sap-answer.com, sap-austria.com, sap-best-fit-adviser.com, sapbusinessbydesign.cn, sapbusinessbydesign.co.uk, sapbusinessbydesign.com, sapbusinessbydesign.de, sapbusinessbydesign.us, sapbusinessobjects.com.pl, sap-business-objects.com.pl, sapbusinessobjects.pl, sap-business-objects.pl, sapbusinessobjectsresponses.com, sapbusinessone.pl, sap-campbell.com, sapcampbell.net, sapcampbell.org, sapchina.com, sapclear.com, sapconfigurator.com, sapdesignguild.org, sap-event.jp, sapevents.com, sap-forum.de, sap-insights.com, sapkhimetrics.com, saplabs.bg, saplabs.co.in, saplabs.fr, saplabs.in, sapnetweaver.com, sapphirenow.com, sap-retail.de, sapsapphire.com, sapsem.com, sap-spectrum.com, sapstreamwork.com, sapteched.com, sapthai.com, sapturkiye.com.tr, sap-tv.com, sapventures.com, sapworldtour.com, sapworldtour2010.com, steeb.de, sap.corp, saplabs.com, sybase.com, sappartneredge.eu, sapbusinessinthemoment.com, sapbusinessoptimizer.com, sapcampaigns.com, sapcfo.com, sapcpg.com, sapcrystalconfigurator.com, SAPEnterpriseMobility.mobi, sapevent.ch, sapfinancialservices.com, sapforumbimadrid2011.com, sap-im-dialog.com, sap-innovationnow.com, sap-it-leadership.com, sappartnermobileapps.com, sap-readytoboost.com, sapretailtoday.com, saprunprouder.com, sapsponsorships.com, sapstrategichr.com, sapsurvey.com, sapsustainabilitytoday.com, saputilitiestoday.com, sap-webseminare.de, iqformarketers.com, sybase.be, sybase.ca, sybase.ch, sybase.co.kr, sybase.co.uk, sybase.com, sybase.com.ar, sybase.com.au, sybase.com.br, sybase.com.cn, sybase.com.hk, sybase.com.mx, sybase.com.tw, sybase.de, sybase.dk, sybase.es, sybase.fr, sybase.hu, sybase.in, sybase.it, sybase.jp, sybase.nl, sybase.no, sybase.se, sybase365.com, sappartneredge.com, ariba.com, saphana.com, saphanacouncil.com, saphanapartnerrace.com, successfactors.co.kr, successfactors.com, successfactors.com.br, successfactors.com.cn, successfactors.de, successfactors.es, successfactors.jp, successfactors.nl, successfactors.se, sybase.asia, sybase.at, SYBASE.BIZ, sybase.co.at, sybase.co.hu, sybase.co.it, sybase.co.jp, sybase.co.ma, sybase.co.nz, sybase.co.za, sybase.com.ec, sybase.com.es, sybase.com.gr, sybase.com.my, sybase.com.pe, sybase.com.pk, sybase.com.pl, sybase.com.ro, sybase.com.sg, sybase.com.ve, sybase.cz, sybase.ec, sybase.ee, sybase.eu, sybase.hk, sybase.ie, sybase.info, sybase.li, sybase.lu, sybase.mobi, SYBASE.ORG, sybase.ph, sybase.pl, sybase.tw, sybase.us, sybasesolutions.net, syclo.co.uk, syclo.com, syclo.com.br, syclo.de, syclo.es, syclo.it, syclo.mobi, gainthevisibleadvantage.com, getconnected-sap.co.uk, myrunwayapp.com, sapafaria.com, saparpfasttrack.com, sapbusinessonnesolutions.com, sapcloudappspartnercenter.com, sapcustomerexerience.com, sapcycle4youth.com, sapdashboardgallery.com, sapdatacentertour.com, sapdatachallenge.com, sap-milestones.com, sap-milestones.de, sapmobileappspartnercenter.com, sapmobileappspartnercenter.com, sapmobileservices.com, sapmobiletransformation.com, sap-sybase-ase.com, sap-sybase-iq.com, stepaheadwithsap.com, thinkbiggrowfast.net, sapbusinessobjectsbi.com, sapbigdata.com, cloud.sap]" data-sap-account-domains="[account.sap.com, account-qa.sap.com, accounts.sap.com, accounts400.sap.com]">
-</div>
-</div>
-<strong class="accessibility"><a href="#main" tabindex="0" accesskey="S" role="navigation">Skip to Content</a></strong>
-<header id="header" class="tier2">
-<div class="headerStandard genericComponent parbase 1dx-row1 dx-a7b5ef8fbc9825d15edba0e939f7b201d23e383c section"><div data-component="HeaderStandard" data-model="/bin/sapdxc/cache/header/content/integrated-reports/2021/en/_jcr_content/parHeader/headerstandard.model.json" data-show-in-navigation data-country-selector-path="/bin/sapdxc/cache/header/content/integrated-reports/2021/en/_jcr_content/parHeader/headerstandard.model.countryselector.json" data-language-selector-path="/bin/sapdxc/cache/header/content/integrated-reports/2021/en/_jcr_content/parHeader/headerstandard.model.languageselector.json">
-</div></div>
-<div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="parHeader iparsys parsys"></div>
-</div>
-<div class="currentpage-context hidden">
-<a class="contact-module-meta" alt="Contact Us" title="Contact Us" target="_self" href="/content/sapdx/languages/en_us/registration/contact.html?pageTitle=SAP+Integrated+Report+2021&countryOfOrigin=&refererPagePath=https%3A%2F%2Fwww.sap.com%2Fintegrated-reports%2F2021%2Fen.html&refererContentPath=%2Fcontent%2Fintegrated-reports%2F2021%2Fen&navTitle=Contact+Form&topicir=INT03">
-Contact Us
-</a>
-<a class="blueLink fontRegular  contact-us-raq-lightbox contact-us-link" target="_self" href="//www.sap.com/registration/contact-investor.html?navTitle=Contact+Us">Contact Us</a>
-</div>
-</header>
-<div id="main">
-<section class="parsys-content-container">
-<div data-component="ContactUs" data-model="/bin/sapdxc/cache/contactModule/content/integrated-reports/2021/en/_jcr_content/parContactModule/contactModule.model.json" data-design="Contact Module" role="complementary"></div>
-<div></div>
-<div><div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="parBreadCrumb iparsys parsys"></div>
-</div>
-</div>
-<div class="parContent"><div class="heroHomepage section dx-fe708127037ccf0c0a0ef2147af504db181f14c4 1dx-row2">
-<link rel="stylesheet" href="/etc.clientlibs/sapdx/components/modular/heroes/heroHomepage/clientlib.min.6a19bad4374c170bdc2cc7dee0d9b9b1.css" type="text/css">
-<script defer type="text/javascript" src="/etc.clientlibs/sapdx/components/modular/heroes/heroHomepage/clientlib.min.9c5374308ab63cbcb787687451fe3cbc.js"></script>
-<div class="container" data-generic.video.close.label="Close">
-<section class="heroHomepage-root anchor anchorMotionBand positionHorizontal-left positionVertical-center textAligment-left ">
-<div class="full-width-wrapper">
-<div class="background-holder">
-<picture data-loader="pictureFillLoader" data-alt="Image showing virtual connections " class="adaptiveImagesContainer parallax-picture ">
-<source srcset="/dam/application/imagelibrary/photos/291000/291322.jpg/_jcr_content/renditions/291322_homepage_3840_1280.jpg.adapt.1920_640.false.false.false.false.jpg/1644380872613.jpg" media="(min-width: 1241px) and (max-width: 1920px)" data-width="1920" data-height="640">
-<source srcset="/dam/application/imagelibrary/photos/291000/291322.jpg/_jcr_content/renditions/291322_homepage_2743_3840.jpg.adapt.1536_2150.false.false.false.false.jpg/1644380873752.jpg" media="(max-width: 767px) and (-webkit-min-device-pixel-ratio: 2)" data-width="1536" data-height="2150">
-<source srcset="/dam/application/imagelibrary/photos/291000/291322.jpg/_jcr_content/renditions/291322_homepage_3840_2508.jpg.adapt.1960_1280.false.false.false.false.jpg/1644380873000.jpg" media="(min-width: 768px) and (max-width: 980px) and (-webkit-min-device-pixel-ratio: 2)" data-width="1960" data-height="1280">
-<source srcset="/dam/application/imagelibrary/photos/291000/291322.jpg/_jcr_content/renditions/291322_homepage_3840_1982.jpg.adapt.2480_1280.false.false.false.false.jpg/1644380871055.jpg" media="(min-width: 981px) and (max-width: 1240px) and (-webkit-min-device-pixel-ratio: 2)" data-width="2480" data-height="1280">
-<source srcset="/dam/application/imagelibrary/photos/291000/291322.jpg/_jcr_content/renditions/291322_homepage_3840_1280.jpg.adapt.3840_1280.false.false.false.false.jpg/1644380872613.jpg" media="(-webkit-min-device-pixel-ratio: 2) and (min-resolution: 192dpi)" data-width="3840" data-height="1280">
-<source srcset="/dam/application/imagelibrary/photos/291000/291322.jpg/_jcr_content/renditions/291322_homepage_2743_3840.jpg.adapt.768_1075.false.false.false.false.jpg/1644380873752.jpg" media="(max-width: 767px) and (-webkit-max-device-pixel-ratio: 1.99)" data-width="768" data-height="1075">
-<source srcset="/dam/application/imagelibrary/photos/291000/291322.jpg/_jcr_content/renditions/291322_homepage_3840_2508.jpg.adapt.980_640.false.false.false.false.jpg/1644380873000.jpg" media="(min-width: 768px) and (max-width: 980px) and (-webkit-max-device-pixel-ratio: 1.99)" data-width="980" data-height="640">
-<source srcset="/dam/application/imagelibrary/photos/291000/291322.jpg/_jcr_content/renditions/291322_homepage_3840_0640.jpg.adapt.3840_640.false.false.false.false.jpg/1644380867005.jpg" media="(min-width: 1921px)" data-width="3840" data-height="640">
-<source srcset="/dam/application/imagelibrary/photos/291000/291322.jpg/_jcr_content/renditions/291322_homepage_3840_1982.jpg.adapt.1240_640.false.false.false.false.jpg/1644380871055.jpg" media="(min-width: 981px) and (max-width: 1240px) and (-webkit-max-device-pixel-ratio: 1.99)" data-width="1240" data-height="640">
-<img srcset="/dam/application/imagelibrary/photos/291000/291322.jpg/_jcr_content/renditions/291322_homepage_3840_1280.jpg.adapt.1920_640.false.false.false.false.jpg/1644380872613.jpg" data-width="1920" data-height="640" alt="Image showing virtual connections ">
-</picture>
-</div>
-<div class="content-wrapper white">
-<div class="content-container">
-<div class="row">
-<div class="col-xs-12 col-sm-9 col-md-7 col-lg-7">
-<h1 class="ha1 large headline fontStrictBold">SAP Integrated Report 2021<br/></h1>
-<div class="body-text text ">
-</div>
-</div>
-<div class="col-xs-12 col-sm-3 col-md-5 col-lg-5"></div>
-</div>
-</div>
-</div>
-</div>
-<div class="scroll-downs ">
-<div class="mousey">
-<div class="scroller"></div>
-</div>
-</div>
-</section>
-</div>
-</div>
-<div class="navigationIconBarGridVersion2 dx-1217306a9d21982220f7dac28536ad89669b2fa6 section 1dx-row3">
-<div data-model="/integrated-reports/2021/en/_jcr_content/par/navigationiconbargridversion2_copy.model.json" data-component="NavigationIconBarGridVersion2" data-is-edit-mode="false" data-is-login-button="false" data-sf-href="https://performancemanager4.successfactors.com/login#/companyEntry">
-<section class="IconBar__navigationIconBar--BFIL2"><div class="Grid__container--7X0ya"><div class="IconBar__navItems--n7ThE Grid__row--VKNKI "><div class="Grid__col-6--MNe34 Grid__col-sm-6--u6UzZ Grid__col-md-3--zN-TU Grid__col-lg-2--SeQ2b Grid__col-xl-2--ltiWK IconBar__colItem--iWbRf"><a class="Link__normal--CIw4L fontRegularBP IconBar__navItem--cjV6C " href="/docs/download/investors/2021/sap-2021-integrated-report.pdf" target="_self" title=""><span><span class="IconBar__navIcon--tIfOu fiori-icon fiori__fiicon-download--nQ6SL"></span><span class="IconBar__navIconText--GuL7e fontRegular">SAP Integrated Report 2021 (PDF)</span></span></a></div><div class="Grid__col-6--MNe34 Grid__col-sm-6--u6UzZ Grid__col-md-3--zN-TU Grid__col-lg-2--SeQ2b Grid__col-xl-2--ltiWK IconBar__colItem--iWbRf"><a class="Link__normal--CIw4L fontRegularBP IconBar__navItem--cjV6C " href="/docs/download/investors/2021/sap-2021-annual-report-form-20f.pdf" target="_self" title=""><span><span class="IconBar__navIcon--tIfOu fiori-icon fiori__fiicon-download--nQ6SL"></span><span class="IconBar__navIconText--GuL7e fontRegular">SAP Annual Report on Form 20-F 2021 (PDF)</span></span></a></div><div class="Grid__col-6--MNe34 Grid__col-sm-6--u6UzZ Grid__col-md-3--zN-TU Grid__col-lg-2--SeQ2b Grid__col-xl-2--ltiWK IconBar__colItem--iWbRf"><a class="Link__normal--CIw4L fontRegularBP IconBar__navItem--cjV6C " href="https://www.sap.com/integrated-reports/2021/en/interactive-chart-generator.html" target="_self" title=""><span><span class="IconBar__navIcon--tIfOu fiori-icon fiori__fiicon-bar-chart--NkqI1"></span><span class="IconBar__navIconText--GuL7e fontRegular">Chart Generator and Data Download</span></span></a></div></div></div></section>
-</div>
-</div>
-<div class="heroHomepage dx-7a06f1135c06d5933c9206b08d777c677383de84 section 1dx-row4">
-<div class="container" data-generic.video.close.label="Close">
-<section class="heroHomepage-root banner banner positionHorizontal-left positionVertical-top textAligment-left ">
-<div class="full-width-wrapper">
-<div class="background-holder">
-<picture data-loader="pictureFillLoader" data-alt="Christian Klein, CEO" class="adaptiveImagesContainer parallax-picture viewport-lazy lazy">
-<source data-srcset="/dam/application/shared/photos/generic/christian-klein-ir-2022.jpg/_jcr_content/renditions/christian-klein-ir-2022_homepage_3840_1200.jpg.adapt.1920_600.false.false.false.false.jpg/1644377720242.jpg" media="(min-width: 1241px) and (max-width: 1920px)" data-width="1920" data-height="600">
-<source data-srcset="/dam/application/shared/photos/generic/christian-klein-ir-2022.jpg/_jcr_content/renditions/christian-klein-ir-2022_homepage_2880_3840.jpg.adapt.1536_2048.false.false.false.false.jpg/1644377724593.jpg" media="(max-width: 767px) and (-webkit-min-device-pixel-ratio: 2)" data-width="1536" data-height="2048">
-<source data-srcset="/dam/application/shared/photos/generic/christian-klein-ir-2022.jpg/_jcr_content/renditions/christian-klein-ir-2022_homepage_3840_2352.jpg.adapt.1960_1200.false.false.false.false.jpg/1644377724972.jpg" media="(min-width: 768px) and (max-width: 980px) and (-webkit-min-device-pixel-ratio: 2)" data-width="1960" data-height="1200">
-<source data-srcset="/dam/application/shared/photos/generic/christian-klein-ir-2022.jpg/_jcr_content/renditions/christian-klein-ir-2022_homepage_3840_1859.jpg.adapt.2480_1200.false.false.false.false.jpg/1644377723873.jpg" media="(min-width: 981px) and (max-width: 1240px) and (-webkit-min-device-pixel-ratio: 2)" data-width="2480" data-height="1200">
-<source data-srcset="/dam/application/shared/photos/generic/christian-klein-ir-2022.jpg/_jcr_content/renditions/christian-klein-ir-2022_homepage_3840_1200.jpg.adapt.3840_1200.false.false.false.false.jpg/1644377720242.jpg" media="(-webkit-min-device-pixel-ratio: 2) and (min-resolution: 192dpi)" data-width="3840" data-height="1200">
-<source data-srcset="/dam/application/shared/photos/generic/christian-klein-ir-2022.jpg/_jcr_content/renditions/christian-klein-ir-2022_homepage_2880_3840.jpg.adapt.768_1024.false.false.false.false.jpg/1644377724593.jpg" media="(max-width: 767px) and (-webkit-max-device-pixel-ratio: 1.99)" data-width="768" data-height="1024">
-<source data-srcset="/dam/application/shared/photos/generic/christian-klein-ir-2022.jpg/_jcr_content/renditions/christian-klein-ir-2022_homepage_3840_2352.jpg.adapt.980_600.false.false.false.false.jpg/1644377724972.jpg" media="(min-width: 768px) and (max-width: 980px) and (-webkit-max-device-pixel-ratio: 1.99)" data-width="980" data-height="600">
-<source data-srcset="/dam/application/shared/photos/generic/christian-klein-ir-2022.jpg/_jcr_content/renditions/christian-klein-ir-2022_homepage_3840_0600.jpg.adapt.3840_600.false.false.false.false.jpg/1644377720242.jpg" media="(min-width: 1921px)" data-width="3840" data-height="600">
-<source data-srcset="/dam/application/shared/photos/generic/christian-klein-ir-2022.jpg/_jcr_content/renditions/christian-klein-ir-2022_homepage_3840_1859.jpg.adapt.1240_600.false.false.false.false.jpg/1644377723873.jpg" media="(min-width: 981px) and (max-width: 1240px) and (-webkit-max-device-pixel-ratio: 1.99)" data-width="1240" data-height="600">
-<img data-srcset="/dam/application/shared/photos/generic/christian-klein-ir-2022.jpg/_jcr_content/renditions/christian-klein-ir-2022_homepage_3840_1200.jpg.adapt.1920_600.false.false.false.false.jpg/1644377720242.jpg" data-width="1920" data-height="600" alt="Christian Klein, CEO">
-</picture>
-</div>
-<div class="content-wrapper white">
-<div class="content-container">
-<div class="row">
-<div class="col-xs-12 col-sm-9 col-md-7 col-lg-7">
-<h2 class="ha1 large headline fontStrictBold">Letter from the CEO<br/></h2>
-<div class="body-text text ">
-        CEO Christian Klein explains the company’s development in 2021 and discusses strategic growth levers for the years to come.
-</div>
-<ul class="buttons"><li>
-<a class="button2017 version1 single" target="_self" href="https://www.sap.com/integrated-reports/2021/en/letter-from-the-ceo.html">
-<span class="buttonText">Read the CEO Letter</span>
-<span class="hoverboxes"><span class="hoverbox"></span><span class="hoverbox"></span><span class="hoverbox"></span></span>
-</a>
-</li></ul>
-</div>
-<div class="col-xs-12 col-sm-3 col-md-5 col-lg-5"></div>
-</div>
-</div>
-</div>
-</div>
-</section>
-</div>
-</div>
-<div class="navigationIconBarGridVersion2 section dx-f56bea44980cd4b9c14fadde1e5b70ee8b1dad66 1dx-row5">
-<div data-model="/integrated-reports/2021/en/_jcr_content/par/navigationiconbargridversion2_copy_copy.model.json" data-component="NavigationIconBarGridVersion2" data-is-edit-mode="false" data-is-login-button="false" data-sf-href="https://performancemanager4.successfactors.com/login#/companyEntry">
-<section class="IconBar__navigationIconBar--BFIL2"><div class="Grid__container--7X0ya"><div class="IconBar__navItems--n7ThE Grid__row--VKNKI "><div class="Grid__col-6--MNe34 Grid__col-sm-6--u6UzZ Grid__col-md-3--zN-TU Grid__col-lg-2--SeQ2b Grid__col-xl-2--ltiWK IconBar__colItem--iWbRf"><a class="Link__normal--CIw4L fontRegularBP IconBar__navItem--cjV6C " href="https://www.sap.com/integrated-reports/2021/en/primary-consolidated-financial-statements.html" target="_self" title=""><span><span class="IconBar__navIcon--tIfOu fiori-icon fiori__fiicon-sales-document--nc-cO"></span><span class="IconBar__navIconText--GuL7e fontRegular">Consolidated Financial Statements (IFRS)</span></span></a></div><div class="Grid__col-6--MNe34 Grid__col-sm-6--u6UzZ Grid__col-md-3--zN-TU Grid__col-lg-2--SeQ2b Grid__col-xl-2--ltiWK IconBar__colItem--iWbRf"><a class="Link__normal--CIw4L fontRegularBP IconBar__navItem--cjV6C " href="https://www.sap.com/integrated-reports/2021/en/five-year-summary.html" target="_self" title=""><span><span class="IconBar__navIcon--tIfOu fiori-icon fiori__fiicon-excel-attachment--It-YZ"></span><span class="IconBar__navIconText--GuL7e fontRegular">Five-Year Summary</span></span></a></div><div class="Grid__col-6--MNe34 Grid__col-sm-6--u6UzZ Grid__col-md-3--zN-TU Grid__col-lg-2--SeQ2b Grid__col-xl-2--ltiWK IconBar__colItem--iWbRf"><a class="Link__normal--CIw4L fontRegularBP IconBar__navItem--cjV6C " href="/docs/download/investors/2022/sap-2022-corporate-glossary.pdf" target="_self" title=""><span><span class="IconBar__navIcon--tIfOu fiori-icon fiori__fiicon-address-book--HauQd"></span><span class="IconBar__navIconText--GuL7e fontRegular">SAP Corporate Glossary</span></span></a></div></div></div></section>
-</div>
-</div>
-<div class="heroTiles dx-5a697f75de4301c23e21991aa56f01bf9fc9eb84 1dx-row6 section">
-<div data-component="HeroTiles" data-model="/integrated-reports/2021/en/_jcr_content/par/herotiles_copy.model.json" data-is-edit-mode="false">
-</div>
-</div>
-<div class="heroHomepage 1dx-row7 section dx-5048be9af350bf26e5d1669676af7bcac763bc00">
-<div class="container" data-generic.video.close.label="Close">
-<section class="heroHomepage-root banner banner positionHorizontal-left positionVertical-top textAligment-left ">
-<div class="full-width-wrapper">
-<div class="background-holder">
-<picture data-loader="pictureFillLoader" data-alt="woman in front of an interactive touch screen" class="adaptiveImagesContainer parallax-picture viewport-lazy lazy">
-<source data-srcset="/dam/application/imagelibrary/photos/289000/289311.jpg/_jcr_content/renditions/289311_homepage_3840_1200.jpg.adapt.1920_600.true.false.false.false.jpg/1634872143996.jpg" media="(min-width: 1241px) and (max-width: 1920px)" data-width="1920" data-height="600">
-<source data-srcset="/dam/application/imagelibrary/photos/289000/289311.jpg/_jcr_content/renditions/289311_homepage_2880_3840.jpg.adapt.1536_2048.true.false.false.false.jpg/1634872146696.jpg" media="(max-width: 767px) and (-webkit-min-device-pixel-ratio: 2)" data-width="1536" data-height="2048">
-<source data-srcset="/dam/application/imagelibrary/photos/289000/289311.jpg/_jcr_content/renditions/289311_homepage_3840_2352.jpg.adapt.1960_1200.true.false.false.false.jpg/1634872147911.jpg" media="(min-width: 768px) and (max-width: 980px) and (-webkit-min-device-pixel-ratio: 2)" data-width="1960" data-height="1200">
-<source data-srcset="/dam/application/imagelibrary/photos/289000/289311.jpg/_jcr_content/renditions/289311_homepage_3840_1859.jpg.adapt.2480_1200.true.false.false.false.jpg/1634872147903.jpg" media="(min-width: 981px) and (max-width: 1240px) and (-webkit-min-device-pixel-ratio: 2)" data-width="2480" data-height="1200">
-<source data-srcset="/dam/application/imagelibrary/photos/289000/289311.jpg/_jcr_content/renditions/289311_homepage_3840_1200.jpg.adapt.3840_1200.true.false.false.false.jpg/1634872143996.jpg" media="(-webkit-min-device-pixel-ratio: 2) and (min-resolution: 192dpi)" data-width="3840" data-height="1200">
-<source data-srcset="/dam/application/imagelibrary/photos/289000/289311.jpg/_jcr_content/renditions/289311_homepage_2880_3840.jpg.adapt.768_1024.true.false.false.false.jpg/1634872146696.jpg" media="(max-width: 767px) and (-webkit-max-device-pixel-ratio: 1.99)" data-width="768" data-height="1024">
-<source data-srcset="/dam/application/imagelibrary/photos/289000/289311.jpg/_jcr_content/renditions/289311_homepage_3840_2352.jpg.adapt.980_600.true.false.false.false.jpg/1634872147911.jpg" media="(min-width: 768px) and (max-width: 980px) and (-webkit-max-device-pixel-ratio: 1.99)" data-width="980" data-height="600">
-<source data-srcset="/dam/application/imagelibrary/photos/289000/289311.jpg/_jcr_content/renditions/289311_homepage_3840_0600.jpg.adapt.3840_600.true.false.false.false.jpg/1634872139913.jpg" media="(min-width: 1921px)" data-width="3840" data-height="600">
-<source data-srcset="/dam/application/imagelibrary/photos/289000/289311.jpg/_jcr_content/renditions/289311_homepage_3840_1859.jpg.adapt.1240_600.true.false.false.false.jpg/1634872147903.jpg" media="(min-width: 981px) and (max-width: 1240px) and (-webkit-max-device-pixel-ratio: 1.99)" data-width="1240" data-height="600">
-<img data-srcset="/dam/application/imagelibrary/photos/289000/289311.jpg/_jcr_content/renditions/289311_homepage_3840_1200.jpg.adapt.1920_600.true.false.false.false.jpg/1634872143996.jpg" data-width="1920" data-height="600" alt="woman in front of an interactive touch screen">
-</picture>
-</div>
-<div class="content-wrapper white">
-<div class="content-container">
-<div class="row">
-<div class="col-xs-12 col-sm-9 col-md-7 col-lg-7">
-<h2 class="ha1 large headline fontStrictBold">Financial Performance<br/></h2>
-<div class="body-text text ">
-        We delivered an exceptional year, with record cloud growth, exceeding our outlook for cloud and software revenue and operating profit.
-</div>
-<ul class="buttons"><li>
-<a class="button2017 version1 single" target="_self" href="https://www.sap.com/integrated-reports/2021/en/financial-performance.html">
-<span class="buttonText">Read more</span>
-<span class="hoverboxes"><span class="hoverbox"></span><span class="hoverbox"></span><span class="hoverbox"></span></span>
-</a>
-</li></ul>
-</div>
-<div class="col-xs-12 col-sm-3 col-md-5 col-lg-5"></div>
-</div>
-</div>
-</div>
-</div>
-</section>
-</div>
-</div>
-<div class="heroHomepage dx-409eb5845545e49725da154917c8a3c3c3dec6a1 section 1dx-row8">
-<div class="container" data-generic.video.close.label="Close">
-<section class="heroHomepage-root banner banner positionHorizontal-left positionVertical-top textAligment-left ">
-<div class="full-width-wrapper">
-<div class="background-holder">
-<picture data-loader="pictureFillLoader" data-alt="Man and two women discussing results" class="adaptiveImagesContainer parallax-picture viewport-lazy lazy">
-<source data-srcset="/dam/application/imagelibrary/photos/291000/291515.jpg/_jcr_content/renditions/291515_homepage_3840_1200.jpg.adapt.1920_600.false.false.false.false.jpg/1644340701329.jpg" media="(min-width: 1241px) and (max-width: 1920px)" data-width="1920" data-height="600">
-<source data-srcset="/dam/application/imagelibrary/photos/291000/291515.jpg/_jcr_content/renditions/291515_homepage_2880_3840.jpg.adapt.1536_2048.false.false.false.false.jpg/1644340703917.jpg" media="(max-width: 767px) and (-webkit-min-device-pixel-ratio: 2)" data-width="1536" data-height="2048">
-<source data-srcset="/dam/application/imagelibrary/photos/291000/291515.jpg/_jcr_content/renditions/291515_homepage_3840_2352.jpg.adapt.1960_1200.false.false.false.false.jpg/1644340709045.jpg" media="(min-width: 768px) and (max-width: 980px) and (-webkit-min-device-pixel-ratio: 2)" data-width="1960" data-height="1200">
-<source data-srcset="/dam/application/imagelibrary/photos/291000/291515.jpg/_jcr_content/renditions/291515_homepage_3840_1859.jpg.adapt.2480_1200.false.false.false.false.jpg/1644340708062.jpg" media="(min-width: 981px) and (max-width: 1240px) and (-webkit-min-device-pixel-ratio: 2)" data-width="2480" data-height="1200">
-<source data-srcset="/dam/application/imagelibrary/photos/291000/291515.jpg/_jcr_content/renditions/291515_homepage_3840_1200.jpg.adapt.3840_1200.false.false.false.false.jpg/1644340701329.jpg" media="(-webkit-min-device-pixel-ratio: 2) and (min-resolution: 192dpi)" data-width="3840" data-height="1200">
-<source data-srcset="/dam/application/imagelibrary/photos/291000/291515.jpg/_jcr_content/renditions/291515_homepage_2880_3840.jpg.adapt.768_1024.false.false.false.false.jpg/1644340703917.jpg" media="(max-width: 767px) and (-webkit-max-device-pixel-ratio: 1.99)" data-width="768" data-height="1024">
-<source data-srcset="/dam/application/imagelibrary/photos/291000/291515.jpg/_jcr_content/renditions/291515_homepage_3840_2352.jpg.adapt.980_600.false.false.false.false.jpg/1644340709045.jpg" media="(min-width: 768px) and (max-width: 980px) and (-webkit-max-device-pixel-ratio: 1.99)" data-width="980" data-height="600">
-<source data-srcset="/dam/application/imagelibrary/photos/291000/291515.jpg/_jcr_content/renditions/291515_homepage_3840_0600.jpg.adapt.3840_600.false.false.false.false.jpg/1644340700157.jpg" media="(min-width: 1921px)" data-width="3840" data-height="600">
-<source data-srcset="/dam/application/imagelibrary/photos/291000/291515.jpg/_jcr_content/renditions/291515_homepage_3840_1859.jpg.adapt.1240_600.false.false.false.false.jpg/1644340708062.jpg" media="(min-width: 981px) and (max-width: 1240px) and (-webkit-max-device-pixel-ratio: 1.99)" data-width="1240" data-height="600">
-<img data-srcset="/dam/application/imagelibrary/photos/291000/291515.jpg/_jcr_content/renditions/291515_homepage_3840_1200.jpg.adapt.1920_600.false.false.false.false.jpg/1644340701329.jpg" data-width="1920" data-height="600" alt="Man and two women discussing results">
-</picture>
-</div>
-<div class="content-wrapper white">
-<div class="content-container">
-<div class="row">
-<div class="col-xs-12 col-sm-9 col-md-7 col-lg-7">
-<h2 class="ha1 large headline fontStrictBold">Social Performance<br/></h2>
-<div class="body-text text ">
-        A diverse and engaged workforce is key to SAP’s success. Here you will find a summary of our social performance indicators in 2021.
-</div>
-<ul class="buttons"><li>
-<a class="button2017 version1 single" target="_self" href="https://www.sap.com/integrated-reports/2021/en/social-performance.html">
-<span class="buttonText">Read more</span>
-<span class="hoverboxes"><span class="hoverbox"></span><span class="hoverbox"></span><span class="hoverbox"></span></span>
-</a>
-</li></ul>
-</div>
-<div class="col-xs-12 col-sm-3 col-md-5 col-lg-5"></div>
-</div>
-</div>
-</div>
-</div>
-</section>
-</div>
-</div>
-<div class="heroHomepage dx-56d5d4219d542829cf516281a05c4c071b6dbd47 section 1dx-row9">
-<div class="container" data-generic.video.close.label="Close">
-<section class="heroHomepage-root banner banner positionHorizontal-left positionVertical-top textAligment-left ">
-<div class="full-width-wrapper">
-<div class="background-holder">
-<picture data-loader="pictureFillLoader" data-alt="wind turbines on hills with raising sun in the background" class="adaptiveImagesContainer parallax-picture viewport-lazy lazy">
-<source data-srcset="/dam/application/imagelibrary/photos/291000/291297.jpg/_jcr_content/renditions/291297_homepage_3840_1200.jpg.adapt.1920_600.false.false.false.false.jpg/1641406442856.jpg" media="(min-width: 1241px) and (max-width: 1920px)" data-width="1920" data-height="600">
-<source data-srcset="/dam/application/imagelibrary/photos/291000/291297.jpg/_jcr_content/renditions/291297_homepage_2880_3840.jpg.adapt.1536_2048.false.false.false.false.jpg/1641335396881.jpg" media="(max-width: 767px) and (-webkit-min-device-pixel-ratio: 2)" data-width="1536" data-height="2048">
-<source data-srcset="/dam/application/imagelibrary/photos/291000/291297.jpg/_jcr_content/renditions/291297_homepage_3840_2352.jpg.adapt.1960_1200.false.false.false.false.jpg/1641335397165.jpg" media="(min-width: 768px) and (max-width: 980px) and (-webkit-min-device-pixel-ratio: 2)" data-width="1960" data-height="1200">
-<source data-srcset="/dam/application/imagelibrary/photos/291000/291297.jpg/_jcr_content/renditions/291297_homepage_3840_1859.jpg.adapt.2480_1200.false.false.false.false.jpg/1641406441450.jpg" media="(min-width: 981px) and (max-width: 1240px) and (-webkit-min-device-pixel-ratio: 2)" data-width="2480" data-height="1200">
-<source data-srcset="/dam/application/imagelibrary/photos/291000/291297.jpg/_jcr_content/renditions/291297_homepage_3840_1200.jpg.adapt.3840_1200.false.false.false.false.jpg/1641406442856.jpg" media="(-webkit-min-device-pixel-ratio: 2) and (min-resolution: 192dpi)" data-width="3840" data-height="1200">
-<source data-srcset="/dam/application/imagelibrary/photos/291000/291297.jpg/_jcr_content/renditions/291297_homepage_2880_3840.jpg.adapt.768_1024.false.false.false.false.jpg/1641335396881.jpg" media="(max-width: 767px) and (-webkit-max-device-pixel-ratio: 1.99)" data-width="768" data-height="1024">
-<source data-srcset="/dam/application/imagelibrary/photos/291000/291297.jpg/_jcr_content/renditions/291297_homepage_3840_2352.jpg.adapt.980_600.false.false.false.false.jpg/1641335397165.jpg" media="(min-width: 768px) and (max-width: 980px) and (-webkit-max-device-pixel-ratio: 1.99)" data-width="980" data-height="600">
-<source data-srcset="/dam/application/imagelibrary/photos/291000/291297.jpg/_jcr_content/renditions/291297_homepage_3840_0600.jpg.adapt.3840_600.false.false.false.false.jpg/1641335378848.jpg" media="(min-width: 1921px)" data-width="3840" data-height="600">
-<source data-srcset="/dam/application/imagelibrary/photos/291000/291297.jpg/_jcr_content/renditions/291297_homepage_3840_1859.jpg.adapt.1240_600.false.false.false.false.jpg/1641406441450.jpg" media="(min-width: 981px) and (max-width: 1240px) and (-webkit-max-device-pixel-ratio: 1.99)" data-width="1240" data-height="600">
-<img data-srcset="/dam/application/imagelibrary/photos/291000/291297.jpg/_jcr_content/renditions/291297_homepage_3840_1200.jpg.adapt.1920_600.false.false.false.false.jpg/1641406442856.jpg" data-width="1920" data-height="600" alt="wind turbines on hills with raising sun in the background">
-</picture>
-</div>
-<div class="content-wrapper black">
-<div class="content-container">
-<div class="row">
-<div class="col-xs-12 col-sm-9 col-md-7 col-lg-7">
-<h2 class="ha1 large headline fontStrictBold">Environmental Performance<br/></h2>
-<div class="body-text text ">
-        A company’s environmental impact is more important than ever. Here you will find a summary of the related performance indicators in 2021.
-</div>
-<ul class="buttons"><li>
-<a class="button2017 version1 single" target="_self" href="https://www.sap.com/integrated-reports/2021/en/environmental-performance.html">
-<span class="buttonText">Read more</span>
-<span class="hoverboxes"><span class="hoverbox"></span><span class="hoverbox"></span><span class="hoverbox"></span></span>
-</a>
-</li></ul>
-</div>
-<div class="col-xs-12 col-sm-3 col-md-5 col-lg-5"></div>
-</div>
-</div>
-</div>
-</div>
-</section>
-</div>
-</div>
-</div>
-</section>
-</div>
-<div id="consent_blackbar" role="banner"></div>
-<div id="teconsent"></div>
-<footer id="footer" data-activity-map-region="Footer" class="tier2">
-<div class="footer genericComponent parbase dx-74e8161296d9fc3c25beda193c7a1de8768f8f29 section 1dx-row10">
-<div data-component="Footer" data-model="/bin/sapdxc/cache/footer/content/integrated-reports/2021/en/_jcr_content/parFooter/footer.model.json" data-mailto-link="https://www.sap.com/integrated-reports/2021/en.asset-id-903be721-1b7e-0010-bca6-c68f7e60039b.html">
-<!-- SDI include (path: /content/integrated-reports/2021/en/_jcr_content/parFooter/footer.asset-id-903be721-1b7e-0010-bca6-c68f7e60039b.cache.html, resourceType: sapdx/components/modular/nav/footer/footerSSR) -->
-<div class="Footer__root--fhJyO fontBookBP Footer__tier2--jOYaD"><div class="Grid__container--7X0ya"><div class="Grid__row--VKNKI "><div class="Grid__col-12--7Dsx8 Grid__col-sm-4--ay-1g Grid__col-lg-3--Afzxx "><div class="NavigationColumn__root--jheSe NavigationColumn__tier2--QdzMQ"><h3 class="NavigationColumn__title--3x2kD"><button class="NavigationColumn__accordionOpener--5HFJI fontMediumBP NavigationColumn__tier2--QdzMQ NavigationColumn__phone--jDXCs" aria-disabled="false" aria-expanded="false"><span>Quick Links</span></button></h3><div style="height:0"><div><ul class="NavigationList__root--No5zo"><li><a class="NavigationList__navigationLink--Icnc1 fontBookBP NavigationList__tier2--xVf7f" href="//www.sap.com/sustainability.html" target="_self">Sustainability Management</a></li><li><a class="NavigationList__navigationLink--Icnc1 fontBookBP NavigationList__tier2--xVf7f" href="//www.sap.com/intelligent-enterprise.html" target="_self">Intelligent Enterprise</a></li><li><a class="NavigationList__navigationLink--Icnc1 fontBookBP NavigationList__tier2--xVf7f" href="//www.sap.com/products/sme-business-software.html" target="_self">Small and Midsize Enterprises</a></li><li><a class="NavigationList__navigationLink--Icnc1 fontBookBP NavigationList__tier2--xVf7f" href="//www.sap.com/about/trust-center.html" target="_self">SAP Trust Center</a></li><li><a class="NavigationList__navigationLink--Icnc1 fontBookBP NavigationList__tier2--xVf7f" href="//www.sap.com/insights.html" target="_blank">SAP Insights</a></li><li><a class="NavigationList__navigationLink--Icnc1 fontBookBP NavigationList__tier2--xVf7f" href="https://community.sap.com/" target="_blank">SAP Community</a></li><li><a class="NavigationList__navigationLink--Icnc1 fontBookBP NavigationList__tier2--xVf7f" href="https://developers.sap.com/" target="_blank">Developer</a></li><li><a class="NavigationList__navigationLink--Icnc1 fontBookBP NavigationList__tier2--xVf7f" href="https://support.sap.com/en/index.html" target="_blank">Support Portal</a></li></ul></div></div></div></div><div class="Grid__col-12--7Dsx8 Grid__col-sm-4--ay-1g Grid__col-lg-3--Afzxx "><div class="NavigationColumn__root--jheSe NavigationColumn__tier2--QdzMQ"><h3 class="NavigationColumn__title--3x2kD"><button class="NavigationColumn__accordionOpener--5HFJI fontMediumBP NavigationColumn__tier2--QdzMQ NavigationColumn__phone--jDXCs" aria-disabled="false" aria-expanded="false"><span>About SAP</span></button></h3><div style="height:0"><div><ul class="NavigationList__root--No5zo"><li><a class="NavigationList__navigationLink--Icnc1 fontBookBP NavigationList__tier2--xVf7f" href="//www.sap.com/about/company.html" target="_self">Company Information</a></li><li><a class="NavigationList__navigationLink--Icnc1 fontBookBP NavigationList__tier2--xVf7f" href="//www.sap.com/about/company/office-locations.html" target="_self">Worldwide Directory</a></li><li><a class="NavigationList__navigationLink--Icnc1 fontBookBP NavigationList__tier2--xVf7f" href="https://www.sap.com/investors/en.html" target="_blank">Investor Relations</a></li><li><a class="NavigationList__navigationLink--Icnc1 fontBookBP NavigationList__tier2--xVf7f" href="https://jobs.sap.com/?utm_source=CareerSite&amp;utm_campaign=CorpSite_FT" target="_self">Careers</a></li><li><a class="NavigationList__navigationLink--Icnc1 fontBookBP NavigationList__tier2--xVf7f" href="https://news.sap.com/" target="_blank">News and Press</a></li><li><a class="NavigationList__navigationLink--Icnc1 fontBookBP NavigationList__tier2--xVf7f" href="//www.sap.com/events.html" target="_self">Events</a></li><li><a class="NavigationList__navigationLink--Icnc1 fontBookBP NavigationList__tier2--xVf7f" href="//www.sap.com/about/customer-stories.html" target="_self">Customer Stories</a></li><li><a class="NavigationList__navigationLink--Icnc1 fontBookBP NavigationList__tier2--xVf7f" href="//www.sap.com/dashboard/newsletters.html" target="_self" title=" ">Newsletter</a></li></ul></div></div></div></div><div class="Grid__col-12--7Dsx8 Grid__col-sm-4--ay-1g Grid__col-lg-3--Afzxx "><div class="NavigationColumn__root--jheSe NavigationColumn__tier2--QdzMQ"><h3 class="NavigationColumn__title--3x2kD"><button class="NavigationColumn__accordionOpener--5HFJI fontMediumBP NavigationColumn__tier2--QdzMQ NavigationColumn__phone--jDXCs" aria-disabled="false" aria-expanded="false"><span>Site Information</span></button></h3><div style="height:0"><div><ul class="NavigationList__root--No5zo"><li><a class="NavigationList__navigationLink--Icnc1 fontBookBP NavigationList__tier2--xVf7f" href="https://www.sap.com/corporate/en/legal/privacy.html" target="_self">Privacy</a></li><li><a class="NavigationList__navigationLink--Icnc1 fontBookBP NavigationList__tier2--xVf7f" href="https://www.sap.com/corporate/en/legal/terms-of-use.html" target="_self">Terms of Use</a></li><li><a class="NavigationList__navigationLink--Icnc1 fontBookBP NavigationList__tier2--xVf7f" href="https://www.sap.com/corporate/en/legal/impressum.html" target="_self">Legal Disclosure</a></li><li><a class="NavigationList__navigationLink--Icnc1 fontBookBP NavigationList__tier2--xVf7f" href="//www.sap.com/about/legal/copyright.html" target="_self">Copyright</a></li><li><a class="NavigationList__navigationLink--Icnc1 fontBookBP NavigationList__tier2--xVf7f" href="//www.sap.com/about/legal/trademark.html" target="_self">Trademark</a></li><li><a class="NavigationList__navigationLink--Icnc1 fontBookBP NavigationList__tier2--xVf7f" href="//www.sap.com/site-map.html" target="_self" title="Sitemap">Sitemap</a></li><li><a class="NavigationList__navigationLink--Icnc1 fontBookBP NavigationList__tier2--xVf7f" href="#" target="_self" title="Text View">Text View</a></li></ul></div></div></div></div></div><div class="SubNavigation__root--FPOrQ SubNavigation__tier2--Bx55L"><div class="Grid__row--VKNKI "><div class="Grid__col-12--7Dsx8 Grid__col-sm-8--SG-k- Grid__col-md-8--F+Bn+ Grid__col-lg-6--zgCt- SubNavigation__socialContainer--lVUk7"><div class="SocialLinks__root--tZ3T3 SocialLinks__tier2--SXpTV"><h4 class="SocialLinks__title--nKCTL fontBookBP SocialLinks__tier2--SXpTV">Find us on</h4><ul class="SocialLinks__list--ftITi"><li class="SocialLinks__item--0TUju"><a class="SocialLinks__link--8zfws SocialLinks__tier2--SXpTV" href="https://www.facebook.com/SAP" title="Facebook" target="_blank" rel="noopener noreferrer" data-share-channel="facebook" data-share-tracking-analytics="FOLLOW" data-share-url="undefined?source=social-atw-facebook"><div style="width:16px;height:16px"></div></a></li><li class="SocialLinks__item--0TUju"><a class="SocialLinks__link--8zfws SocialLinks__tier2--SXpTV" href="https://twitter.com/sap" title="Twitter" target="_blank" rel="noopener noreferrer" data-share-channel="twitter" data-share-tracking-analytics="FOLLOW" data-share-url="undefined?source=social-atw-twitter"><div style="width:16px;height:16px"></div></a></li><li class="SocialLinks__item--0TUju"><a class="SocialLinks__link--8zfws SocialLinks__tier2--SXpTV" href="https://www.youtube.com/user/SAP" title="YouTube" target="_blank" rel="noopener noreferrer" data-share-channel="youtube" data-share-tracking-analytics="FOLLOW" data-share-url="undefined?source=social-atw-youtube"><div style="width:16px;height:16px"></div></a></li><li class="SocialLinks__item--0TUju"><a class="SocialLinks__link--8zfws SocialLinks__tier2--SXpTV" href="https://www.linkedin.com/company/sap" title="LinkedIn" target="_blank" rel="noopener noreferrer" data-share-channel="linkedin" data-share-tracking-analytics="FOLLOW" data-share-url="undefined?source=social-atw-linkedin"><div style="width:16px;height:16px"></div></a></li><li class="SocialLinks__item--0TUju"><a class="SocialLinks__link--8zfws SocialLinks__tier2--SXpTV" href="https://www.instagram.com/sap/" title="Instagram" target="_blank" rel="noopener noreferrer" data-share-channel="instagram" data-share-tracking-analytics="FOLLOW" data-share-url="undefined?source=social-atw-instagram"><div style="width:16px;height:16px"></div></a></li><li class="SocialLinks__item--0TUju"><a class="SocialLinks__link--8zfws SocialLinks__tier2--SXpTV" href="mailto:?body=undefined%3Fsource%3Dsocial-atw-mailto" title="Email share" target="_self" data-share-channel="mailto" data-share-tracking-analytics="SHARE"><div style="width:16px;height:16px"></div></a></li></ul></div></div><div class="Grid__col-12--7Dsx8 Grid__col-sm-4--ay-1g Grid__col-md-4--i2Poc Grid__col-lg-6--zgCt- "><div class="SubNavigation__logoContainer--yWJsV"><div class="Logo__root--RRyCk"><span class="Logo__logo--XLOCI" target="_self"><img class="Logo__image--KgNwb"/></span></div></div></div></div></div></div></div>
-</div>
-</div>
-<div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="parFooter iparsys parsys"></div>
-</div>
-</footer>
-<div id="bPopup-container">
-<span class="b-close"></span>
-<div class="bPopup-content"></div>
-</div>
-<strong class="accessibility"><a href="#page" role="navigation">Back to top</a></strong>
-</div>
-<div class="i18nContainer hidden">
-<div class="trialsKeys" data-forms.registration.gatedassets-trials.headline.title="Thank you for your interest in SAP" data-fd_Submit="Submit" data-forms.trial.scenario.eula.headline.text="End user license agreement" data-forms.trial.scenario.technicalerror.headline.title="Get your free trial" data-forms.trial.scenario.technicalerror.headline.text="Sorry" data-forms.trial.scenario.technicalerror.message="Unfortunately, a technical error occurred when processing your request. Please try again." data-form.registration.confirmationscreen.link.text="Close this window and go back to SAP.com" data-forms.trial.scenario.confirmation.headline.text="Welcome to your free trial" data-forms.trial.scenario.confirmation.button.label="Click here to start your trial!" data-forms.trial.scenario.technicalerror.nonexistingtrial.message="Our apologies, but the requested trial does not exist." data-forms.trial.scenario.technicalerror.secondaryevaluation.message="Our apologies, but this solution cannot currently be provided. We will e-mail you as soon as this problem has been solved." data-forms.trial.scenario.eula.validation.text="Please acknowledge that you have read the end user license agreement." data-forms.generic.scenario.gtscheckfailed.message="Your request for information is being reviewed. Once approved, you’ll receive an e-mail with additional instructions." data-forms.generic.scenario.gtsdatamismatched.message="Some of your information doesn’t match what we have in your profile. Please log out of SAP.com, log in with the correct account, and resubmit the form with the original information provided." data-forms.registration.statusbar.register.label="Register" data-forms.registration.statusbar.verifyemail.label="Verify your e-mail" data-forms.registration.statusbar.eula.label="Accept license agreement" data-forms.registration.statusbar.viewContent.label="Access your content" data-forms.registration.statusbar.accessresources.label="Access all resources">
-</div>
-</div>
-<div class="hidden lightboxI18nContainer" data-forms.lightbox.documentnotfound.maintitle.text="Message" data-forms.lightbox.documentnotfound.headline.text="Document can’t be found" data-forms.lightbox.documentnotfound.paragraph.text="Our apologies! The document you are looking for may have been removed or is temporarily unavailable." data-forms.lightbox.documentnotfound.submit.button.label="Ok" data-forms.lightbox.videonotfound.maintitle.text="Message" data-forms.lightbox.videonotfound.headline.text="Video can’t be found" data-forms.lightbox.videonotfound.paragraph.text="Our apologies! The video you are looking for may have been removed or is temporarily unavailable." data-forms.lightbox.videonotfound.submit.button.label="Ok" data-lightbox.search.nomatches.text="Phrase not found" data-lightbox.search.totalmatches.template="{0} entries found" data-lightbox.search.currentmatch.template="{0} of {1}" data-lightbox.close.label="Close" data-2017.form.browsercompatibility.maintitle.text="Notification" data-2017.form.browsercompatibility.headline.text="Dear visitor of the SAP Integrated Report," data-2017.form.browsercompatibility.paragraph.text="We would like to inform you that during our quality assurance testing Microsoft Internet Explorer showed some performance issues when loading PDFs. If you experience any inconvenient delays, we recommend switching to a different browser.Thank you for your understanding." data-2017.form.browsercompatibility.button.confirm.label="Ok">
-</div>
-<script class="markupLigtbox" type="text/x-handlebars-template">
-    <div class="lightboxPopup" id="openPopup">
-        <section>
-            <div class="loadingBar">
-                <div class="bar bar-first"></div>
-                <div class="bar bar-second"></div>
-                <div class="bar bar-third"></div>
-            </div>
-        </section>
-        <div class="lightboxContainer">
-            <div class="popupHeader container-extended">
-                <div class="header-container grid-container">
-                    <div class="row">
-                        <div class="col-xs-11 col-sm-10 col-md-10 col-lg-10">
-                            <div class="sectionTitle he fontBook">{{assetTitle}}</div>
-                            <div class="descriptionText text">{{assetDescription}}</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="toolbar-container {{#if pageRating}}{{pageRating}} col-xlg-12 col-lg-12 col-md-12 col-xs-12 col{{/if}}">
-                    <nav class="toolbar">
-                        <ul class="toolbar-list">
-                            <li><a id="download-link" class="toolbtn download icon-download exclude-ligthbox-handler"></a></li>
-                            <li><a target="_top" class="toolbtn mail icon-email exclude-ligthbox-handler" data-share-tracking-analytics="SHARE" data-share-channel="mailto"></a></li>
-                            <li class="share-wrap"><a class="toolbtn share icon-share"></a>
-                                <ul class="share-dropdown">
-                                    {{#each socialItems}}
-                                        <li class="fontLight">
-                                            <a
-                                                title="{{title}}"
-                                                data-share-channel="{{share-channel}}"
-                                                data-share-tracking-analytics="SHARE"
-                                                target="_blank"
-                                                data-share-url="{{resourceLink}}"
-                                                data-is-share-link="true"
-                                            >
-                                                <span class="{{class}}"></span>{{title}}
-                                            </a>
-                                        </li>
-                                    {{/each }}
-                                </ul>
-                            </li>
-                            <li class="rating-message initial hidden">
-                                <div class="thanksLikeBlock ds-body ds-body--l fontBook"></div>
-                                <div class="thanksDisliking fontRegular"></div>
-                                <div class="question firstQuestion initial">
-                                    <div class="question-headline ds-body fontBook"></div>
-                                    <div class="question-buttons">
-                                        <div class="button-block">
-                                            <a class="like-button ds-button ds-button--secondary ds-button--secondary--white fontRegular ds-m-r-m ds-m-l-l"></a>
-                                            <a class="dislike-button dislike-icon ds-button ds-button--secondary fontRegular ds-button--secondary--white"></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                        </ul>
-                    </nav>
-                    <div class="toolbtn exit icon-close mfp-close"></div>
-                </div>
-                <div class="question-container">
-                    <div class="rating-wrapper-lightbox fontBook">
-                        <div class="question secondQuestion col-xlg-10 col-lg-10 col-sm-10 col-md-10 col">
-                            <div class="blockReasons">
-                                <div class="question-wrapper">
-                                    <div class="questionText"></div>
-                                    <ul class="radio-rating ds-m-t-m"></ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="close-feedback icon-close"></div>
-                    </div>
+</head>
+<body class="no-js">
+    <div class="main-wrapper" role="main">
+    <div class="main-content">
+        <noscript>
+            <div id="challenge-error-title">
+                <div class="h2">
+                    <span class="icon-wrapper">
+                        <div class="heading-icon warning-icon"></div>
+                    </span>
+                    <span id="challenge-error-text">
+                        Enable JavaScript and cookies to continue
+                    </span>
                 </div>
             </div>
-            <div class="popupContent">
-                {{{popupContent}}}
-            </div>
-            <div class="popupFooter">
-                {{#if isFooterConfigured}}
-                <div class="footer-container grid-container">
-                    <div class="row">
-                        <div class="col-xs-7 col-sm-12 col-md-12 col-lg-12">
-                            <div class="info-container">
-                                <div class="he footer-headine fontBook">{{assetFooterTitle}}</div>
-                                <div class="text footer-paragraph">{{assetFooterDescription}}</div>
-                            </div>
-                        </div>
-                        <div class="btn-wrapper col-xs-5 col-sm-5 col-md-5 col-lg-5">
-                            {{#if assetFooterLinkName}}
-                                <a href="{{assetFooterLinkPath}}" target="{{assetFooterLinkTarget}}"
-                                   title="{{assetFooterLinkTooltip}}" class="button2017 fontRegular version1 lightbox-footer-link">
-                                    <span class="buttonText">{{assetFooterLinkName}}</span>
-                                    <span class="hoverboxes"><span class="hoverbox"></span><span
-                                            class="hoverbox"></span><span class="hoverbox"></span></span>
-                                </a>
-                            {{/if}}
-                        </div>
-                    </div>
-                </div>
-                {{/if}}
-            </div>
-        </div>
-        <div class="qrCodePopup" id="qrCode" data-component="QRCodeGenerator" data-component-id="wechat-share"></div>
+        </noscript>
+        <div id="trk_jschal_js" style="display:none;background-image:url('/cdn-cgi/images/trace/managed/nojs/transparent.gif?ray=7b3a77c53a0003f8')"></div>
+        <form id="challenge-form" action="/content/dam/eon/eon-com/Documents/en/sustainability-report/2019/eon_2019_sustainability_report.pdf?__cf_chl_f_tk=SLHOhlDpG3sAxu43reD9LLIlS7G62HCSJcbk3X0F5Dk-1680788690-0-gaNycGzNDGU" method="POST" enctype="application/x-www-form-urlencoded">
+            <input type="hidden" name="md" value="Uax3u2JjTAQLuL.BTBBsJXiK_Yz6j4VrSaGdxPsFaT8-1680788690-0-AeC7WmiHef37_Aa8cPOMvAHQVWM9Vjvv390vn4UIlGw_3Hdznj0-05CllF6e1iz96UiN2rVUclZF1PKpky51Mzwr1MggWQ5Ib-L4PrAwr6WPEPBN3QifHpHOz-ATTEf12PAVMcWBFdjlXtp7ZfchV3KvhJDGC4hE4ljglokASM-lcN-iONXiq3YMoCY_gWAcfOwFAzG8r_yvs45YmYR0FYdqR4CBHOyn9aTjnGnH4gTrC_ZI5nMHcCaOHWi1bKnMht_fPkNj1-L3jO0DtHYapCeAyBM4l4XocvLPPYvmboUxo4o7GP_G-f7HaXUY9xmeEdJtw9bHaaEp2fALIpQ-I0_byPfHpGQMNMebS_mGo-fhVBt0AOOurJIsenzGbmmyPFlpcmzGuBYdmH0kK3thXLfcSpqJmQE-tnYbXEt-phICCILR8KQVu3zEVIfXNAB1l2hqTMBtA2l4cBw13-FtMO6LQJLHNMVOhTUxcHkz6dnxP6387X24BN1fLRaYKcjUkWDloe1h4gP9-yzS7B15IebuBwy1YdFuw864sfX6u1_d-woVIrBxTOhyfVmxfU4nojIekYlolRktdzYi9p-NXojAiiFqc3wwgoU2CWZBD12YUHb_Ifu5lKBdDAYNRdgXEynOjpINBTin21WCp09aWjpAiT4hWmSiU4tuEcDwpt_KN3UblMApUQqPS591jM0d_PmnQiyTyiwZvt6CZJB5cQCrMyEALSbaznd4sGt6l4fkClou2WrnyRhceuNGfQYl6I1QfT04u9XjROcpFUMhsri3LMC9nMlSxMvy7N2S4qp7ov0sGksi2NHR_MHiY_pGX8m-XT8K4piXEoJt5QvDsxERIDGxhymA8AprywNK5VtTwLDy3h8kk77W5dkfWBNlazVBJSZHr0l5f3dNiHc1UHufp_jZXRH6KstJnRMmLQcn_Phht37-J9KDQd6f-cfMCWT-7FOHAN7sbb4X7l8yEo8QrZ6hY4LMslfYKvDzygiB_xr7E9kzlvY40qO0rAqKO2Iblf8e1ykoxZ67edBGjDehca5xW1KXXly9uRHUVOTa8-S2XKiZYuvR2LUJUFzAWlZzxxgduJzOCVqHU84eq7M7ePNV5gx_JYyJMOoPK5muDid82IhJB8ADgKOik5nBqwhl-IYLSwHdnHpaT5H69C1LUPFrjrzwjA8lEC5Ndt-E_4q6tSsOvx7nQSgwTnIxzYy0R9E37asRb79ERXBDcc8PZnDy43HynmlPCVvp22FQsJv5eFayEBm9YF9Iy6zabMt4jvp5soQ66Zr7C3ubcKHJK_bilYUSBIh9Z4EyDNzJSODx7XS5KE1RAtl98Z03zG7ClHjBaLN3uzPtn4PHkyaJkZORseNnQO6BZ6-pja3IpTwgr52rUm3ydEN8uTiCOT9Y5De6QQTSctzAQB3-rSq7HW6tFo2gtaz_Md-z53O1CGNHxaaFG-15b4UE_kxEZu3AKqimpVEbRl2wkvuS1xhhLpzt80S5Fv2DrnEcpONHfLNVZXDGkq-a4a8hooB6QK-bD5uFvzdsHgGJaPOCkHQYZDrnvqwpSAE3dhF1dG2zIQtcjU-nWdPcZne3qVIGOXtvdOe3HW_Jam7-NVedrB_h0V1-kyuszBldXW2oj9kjLoocFs8UvoRXW7Knd1qFqZMtGfCdXl5bPaxQ5Oo4tDfvvwRhwCN72XhDCq65wM2FEpXnmYiVlla3xL-ApIGfg_gzmoEnGCyHAK7e8mfjM1GO3KoapAj4vm2cEy3e-EUsdfTDHYh7Zg28I9BoZwXaZ5rB82ZYkI0FHcY6tHdiZj4-fEkuE8iMUvHKcghZranVB-Sf3fpeI19wa0YOrrxvTiS7ENCy4IDvaKsfGk2aeofkJkIhyI24Ob4hYkvT3xG_vOghO6wEKVfocUyEs2S0gMgGsgMu_1NYpAsD7k-Y301-RNTd6VpVuSQqJhFjaSAqNVkZ-3m4xFFQaQVtuoS2_Eq7vGX_hb4hXXWXTi_Ju3KtkCQAjufNqzkttNoAOp_QzLKZrvGRZawg2X9RFaZcN-6uX-N6ykWHXmMUGSTO1Tdynj6pjSMB1zvP9e1wzMKqAQa4ISbP5cOnTMhyYrl7Hb9v0FUpI6FeRRYI3FRkD0-cGpOo71a88fGEj4IGaoQWyzKmgjhqOuhjV0G96Tlqeir-7IlGvXw4s65Srs4c6_Ou8SNnNPyUFu4gm5rRs3Hay48sLQxQs5Mpv6xaTh9P5F_fJgj7ce7vQ7TebetlgFAKAqIoz8CZpaqpJwXaBoQXcAQYfMABECsovapwRyqfw3F9j_kEy5K_eKNceHK1jB-X099WnfjtRx-HWiFRg4vWwo9RL7GrddTKRfNYIMqP1To4udC3nxcxZlwVioEM01FVGm2q1bGMOQ0mfRNwX-jbp2ysOb7XzN1xa_LzfJBNBazvsmnVoUYV2dcQE42mpNlqRDX5OGXYUKBJB4t-aqfzbcHqHs9hYMlXALHVXwTd6Q7Q51qf5zZc4PQttZQjuduCjVvEJS3sL4EQ2P_qs4r8wAX-K5O-97ltq7KvOt_3Ne7tY5D0L1-svCrzuUvZ7w5Vkv_mIHoNSdLF4A_pTGg8-Nx3GFi3VfRYQolr687BxC6t5TgG025XIGIX4loGPAK9S9aaZB1f75WJ5p9PJMBMik7j0DRJI54DNHtmsLwWjoBSOWgyb0w7OIKy0YhnSTwXV0iIedKIH2SYbgKJL9upygTXw0poy9PQTrIZanrSwuDAMrkZwFrWC-6jsvARShBv5NYy0rECtdo99oF9sNfpTJIk1wFOPJgcu4cY6ftW6H-BfMl3nP06u-_dpqWelwgZgvNy8VLXdna1qE_qhiv3eZshXLPcdPybS6qTKN3aERjnY5zSfu1a7fEb8Vmos0nOWJJ0soK8Yh7MKSNNC2UdcXes0fOQqm2A1MG6SjFfPQDFJbO12sl_0w-IjTlCj7RxfFrH5qFWmiq9Y5CxMI-CLaWdqD5WvoASNmbUwVd0MnG6-tP-5xemZu2MWqMG9eDicv2ybqXMEGWUTd7SL1FolUtELc_eCetNxuduMmBLzmywa5jbqogCZjewl1ItRaWG4ZDwUg4vEAxWTCIDpTRy">
+        </form>
     </div>
-</script>
-<script class="feedbackLightbox" type="text/x-handlebars-template">
-    <div class="lightboxPopup lightboxFeedback fontRegular" id="openPopup">
-        <div class="wrapper">
-            <div class="header">
-                <div class="title he fontBook">{{assetTitle}}</div>
-                <div class="toolbtn exit icon-close mfp-close"></div>
-            </div>
-            <div class="popupContent">
-                {{{popupContent}}}
-            </div>
-        </div>
-    </div>
-</script>
-<link rel="stylesheet" href="/etc.clientlibs/sapdx/components/modular/video/lightBoxVideo/clientlib.min.d129d52a2c5f90c1869903321877044f.css" type="text/css">
-<link rel="stylesheet" href="/etc.clientlibs/sapdx/components/modular/video/clientlib.min.a3bad643517e9555f14da409b41e897f.css" type="text/css">
-<script defer type="text/javascript" src="/etc.clientlibs/sapdx/components/modular/video/lightBoxVideo/clientlib.min.0e0a619a1be3e8b4efb302830aed100e.js"></script>
-<script defer type="text/javascript" src="/etc.clientlibs/sapdx/components/modular/video/clientlib.min.5ffb2c4c20743172a0720ef234a318de.js"></script>
-<script class="videoElementLightbox" type="text/x-handlebars-template">
-    <div class="videoWrapper lightBoxVideoWrapper mfp-hide" data-light-box-type="video" data-asset-title="{{title}}" data-asset-description="{{description}}">
-        <div class="topDiv"></div>
-        <video class="video-js vjs-default-skin vjs-big-play-centered vjs-fluid"
-               controls="true"
-               preload="none"
-               data-publishingdate="{{publishingDate}}"
-               data-expirationdate="{{expirationDate}}"
-               data-title="{{videoTitle}}"
-               poster="{{poster}}"
-               data-akamaiUrl="{{akamaiUrl}}"
-               data-akamaiMobileUrl="{{akamaiMobileUrl}}"
-               data-analyticsAssetId="{{analyticsAssetId}}"
-               data-sap-digital-id="{{sap_digital_id}}"
-               data-crm-code="{{crmCode}}"
-               data-is-stream="{{streamVideo}}"
-               data-is-youtube="{{isYoutubeURI}}"
-               data-is-lightbox="true"
-               data-dam-link="{{damLink}}"
-               data-asset-id="{{id}}"
-               data-video-setup="{{videoSetup}}">
-            <source src="{{source.src}}" type="{{source.type}}"/>
-        </video>
-    </div>
-</script>
-<script class="integrationReportLightbox" type="text/x-handlebars-template">
-    <div class="lightboxPopup" id="openPopup">
-        <section>
-            <div class="loadingBar">
-                <div class="bar bar-first"></div>
-                <div class="bar bar-second"></div>
-                <div class="bar bar-third"></div>
-            </div>
-        </section>
-        <div class="lightboxContainer">
-            <div class="toolbtn exit icon-close mfp-close"></div>
-            <div class="aside-lightbox">
-                <div class="toolbtn exit icon-close mfp-close"></div>
-                <div class="popupHeader">
-                    <div class="header-container grid-container">
-                        <div class="row">
-                            <div class="col-xs-11 col-sm-10 col-md-10 col-lg-10">
-                                <div class="sectionTitle he fontBook">{{assetTitle}}</div>
-                                <div class="descriptionText text">{{assetDescription}}</div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="toolbar-container">
-                        <nav class="toolbar">
-                            <ul class="toolbar-list">
-                                <li><a id="download-link" class="toolbtn download icon-download exclude-ligthbox-handler"></a></li>
-                                <li><a class="toolbtn mail icon-email exclude-ligthbox-handler" data-share-tracking-analytics="SHARE" data-share-channel="mailto"></a></li>
-                                <li class="share-wrap"><a class="toolbtn share icon-share"></a>
-                                    <ul class="share-dropdown">
-                                        {{#each socialItems}}
-                                            <li class="fontLight">
-                                                <a
-                                                    title="{{title}}"
-                                                    data-share-channel="{{share-channel}}"
-                                                    data-share-tracking-analytics="SHARE"
-                                                    target="_blank"
-                                                    data-share-url="{{resourceLink}}"
-                                                    data-is-share-link="true"
-                                                >
-                                                    <span class="{{class}}"></span>{{title}}
-                                                </a>
-                                            </li>
-                                        {{/each }}
-                                    </ul>
-                                </li>
-                            </ul>
-                        </nav>
-                    </div>
-                     <div class="search-toc-container">
-                        <div class="content-btn_mobile">
-                            <span class="icon-menu"></span>
-                            <span class="content-label fontBook">Contents</span>
-                        </div>
-                        <div class="search-form">
-                            <form class="search__form" action="#">
-                                <div class="search__holder">
-                                    <div class="search__field">
-                                        <input class="search__input fontBook" type="text" name="searchInput"
-                                               placeholder="Search" autocomplete="off">
-                                        <span class="search__icon icon-search">
-                                            <input type="submit" class="search__btn">
-                                        </span>
-                                        <span class="clear-search-btn"><span class="icon-close"></span></span>
-                                    </div>
-                                </div>
-                            </form>
-                            <div class="matches__holder fontLight">
-                                <div class="search-results-control">
-                                    <span class="overall__matches"></span>
-                                    <span class="find-arrow find__prev icon-arrowleft"></span>
-                                    <span class="find-arrow find__next icon-arrowright"></span>
-                                </div>
-                                <div class="entries"><span class="num__count"></span></div>
-                            </div>
-                        </div>
-                     </div>
-                </div>
-                <div class="outlinePanel jcf-scrollable" data-jcf='{"handleResize": false}'>
-                    <h2 class="hd outline-headline fontRegular">Contents</h2>
-                    <ul class="outline-tree fontLight"></ul>
-                </div>
-                <div class="popupFooter fontLight">
-                    <div class="fullscreen-control">Fullscreen<a href="#" class="fullscreen-link"><span
-                                class="icon-fullscreen"></span></a></div>
-                    <div class="zoom-control"><span class="zoom-control__label">Zoom</span><a href="#" class="zoomOut"><span class="icon-zoomOut"></span></a><a href="#" class="zoomIn"><span class="icon-zoomIn"></span></a></div>
-                </div>
-            </div>
-            <div class="popupContent jcf-scrollable">
-                {{{popupContent}}}
-            </div>
-        </div>
-    </div>
-</script>
-<script class="compatibilityLightbox" type="text/x-handlebars-template">
-    <div class="lightboxPopup lightboxCompatibility" id="openPopup">
-        <div class="wrapper">
-            <div class="header">
-                <div class="title he fontBook">{{compatibilityTitle}}</div>
-                <div class="toolbtn exit icon-close mfp-close"></div>
-            </div>
-            <div class="popupContent">
-                <div class="compatibility-wrapper">
-                    <div class="compatibility-content">
-                        <div class="compatibility-headline">
-                            {{compatibilityHeadline}}
-                        </div>
-                        <div class="compatibility-body">
-                            {{compatibilityContent}}
-                        </div>
-                        <div class="compatibility-button-wrapper">
-                            <a class="compatibility-button fontRegular button2017 version1">
-                                <span class="buttonText">{{compatibilityConfirmButton}}</span>
-                                <span class="hoverboxes">
-                                    <span class="hoverbox"></span>
-                                    <span class="hoverbox"></span>
-                                    <span class="hoverbox"></span>
-                                </span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</script>
-<script class="messageLightbox" type="text/x-handlebars-template">
-    <div class="popup-header">
-        <p class="title">{{headerMessage}}</p>
-        <button class="close-button" type="button">×</button>
-    </div>
-    <div class="popup-container">
-        {{> content}}
-        <div class="loading-bar-overlay">
-            <div class="loadingBar">
-                <div class="bar bar-first"></div>
-                <div class="bar bar-second"></div>
-                <div class="bar bar-third"></div>
-            </div>
-        </div>
-    </div>
-</script>
-<script class="html-content-lightbox" type="text/x-handlebars-template">
-    <div class="popupHeader">
-        {{#if isHeaderConfigured}}
-        <div class="header-container grid-container">
-            <div class="row">
-                <div class="col-xs-11 col-sm-10 col-md-10 col-lg-10">
-                    <div class="sectionTitle he fontBook">{{assetTitle}}</div>
-                    <div class="descriptionText text">{{assetDescription}}</div>
-                </div>
-            </div>
-        </div>
-        {{/if}}
-        <div class="toolbar-container">
-            {{#if isHeaderConfigured}}
-            {{#if isEnabledShareLink}}
-            <nav class="toolbar">
-                <ul class="toolbar-list">
-                    <li><a class="toolbtn mail icon-email exclude-ligthbox-handler" data-share-tracking-analytics="SHARE" data-share-channel="mailto"></a></li>
-                    <li class="share-wrap"><a class="toolbtn share icon-share"></a>
-                        <ul class="share-dropdown">
-                            {{#each socialItems}}
-                                <li class="fontLight">
-                                    <a
-                                        title="{{title}}"
-                                        data-share-channel="{{share-channel}}"
-                                        data-share-tracking-analytics="SHARE"
-                                        target="_blank"
-                                        data-share-url="{{resourceLink}}"
-                                        data-is-share-link="true"
-                                    >
-                                        <span class="{{class}}"></span>{{title}}
-                                    </a>
-                                </li>
-                            {{/each }}
-                        </ul>
-                    </li>
-                </ul>
-            </nav>
-            {{/if}}
-            {{/if}}
-            <div class="toolbtn exit icon-close mfp-close"></div>
-        </div>
-    </div>
-    <div class="popup-container">
-        <iframe
-            class="html-content-lightbox-frame"
-            src={{src}}
-            width='1100px' height='700px'>
-        </iframe>
-    </div>
-    <div class="popupFooter">
-        {{#if isFooterConfigured}}
-        <div class="footer-container grid-container">
-            <div class="row">
-                <div class="col-xs-7 col-sm-12 col-md-12 col-lg-12">
-                    <div class="info-container">
-                        <div class="he fontBook footer-headine">{{assetFooterTitle}}</div>
-                        <div class="text footer-paragraph">{{assetFooterDescription}}</div>
-                    </div>
-                </div>
-                <div class="btn-wrapper col-xs-5 col-sm-5 col-md-5 col-lg-5">
-                    <a href="{{assetFooterLinkPath}}" target="{{assetFooterLinkTarget}}"
-                       title="{{assetFooterLinkTooltip}}" class="button2017 fontRegular version1 lightbox-footer-link">
-                        <span class="buttonText">{{assetFooterLinkName}}</span>
-                        <span class="hoverboxes"><span class="hoverbox"></span><span
-                                class="hoverbox"></span><span class="hoverbox"></span></span>
-                    </a>
-                </div>
-            </div>
-        </div>
-        {{/if}}
-    </div>
-</script>
-<script defer type="text/javascript" src="/etc.clientlibs/sapdx/clientlibs/clientlib-ip-detection.min.925a92f8be4a5664c213186fab88093d.js"></script>
-<script defer preload type="text/javascript" src="/etc.clientlibs/sapdx/clientlibs/clientlib-homepage-standard-all.min.147d96cda6c948f539e1948eff24b0fa.js"></script>
-<script src="/etc.clientlibs/sapdx/clientlibs/clientlib-lightbox-util.min.11fc804d25862b7db2745949b35ddb2b.js"></script>
-<script src="/etc.clientlibs/sapdx/clientlibs/clientlib-lightbox-lazy-init.min.3380c447500e657527dbc2c430bf9ba3.js"></script>
-<span class='lazy-loader-event-wrapper' data-categories='apps.sapdx.lightbox'>
-<span class='lazy-css' data-src="/etc.clientlibs/sapdx/clientlibs/clientlib-lightbox.min.18daxb2.1.0.4550.css"></span><span class='lazy-script' data-src="/etc.clientlibs/sapdx/clientlibs/clientlib-lightbox.min.18daxb2.1.0.4550.js"></span>
-</span>
-<link rel="stylesheet" href="/etc.clientlibs/sapdx/components/modular/formLogin/clientlib.min.d41d8cd98f00b204e9800998ecf8427e.css" type="text/css">
-<script defer type="text/javascript" src="/etc.clientlibs/sapdx/components/modular/formLogin/clientlib.min.e31900d074c1a1f9c904a4e33f739655.js"></script>
+</div>
 <script>
-    try{
-        if (!!window._satellite) {
-            _satellite.pageBottom();
+    (function(){
+        window._cf_chl_opt={
+            cvId: '2',
+            cZone: 'www.eon.com',
+            cType: 'managed',
+            cNounce: '69129',
+            cRay: '7b3a77c53a0003f8',
+            cHash: '84979f02bc37625',
+            cUPMDTk: "\/content\/dam\/eon\/eon-com\/Documents\/en\/sustainability-report\/2019\/eon_2019_sustainability_report.pdf?__cf_chl_tk=SLHOhlDpG3sAxu43reD9LLIlS7G62HCSJcbk3X0F5Dk-1680788690-0-gaNycGzNDGU",
+            cFPWv: 'b',
+            cTTimeMs: '1000',
+            cMTimeMs: '0',
+            cTplV: 5,
+            cTplB: 'cf',
+            cK: "",
+            cRq: {
+                ru: 'aHR0cHM6Ly93d3cuZW9uLmNvbS9jb250ZW50L2RhbS9lb24vZW9uLWNvbS9Eb2N1bWVudHMvZW4vc3VzdGFpbmFiaWxpdHktcmVwb3J0LzIwMTkvZW9uXzIwMTlfc3VzdGFpbmFiaWxpdHlfcmVwb3J0LnBkZg==',
+                ra: 'TW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTAuMTU7IHJ2Ojc3LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvNzcuMA==',
+                rm: 'R0VU',
+                d: 'Xb0EERB92Bzt4ahn2su/zgVr38KaMxKcFdA0DflaD5wdSN451JYnfQ3wQS3ToMilbdVc/OOtNqBXLD3f0ZrN5/1u62Art5+J3GpTdU5uB7frl/J7m0uIglCyPDxvxAhw9IbZ6GmqApq6Z1AqxTej5N3H6qbV6kW+XdSDOLAdOdAeFCHwkUqsdciQiW75eDDjzModjF3QkEkz46D9sRuULaojY3vHT/sI5XzQss+30QvdWd4I87FzJL2MMji4hE9RpAWYDqYc466VWmEeXXCYzMskDCzBguFSJEt3+OSuTt/dJW2Cz6W8fJhwSOXfaFz7jVoXjPIHd7IRr+bgzSRvykTqvv1ya6t3TWInzaOeHp11UfE9P65fjKvockRIlZlLVE9jJw43+zW6qUKp3JIhsEz/nZ/iyo+ZIdNityawJMl0dym62W7CVw2PKFkVeHghPMJA5OHHC5wRRicaOATNTF3WX8wtqskNDWovuixhPG4GfaRpWrnOxTO//pvPvCF0mbX4XZIGpBwWfJTPGrS6nAFzzX/f3+UZRrzezgcAv6Jf16pVuszUWlXwMDKeKhzOXwDuNHTmLfb5fyQlzwE0p3qEQOgNCLyDZ0TQjyGLY8MqpxR/Yhxv3UbTjOLPijKb',
+                t: 'MTY4MDc4ODY5MC43NTUwMDA=',
+                m: 'EW85Tyij0T8mRIa9IGXxm9kUP+KNfbGB+EonFUqX/M0=',
+                i1: 'YqZDD5GtQAjknuTBWrNSxA==',
+                i2: 'pMRV7Y5O6FZzz46Sqfjlkg==',
+                zh: 'S0qgIn8LIZL1BREdGK807pDq6S9fGivma/v3WpEZ7OM=',
+                uh: 'NDgNBIzJi+WQXZuHaijU2YWBmPa72i6RZgOsWL43Wlk=',
+                hh: 'RRxg/Dqx6c52XHdQ+Ef3HgC2QscHAgb8aa2nGol5mG0=',
+            }
+        };
+        var trkjs = document.createElement('img');
+        trkjs.setAttribute('src', '/cdn-cgi/images/trace/managed/js/transparent.gif?ray=7b3a77c53a0003f8');
+        trkjs.setAttribute('alt', '');
+        trkjs.setAttribute('style', 'display: none');
+        document.body.appendChild(trkjs);
+        var cpo = document.createElement('script');
+        cpo.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/managed/v1?ray=7b3a77c53a0003f8';
+        window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;
+        window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;
+        if (window.history && window.history.replaceState) {
+            var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;
+            history.replaceState(null, null, "\/content\/dam\/eon\/eon-com\/Documents\/en\/sustainability-report\/2019\/eon_2019_sustainability_report.pdf?__cf_chl_rt_tk=SLHOhlDpG3sAxu43reD9LLIlS7G62HCSJcbk3X0F5Dk-1680788690-0-gaNycGzNDGU" + window._cf_chl_opt.cOgUHash);
+            cpo.onload = function() {
+                history.replaceState(null, null, ogU);
+            };
         }
-    } catch(e) {
-        console.error("Error while calling _satellite.pageBottom(), Error thrown : " +  e);
-    }
+        document.getElementsByTagName('head')[0].appendChild(cpo);
+    }());
 </script>
-<noscript><img src="https://www.sap.com/akam/13/pixel_35caed7e?a=dD0xYmJhZjkzNGFlNTZkYTdiY2I0MDM0NjNmNjk1MDIzYmI4MmY5YWFlJmpzPW9mZg==" style="visibility: hidden; position: absolute; left: -999px; top: -999px;" /></noscript></body>
+
+
+</body>
 </html>
