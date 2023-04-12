@@ -173,7 +173,7 @@ def check_pdf_txt(pdf, year, companyName):
 
         #pageNum = 0
         textInPages = ''
-        for page in file.pages(0,5):
+        for page in file.pages(0,3):
             #pageNum += 1
             # Extract text
             textOnePage = page.get_text()
@@ -192,13 +192,12 @@ def check_pdf_txt(pdf, year, companyName):
         if companyName == 'KplusS':
             companyName = 'K+S'
         elif 'oe' in companyName:
-            companyName.replace('oe', 'ö')
+            companyName = companyName.replace('oe','ö')
 
         if any(word in str.lower(textInPages) for word in allowed_terms) and ("report" in str.lower(textInPages) or "information" in str.lower(textInPages)) and year in textInPages and str.lower(companyName) in str.lower(textInPages):
             return True
         else:
             return False
-            #txt.write(text)
     else:
         return 403
 
@@ -232,7 +231,7 @@ for year in years_to_search:
     
     
     # writing the data into the files
-    with open('Zweifel_Ergebnisse.txt','w') as write_file: 
+    with open('doubtful_results.txt','w') as write_file: 
       write_file.write(conclusion_doubt)
       json.dump(doubt_list, write_file, indent=4)
     with open('found_results.txt','w') as write_file: 
@@ -241,9 +240,9 @@ for year in years_to_search:
       json.dump(found_list, write_file, indent=4)
 
 # TEST
-# companyRow = "RWE"
-# year = 2022
-# download_pdf('https://www.rwe.com/-/media/RWE/documents/09-verantwortung-nachhaltigkeit/2022-emissionsinventar-und-methodologie.pdf', str(year), companyRow)
+# companyRow = "Deutsche Boerse"
+# year = 2018
+# scrape_google_and_order("Deutsche Boerse sustainability report 2018 inurl:pdf", str(year), 0, companyRow)
 
 #TODO str.lower( for link and list of words in if)
 #MAN 2020

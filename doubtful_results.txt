@@ -1,0 +1,92 @@
+16 might be wrong :{
+    "2017": [
+        {
+            "query": "Deutsche Post sustainability report 2017 inurl:pdf",
+            "link": "https://www.dpdhl.com/content/dam/dpdhl/en/media-center/responsibility/dpdhl-corporate-responsibility-report-2017.pdf"
+        },
+        {
+            "query": "MAN sustainability report 2017 inurl:pdf",
+            "link": "https://www.man-es.com/docs/default-source/sustainability/man-es_corporate_responsibility_report_en_2021_rz.pdf?sfvrsn=5eaa04c9_6"
+        }
+    ],
+    "2018": [
+        {
+            "query": "MAN sustainability report 2018 inurl:pdf",
+            "link": "https://www.man-es.com/docs/default-source/sustainability/man-es_corporate_responsibility_report_en_2021_rz.pdf?sfvrsn=5eaa04c9_6"
+        }
+    ],
+    "2019": [],
+    "2020": [
+        {
+            "query": "Deutsche Bank sustainability report 2020 inurl:pdf",
+            "link": "https://agm.db.com/files/documents/2022/Non_Financial_Report_2021.pdf"
+        },
+        {
+            "query": "Deutsche Post sustainability report 2020 inurl:pdf",
+            "link": "https://www.dhl.com/content/dam/dhl/global/core/documents/pdf/sustainability-report.pdf"
+        },
+        {
+            "query": "SAP sustainability report 2020 inurl:pdf",
+            "link": "https://www.sap.com/integrated-reports/2020/en/environmental-performance.html?pdf-asset=82fad7fb-d17d-0010-87a3-c30de2ffd8ff&page=223",
+            "error": "PDF could not be read"
+        }
+    ],
+    "2021": [
+        {
+            "query": "Adidas sustainability report 2021 inurl:pdf",
+            "link": "https://www.adidas-group.com/media/filer_public/ad/a3/ada3f4a0-4751-484d-b053-f2b2b78b2e30/ar21_en.pdf"
+        },
+        {
+            "query": "Deutsche Post sustainability report 2021 inurl:pdf",
+            "link": "https://www.dpdhl.com/content/dam/dpdhl/en/media-center/responsibility/dpdhl-sustainability-roadmap-facts-figures.pdf"
+        },
+        {
+            "query": "Henkel sustainability report 2021 inurl:pdf",
+            "link": "https://www.isscorporatesolutions.com/file/documents/spo/20211005-henkel.pdf"
+        }
+    ],
+    "2022": [
+        {
+            "query": "Daimler sustainability report 2022 inurl:pdf",
+            "link": "https://group.mercedes-benz.com/documents/sustainability/other/mercedes-benz-sustainability-report-2021.pdf"
+        },
+        {
+            "query": "Deutsche Bank sustainability report 2022 inurl:pdf",
+            "link": "https://agm.db.com/files/documents/2022/Non_Financial_Report_2021.pdf"
+        },
+        {
+            "query": "Deutsche Post sustainability report 2022 inurl:pdf",
+            "link": "https://www.dpdhl.com/content/dam/dpdhl/en/investors/creditor-relations/slf-framework/DPDHL-Sustainability-Linked-Finance-Framework-November-2022.pdf"
+        },
+        {
+            "query": "Deutsche Telekom sustainability report 2022 inurl:pdf",
+            "link": "https://www.telekom.com/resource/blob/1018322/5abb9df4025d88d628ec322d290fc97a/dt-sustainability-day-2022-presentation-74pages--data.pdf"
+        },
+        {
+            "query": "E.ON sustainability report 2022 inurl:pdf",
+            "link": "https://www.eon.com/content/dam/eon/eon-com/eon-com-assets/documents/sustainability/en/sustainability-report/2021/EON_2021_Sustainability_Report.pdf",
+            "error": "PDF could not be read"
+        },
+        {
+            "query": "Fresenius Medical Care sustainability report 2022 inurl:pdf",
+            "link": "https://www.freseniusmedicalcare.com/fileadmin/data/com/pdf/About_us/Sustainability/Our_commitment/ESG_Performance_Data.pdf"
+        },
+        {
+            "query": "Henkel sustainability report 2022 inurl:pdf",
+            "link": "https://www.firmenich.com/sites/default/files/ESGReport_FY22.pdf"
+        },
+        {
+            "query": "KplusS sustainability report 2022 inurl:pdf",
+            "link": "https://www.kpluss.com/.downloads/annual-reports/2022/kpluss-annual-report-2021.pdf"
+        },
+        {
+            "query": "MAN sustainability report 2022 inurl:pdf",
+            "link": "https://www.man-es.com/docs/default-source/sustainability/man-es_corporate_responsibility_report_en_2021_rz.pdf?sfvrsn=5eaa04c9_6"
+        },
+        {
+            "query": "SAP sustainability report 2022 inurl:pdf",
+            "link": "https://www.sap.com/integrated-reports/2022/en/environmental-performance.html?pdf-asset=aee5252a-6c7d-0010-87a3-c30de2ffd8ff&page=1",
+            "error": "PDF could not be read"
+        }
+    ]
+}
