@@ -1,91 +1,299 @@
-16 might be wrong :{
+60 might be wrong :{
     "2017": [
         {
-            "query": "Deutsche Post sustainability report 2017 inurl:pdf",
-            "link": "https://www.dpdhl.com/content/dam/dpdhl/en/media-center/responsibility/dpdhl-corporate-responsibility-report-2017.pdf"
+            "query": "Adidas sustainability report #2017# inurl:pdf",
+            "link": "https://www.adidas-group.com/en/sustainability/transparency/reporting/sustainability-reports/",
+            "error": "PDF could not be read"
         },
         {
-            "query": "MAN sustainability report 2017 inurl:pdf",
-            "link": "https://www.man-es.com/docs/default-source/sustainability/man-es_corporate_responsibility_report_en_2021_rz.pdf?sfvrsn=5eaa04c9_6"
+            "query": "Allianz sustainability report #2017# inurl:pdf",
+            "link": "https://www.allianz.com/content/dam/onemarketing/azcom/Allianz_com/sustainability/documents/Allianz_Group_Sustainability_Report_2021-web.pdf"
+        },
+        {
+            "query": "BASF sustainability report #2017# inurl:pdf",
+            "link": "https://report.basf.com/",
+            "error": "PDF could not be read"
+        },
+        {
+            "query": "Bayer sustainability report #2017# inurl:pdf",
+            "link": "https://www.bayer.com/en/sustainability/sustainability-reports",
+            "error": "PDF could not be read"
+        },
+        {
+            "query": "Beiersdorf sustainability report #2017# inurl:pdf",
+            "link": "https://www.beiersdorf.com/sustainability/reporting/sustainability-reporting",
+            "error": "PDF could not be read"
+        },
+        {
+            "query": "BMW sustainability report #2017# inurl:pdf",
+            "link": "https://www.bmwgroup.com/en/sustainability.html",
+            "error": "PDF could not be read"
+        },
+        {
+            "query": "Commerzbank sustainability report #2017# inurl:pdf",
+            "link": "https://www.commerzbank.de/en/nachhaltigkeit/daten___fakten/publikationen/publikationen_3.html",
+            "error": "PDF could not be read"
+        },
+        {
+            "query": "Daimler sustainability report #2017# inurl:pdf",
+            "link": "https://group.mercedes-benz.com/sustainability/sustainability-report.html",
+            "error": "PDF could not be read"
+        },
+        {
+            "query": "Deutsche Bank sustainability report #2017# inurl:pdf",
+            "link": "https://www.db.com/cr/publications",
+            "error": "PDF could not be read"
+        },
+        {
+            "query": "Deutsche Boerse sustainability report #2017# inurl:pdf",
+            "link": "https://www.deutsche-boerse.com/dbg-en/sustainability",
+            "error": "PDF could not be read"
+        },
+        {
+            "query": "Deutsche Post sustainability report #2017# inurl:pdf",
+            "link": "https://www.dpdhl.com/en/sustainability/our-approach/sustainability-reports.html",
+            "error": "PDF could not be read"
+        },
+        {
+            "query": "Deutsche Telekom sustainability report #2017# inurl:pdf",
+            "link": "https://www.telekom.com/en/corporate-responsibility",
+            "error": "PDF could not be read"
+        },
+        {
+            "query": "E.ON sustainability report #2017# inurl:pdf",
+            "link": "https://www.eon.com/en/about-us/sustainability/download-center.html",
+            "error": "PDF could not be read"
+        },
+        {
+            "query": "Fresenius Medical Care sustainability report #2017# inurl:pdf",
+            "link": "https://www.freseniusmedicalcare.com/en/sustainability",
+            "error": "PDF could not be read"
+        },
+        {
+            "query": "Fresenius SE sustainability report #2017# inurl:pdf",
+            "link": "https://annualreport.fresenius.com/2021/sustainability-report/",
+            "error": "PDF could not be read"
+        },
+        {
+            "query": "HeidelbergCement sustainability report #2017# inurl:pdf",
+            "link": "https://www.heidelbergmaterials.com/en/sustainability-report",
+            "error": "PDF could not be read"
+        },
+        {
+            "query": "Henkel sustainability report #2017# inurl:pdf",
+            "link": "https://www.henkel.com/sustainability/sustainability-report",
+            "error": "PDF could not be read"
+        },
+        {
+            "query": "Infineon sustainability report #2017# inurl:pdf",
+            "link": "https://www.infineon.com/cms/en/about-infineon/sustainability/csr-reporting/",
+            "error": "PDF could not be read"
+        },
+        {
+            "query": "KplusS sustainability report #2017# inurl:pdf",
+            "link": "https://www.kpluss.com/en-us/investor-relations/publications/annual-report/",
+            "error": "PDF could not be read"
+        },
+        {
+            "query": "Linde sustainability report #2017# inurl:pdf",
+            "link": "https://www.linde.com/-/media/linde/merger/documents/sustainable-development/2021/2021-sustainable-development-report-v2.pdf"
+        },
+        {
+            "query": "Lufthansa sustainability report #2017# inurl:pdf",
+            "link": "https://www.lufthansagroup.com/en/themes/nachhaltigkeitsreporting.html",
+            "error": "PDF could not be read"
+        },
+        {
+            "query": "MAN sustainability report #2017# inurl:pdf",
+            "link": "https://www.mantruckandbus.com/en/company/sustainability.html",
+            "error": "PDF could not be read"
+        },
+        {
+            "query": "Merck sustainability report #2017# inurl:pdf",
+            "link": "https://www.merckgroup.com/en/sustainability-report/2021/",
+            "error": "PDF could not be read"
+        },
+        {
+            "query": "Metro sustainability report #2017# inurl:pdf",
+            "link": "https://reports.metroag.de/corporate-responsibility-report/2020-2021/",
+            "error": "PDF could not be read"
+        },
+        {
+            "query": "Munich Re sustainability report #2017# inurl:pdf",
+            "link": "https://www.munichre.com/en/company/sustainability.html",
+            "error": "PDF could not be read"
+        },
+        {
+            "query": "RWE sustainability report #2017# inurl:pdf",
+            "link": "https://www.rwe.com/en/responsibility-and-sustainability/sustainability-report/",
+            "error": "PDF could not be read"
+        },
+        {
+            "query": "SAP sustainability report #2017# inurl:pdf",
+            "link": "https://www.sap.com/uk/documents/2022/10/7cb36cdb-4a7e-0010-bca6-c68f7e60039b.html",
+            "error": "PDF could not be read"
+        },
+        {
+            "query": "Siemens sustainability report #2017# inurl:pdf",
+            "link": "https://assets.new.siemens.com/siemens/assets/api/uuid:c1088e4f-4d7f-4fa5-8e8e-33398ecf5361/sustainability-report-fy2022.pdf"
+        },
+        {
+            "query": "ThyssenKrupp sustainability report #2017# inurl:pdf",
+            "link": "https://www.thyssenkrupp.com/en/company/sustainability",
+            "error": "PDF could not be read"
+        },
+        {
+            "query": "Volkswagen sustainability report #2017# inurl:pdf",
+            "link": "https://www.volkswagenag.com/en/sustainability/reporting.html",
+            "error": "PDF could not be read"
         }
     ],
     "2018": [
         {
-            "query": "MAN sustainability report 2018 inurl:pdf",
-            "link": "https://www.man-es.com/docs/default-source/sustainability/man-es_corporate_responsibility_report_en_2021_rz.pdf?sfvrsn=5eaa04c9_6"
-        }
-    ],
-    "2019": [],
-    "2020": [
-        {
-            "query": "Deutsche Bank sustainability report 2020 inurl:pdf",
-            "link": "https://agm.db.com/files/documents/2022/Non_Financial_Report_2021.pdf"
-        },
-        {
-            "query": "Deutsche Post sustainability report 2020 inurl:pdf",
-            "link": "https://www.dhl.com/content/dam/dhl/global/core/documents/pdf/sustainability-report.pdf"
-        },
-        {
-            "query": "SAP sustainability report 2020 inurl:pdf",
-            "link": "https://www.sap.com/integrated-reports/2020/en/environmental-performance.html?pdf-asset=82fad7fb-d17d-0010-87a3-c30de2ffd8ff&page=223",
-            "error": "PDF could not be read"
-        }
-    ],
-    "2021": [
-        {
-            "query": "Adidas sustainability report 2021 inurl:pdf",
-            "link": "https://www.adidas-group.com/media/filer_public/ad/a3/ada3f4a0-4751-484d-b053-f2b2b78b2e30/ar21_en.pdf"
-        },
-        {
-            "query": "Deutsche Post sustainability report 2021 inurl:pdf",
-            "link": "https://www.dpdhl.com/content/dam/dpdhl/en/media-center/responsibility/dpdhl-sustainability-roadmap-facts-figures.pdf"
-        },
-        {
-            "query": "Henkel sustainability report 2021 inurl:pdf",
-            "link": "https://www.isscorporatesolutions.com/file/documents/spo/20211005-henkel.pdf"
-        }
-    ],
-    "2022": [
-        {
-            "query": "Daimler sustainability report 2022 inurl:pdf",
-            "link": "https://group.mercedes-benz.com/documents/sustainability/other/mercedes-benz-sustainability-report-2021.pdf"
-        },
-        {
-            "query": "Deutsche Bank sustainability report 2022 inurl:pdf",
-            "link": "https://agm.db.com/files/documents/2022/Non_Financial_Report_2021.pdf"
-        },
-        {
-            "query": "Deutsche Post sustainability report 2022 inurl:pdf",
-            "link": "https://www.dpdhl.com/content/dam/dpdhl/en/investors/creditor-relations/slf-framework/DPDHL-Sustainability-Linked-Finance-Framework-November-2022.pdf"
-        },
-        {
-            "query": "Deutsche Telekom sustainability report 2022 inurl:pdf",
-            "link": "https://www.telekom.com/resource/blob/1018322/5abb9df4025d88d628ec322d290fc97a/dt-sustainability-day-2022-presentation-74pages--data.pdf"
-        },
-        {
-            "query": "E.ON sustainability report 2022 inurl:pdf",
-            "link": "https://www.eon.com/content/dam/eon/eon-com/eon-com-assets/documents/sustainability/en/sustainability-report/2021/EON_2021_Sustainability_Report.pdf",
+            "query": "Adidas sustainability report #2018# inurl:pdf",
+            "link": "https://www.adidas-group.com/en/sustainability/transparency/reporting/sustainability-reports/",
             "error": "PDF could not be read"
         },
         {
-            "query": "Fresenius Medical Care sustainability report 2022 inurl:pdf",
-            "link": "https://www.freseniusmedicalcare.com/fileadmin/data/com/pdf/About_us/Sustainability/Our_commitment/ESG_Performance_Data.pdf"
+            "query": "Allianz sustainability report #2018# inurl:pdf",
+            "link": "https://www.allianz.com/content/dam/onemarketing/azcom/Allianz_com/sustainability/documents/Allianz_Group_Sustainability_Report_2021-web.pdf"
         },
         {
-            "query": "Henkel sustainability report 2022 inurl:pdf",
-            "link": "https://www.firmenich.com/sites/default/files/ESGReport_FY22.pdf"
+            "query": "BASF sustainability report #2018# inurl:pdf",
+            "link": "https://report.basf.com/",
+            "error": "PDF could not be read"
         },
         {
-            "query": "KplusS sustainability report 2022 inurl:pdf",
-            "link": "https://www.kpluss.com/.downloads/annual-reports/2022/kpluss-annual-report-2021.pdf"
+            "query": "Bayer sustainability report #2018# inurl:pdf",
+            "link": "https://www.bayer.com/en/sustainability/sustainability-reports",
+            "error": "PDF could not be read"
         },
         {
-            "query": "MAN sustainability report 2022 inurl:pdf",
-            "link": "https://www.man-es.com/docs/default-source/sustainability/man-es_corporate_responsibility_report_en_2021_rz.pdf?sfvrsn=5eaa04c9_6"
+            "query": "Beiersdorf sustainability report #2018# inurl:pdf",
+            "link": "https://www.beiersdorf.com/sustainability/reporting/sustainability-reporting",
+            "error": "PDF could not be read"
         },
         {
-            "query": "SAP sustainability report 2022 inurl:pdf",
-            "link": "https://www.sap.com/integrated-reports/2022/en/environmental-performance.html?pdf-asset=aee5252a-6c7d-0010-87a3-c30de2ffd8ff&page=1",
+            "query": "BMW sustainability report #2018# inurl:pdf",
+            "link": "https://www.bmwgroup.com/en/sustainability.html",
+            "error": "PDF could not be read"
+        },
+        {
+            "query": "Commerzbank sustainability report #2018# inurl:pdf",
+            "link": "https://www.commerzbank.de/en/nachhaltigkeit/daten___fakten/publikationen/publikationen_3.html",
+            "error": "PDF could not be read"
+        },
+        {
+            "query": "Daimler sustainability report #2018# inurl:pdf",
+            "link": "https://group.mercedes-benz.com/sustainability/sustainability-report.html",
+            "error": "PDF could not be read"
+        },
+        {
+            "query": "Deutsche Bank sustainability report #2018# inurl:pdf",
+            "link": "https://www.db.com/cr/publications",
+            "error": "PDF could not be read"
+        },
+        {
+            "query": "Deutsche Boerse sustainability report #2018# inurl:pdf",
+            "link": "https://www.deutsche-boerse.com/dbg-en/sustainability",
+            "error": "PDF could not be read"
+        },
+        {
+            "query": "Deutsche Post sustainability report #2018# inurl:pdf",
+            "link": "https://www.dpdhl.com/en/sustainability/our-approach/sustainability-reports.html",
+            "error": "PDF could not be read"
+        },
+        {
+            "query": "Deutsche Telekom sustainability report #2018# inurl:pdf",
+            "link": "https://www.telekom.com/en/corporate-responsibility",
+            "error": "PDF could not be read"
+        },
+        {
+            "query": "E.ON sustainability report #2018# inurl:pdf",
+            "link": "https://www.eon.com/en/about-us/sustainability/download-center.html",
+            "error": "PDF could not be read"
+        },
+        {
+            "query": "Fresenius Medical Care sustainability report #2018# inurl:pdf",
+            "link": "https://www.freseniusmedicalcare.com/en/sustainability",
+            "error": "PDF could not be read"
+        },
+        {
+            "query": "Fresenius SE sustainability report #2018# inurl:pdf",
+            "link": "https://annualreport.fresenius.com/2021/sustainability-report/",
+            "error": "PDF could not be read"
+        },
+        {
+            "query": "HeidelbergCement sustainability report #2018# inurl:pdf",
+            "link": "https://www.heidelbergmaterials.com/en/sustainability-report",
+            "error": "PDF could not be read"
+        },
+        {
+            "query": "Henkel sustainability report #2018# inurl:pdf",
+            "link": "https://www.henkel.com/sustainability/sustainability-report",
+            "error": "PDF could not be read"
+        },
+        {
+            "query": "Infineon sustainability report #2018# inurl:pdf",
+            "link": "https://www.infineon.com/cms/en/about-infineon/sustainability/csr-reporting/",
+            "error": "PDF could not be read"
+        },
+        {
+            "query": "KplusS sustainability report #2018# inurl:pdf",
+            "link": "https://www.kpluss.com/en-us/investor-relations/publications/annual-report/",
+            "error": "PDF could not be read"
+        },
+        {
+            "query": "Linde sustainability report #2018# inurl:pdf",
+            "link": "https://www.linde.com/-/media/linde/merger/documents/sustainable-development/2021/2021-sustainable-development-report-v2.pdf"
+        },
+        {
+            "query": "Lufthansa sustainability report #2018# inurl:pdf",
+            "link": "https://www.lufthansagroup.com/en/themes/nachhaltigkeitsreporting.html",
+            "error": "PDF could not be read"
+        },
+        {
+            "query": "MAN sustainability report #2018# inurl:pdf",
+            "link": "https://www.mantruckandbus.com/en/company/sustainability.html",
+            "error": "PDF could not be read"
+        },
+        {
+            "query": "Merck sustainability report #2018# inurl:pdf",
+            "link": "https://www.merckgroup.com/en/sustainability-report/2021/",
+            "error": "PDF could not be read"
+        },
+        {
+            "query": "Metro sustainability report #2018# inurl:pdf",
+            "link": "https://reports.metroag.de/corporate-responsibility-report/2020-2021/",
+            "error": "PDF could not be read"
+        },
+        {
+            "query": "Munich Re sustainability report #2018# inurl:pdf",
+            "link": "https://www.munichre.com/en/company/sustainability.html",
+            "error": "PDF could not be read"
+        },
+        {
+            "query": "RWE sustainability report #2018# inurl:pdf",
+            "link": "https://www.rwe.com/en/responsibility-and-sustainability/sustainability-report/",
+            "error": "PDF could not be read"
+        },
+        {
+            "query": "SAP sustainability report #2018# inurl:pdf",
+            "link": "https://www.sap.com/uk/documents/2022/10/7cb36cdb-4a7e-0010-bca6-c68f7e60039b.html",
+            "error": "PDF could not be read"
+        },
+        {
+            "query": "Siemens sustainability report #2018# inurl:pdf",
+            "link": "https://assets.new.siemens.com/siemens/assets/api/uuid:c1088e4f-4d7f-4fa5-8e8e-33398ecf5361/sustainability-report-fy2022.pdf"
+        },
+        {
+            "query": "ThyssenKrupp sustainability report #2018# inurl:pdf",
+            "link": "https://www.thyssenkrupp.com/en/company/sustainability",
+            "error": "PDF could not be read"
+        },
+        {
+            "query": "Volkswagen sustainability report #2018# inurl:pdf",
+            "link": "https://www.volkswagenag.com/en/sustainability/reporting.html",
             "error": "PDF could not be read"
         }
     ]

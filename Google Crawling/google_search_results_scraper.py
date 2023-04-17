@@ -106,11 +106,11 @@ def scrape_google_and_order(query, year, doubt_count, company):
         splittedFilename = splittedLink[1].split(".pdf")
         filename = splittedFilename[0]+".pdf"
 
-    
+        if year not in found_list.keys():
+                    found_list[year] = []
+
         if any(companyName in str.lower(link) for companyName in allowed_names_in_link) and ((year in filename) or ((year_2_digits != "20") and (year_2_digits in filename))) and ("report" in link or "Report" in link or "bericht" in link or "Bericht" in link):
             
-                if year not in found_list.keys():
-                    found_list[year] = []
                 most_relevant_link = link
                 found_list[year].append({'query': query, 'link': most_relevant_link})
                 download_pdf(most_relevant_link,year,company)
@@ -134,6 +134,7 @@ def scrape_google_and_order(query, year, doubt_count, company):
                     doubt_count +=1
                     doubt_list[year].append({'query': query, 'link': most_relevant_link})
                 elif pdf_text_is_relevant == 403:
+                    doubt_count +=1
                     doubt_list[year].append({'query': query, 'link': most_relevant_link, 'error': 'PDF could not be read'})
                 else:
                     if year not in found_list.keys():
@@ -149,7 +150,7 @@ def scrape_google_and_order(query, year, doubt_count, company):
 def download_pdf(link, yearString, companyName):
 
     response = requests.get(link, headers=headers)
-    print(response.status_code)
+    print(response)
     if response.status_code == 200 and ".pdf" in link:
 
         if not os.path.exists("resultPDFs/"+companyName):
@@ -168,13 +169,9 @@ def check_pdf_txt(pdf, year, companyName):
     
     if pdf != None:
         file = fitz.open(pdf)
-
-        #txt = open('linde_2017_report.txt', 'wb')
-
-        #pageNum = 0
         textInPages = ''
         for page in file.pages(0,3):
-            #pageNum += 1
+    
             # Extract text
             textOnePage = page.get_text()
             textInPages += textOnePage
@@ -218,7 +215,7 @@ for year in years_to_search:
         for i, companyRow in enumerate(dax_reader):
             print(companyRow[0])
             to_find_per_year += 1
-            scraping_result = scrape_google_and_order(companyRow[0] + " sustainability report " + str(year) + " inurl:pdf", str(year), doubt_count, companyRow[0])
+            scraping_result = scrape_google_and_order(companyRow[0] + " sustainability report " + str(year) + " filetype:pdf", str(year), doubt_count, companyRow[0])
             doubt_count = scraping_result[1]
     
      
@@ -240,9 +237,10 @@ for year in years_to_search:
       json.dump(found_list, write_file, indent=4)
 
 # TEST
-# companyRow = "Deutsche Boerse"
+# companyRow = "E.ON"
 # year = 2018
-# scrape_google_and_order("Deutsche Boerse sustainability report 2018 inurl:pdf", str(year), 0, companyRow)
+# scrape_google_and_order("E.ON sustainability report #2018# filetype:pdf", str(year), 0, companyRow)
 
-#TODO str.lower( for link and list of words in if)
-#MAN 2020
+#TODO Refactoring : 3 verschieden Dateien : scraping, downloading, Text Suche
+# 2 verschiedene Output Dateien : 1 vor dem download, 1 nach dem Text suche
+# Guacamole ?
