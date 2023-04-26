@@ -1,0 +1,269 @@
+51 might be wrong :{
+    "2017": [
+        {
+            "company": "Bayer",
+            "query": "Bayer sustainability report 2017 filetype:pdf",
+            "link": "https://www.bayer.com/sites/default/files/bayer_ar17_entire.pdf"
+        },
+        {
+            "company": "Deutsche Post",
+            "query": "Deutsche Post sustainability report 2017 filetype:pdf",
+            "link": "https://www.dpdhl.com/content/dam/dpdhl/en/media-center/responsibility/dpdhl-corporate-responsibility-report-2017.pdf"
+        },
+        {
+            "company": "Deutsche Telekom",
+            "query": "Deutsche Telekom sustainability report 2017 filetype:pdf",
+            "link": "https://www.telekom.com/resource/blob/512798/3accce9a6968ba72b7bc3b63ffa31e02/dl-180222-q4-17-pdf-data.pdf"
+        },
+        {
+            "company": "Henkel",
+            "query": "Henkel sustainability report 2017 filetype:pdf",
+            "link": "https://www.annualreports.com/HostedData/AnnualReportArchive/h/OTC_HENKY_2017.pdf"
+        },
+        {
+            "company": "KplusS",
+            "query": "KplusS sustainability report 2017 filetype:pdf",
+            "link": "https://www.kpluss.com/en-us/.pdf/investor-relations/2017/gb2017.pdf"
+        },
+        {
+            "company": "MAN",
+            "query": "MAN sustainability report 2017 filetype:pdf",
+            "link": "https://ir.traton.com/download/companies/traton/annual_brands/MANGB2017_EN.pdf"
+        },
+        {
+            "company": "Siemens",
+            "query": "Siemens sustainability report 2017 filetype:pdf",
+            "link": "https://www.siemens.com/investor/pool/en/investor_relations/siemens_sustainability_information2017.pdf"
+        }
+    ],
+    "2018": [
+        {
+            "company": "Bayer",
+            "query": "Bayer sustainability report 2018 filetype:pdf",
+            "link": "https://www.bayer.com/sites/default/files/2020-04/bayer_ar18_entire.pdf"
+        },
+        {
+            "company": "Deutsche Post",
+            "query": "Deutsche Post sustainability report 2018 filetype:pdf",
+            "link": "https://www.dpdhl.com/content/dam/dpdhl/en/media-center/responsibility/dpdhl-corporate-responsibility-report-2018.pdf"
+        },
+        {
+            "company": "Merck",
+            "query": "Merck sustainability report 2018 filetype:pdf",
+            "link": "https://www.merck.com/wp-content/uploads/sites/5/2021/08/MRK_ESG18_MSD_v10.pdf"
+        },
+        {
+            "company": "RWE",
+            "query": "RWE sustainability report 2018 filetype:pdf",
+            "link": "https://www.banktrack.org/download/csr_report_2018_15"
+        }
+    ],
+    "2019": [
+        {
+            "company": "Deutsche Boerse",
+            "query": "Deutsche Boerse sustainability report 2019 filetype:pdf",
+            "link": "https://www.deutsche-boerse.com/resource/blob/1749806/6eb7d4e5d332c3c83aaaa239dc955e05/data/DBG-gri-index-AR-2019.pdf"
+        },
+        {
+            "company": "Deutsche Post",
+            "query": "Deutsche Post sustainability report 2019 filetype:pdf",
+            "link": "https://www.dhl.com/content/dam/dhl/global/core/documents/pdf/sustainability-report.pdf"
+        },
+        {
+            "company": "Deutsche Telekom",
+            "query": "Deutsche Telekom sustainability report 2019 filetype:pdf",
+            "link": "https://www.telekom.com/resource/blob/592886/e320aaecaf7a0a6186804fe09e9a5978/dl-200219-q4-19-pdf-data.pdf"
+        },
+        {
+            "company": "Henkel",
+            "query": "Henkel sustainability report 2019 filetype:pdf",
+            "link": "https://ungc-production.s3.us-west-2.amazonaws.com/attachments/cop_2019/472114/original/henkel-sustainability-report-2018.pdf?1551174737"
+        },
+        {
+            "company": "Siemens",
+            "query": "Siemens sustainability report 2019 filetype:pdf",
+            "link": "https://assets.new.siemens.com/siemens/assets/api/uuid:16c327d3-3e02-427e-952f-e7f610d954fe/siemens-sustainability-information-2019.pdf"
+        }
+    ],
+    "2020": [
+        {
+            "company": "Adidas",
+            "query": "Adidas sustainability report 2020 filetype:pdf",
+            "link": "https://www.adidas-group.com/media/filer_public/f8/10/f8105750-28cb-4a13-9e2c-7031785b2c92/adidas_gcr_2020_en.pdf"
+        },
+        {
+            "company": "Deutsche Bank",
+            "query": "Deutsche Bank sustainability report 2020 filetype:pdf",
+            "link": "https://agm.db.com/files/documents/2022/Non_Financial_Report_2021.pdf"
+        },
+        {
+            "company": "Deutsche Boerse",
+            "query": "Deutsche Boerse sustainability report 2020 filetype:pdf",
+            "link": "https://www.deutsche-boerse.com/resource/blob/2377046/8ef820d3ae02e49e8769657a7b602f7a/data/DBG-Detailed-GRI-index-Deutsche-B-rse-Group-AR-2020.pdf"
+        },
+        {
+            "company": "Deutsche Post",
+            "query": "Deutsche Post sustainability report 2020 filetype:pdf",
+            "link": "https://www.dhl.com/content/dam/dhl/global/core/documents/pdf/sustainability-report.pdf"
+        },
+        {
+            "company": "HeidelbergCement",
+            "query": "HeidelbergCement sustainability report 2020 filetype:pdf",
+            "link": "https://www.heidelbergmaterials.com/sites/default/files/2022-06/220529-HC-NB-2021-EN.pdf"
+        },
+        {
+            "company": "Henkel",
+            "query": "Henkel sustainability report 2020 filetype:pdf",
+            "link": "https://www.isscorporatesolutions.com/file/documents/spo/20211005-henkel.pdf"
+        },
+        {
+            "company": "Infineon",
+            "query": "Infineon sustainability report 2020 filetype:pdf",
+            "link": "https://www.infineon.com/dgdl/Combined+Separate+Non-Financial+Report+(as+part+of+CSR+Report).pdf?fileId=8ac78c8b7dc42254017dc9570136004b"
+        },
+        {
+            "company": "Linde",
+            "query": "Linde sustainability report 2020 filetype:pdf",
+            "link": "https://www.linde.com/-/media/linde/merger/documents/sustainable-development/2020/sustainable-development-report.pdf"
+        },
+        {
+            "company": "Merck",
+            "query": "Merck sustainability report 2020 filetype:pdf",
+            "link": "https://www.merckgroup.com/en/sustainability-report/2020/servicepages/downloads/files/entire-merck-sr20.pdf"
+        },
+        {
+            "company": "SAP",
+            "query": "SAP sustainability report 2020 filetype:pdf",
+            "link": "https://www3.weforum.org/docs/SAP_WEF_Sustainability_Report.pdf"
+        },
+        {
+            "company": "Siemens",
+            "query": "Siemens sustainability report 2020 filetype:pdf",
+            "link": "https://assets.new.siemens.com/siemens/assets/api/uuid:13f56263-0d96-421c-a6a4-9c10bb9b9d28/sustainability2020-en.pdf"
+        },
+        {
+            "company": "ThyssenKrupp",
+            "query": "ThyssenKrupp sustainability report 2020 filetype:pdf",
+            "link": "https://ucpcdn.thyssenkrupp.com/_binary/UCPthyssenkruppAG/9fee6ee8-a921-445a-b5b7-6be9c29d8446/thyssenkrupp-GB-en-2020-2021-Web.pdf"
+        }
+    ],
+    "2021": [
+        {
+            "company": "Adidas",
+            "query": "Adidas sustainability report 2021 filetype:pdf",
+            "link": "https://www.adidas-group.com/media/filer_public/7d/f0/7df07b9c-8c97-4461-bb79-82bc2cfa9555/sasb_summary_table_for_publication_2022_1803_clean.pdf"
+        },
+        {
+            "company": "Daimler",
+            "query": "Daimler sustainability report 2021 filetype:pdf",
+            "link": "https://group.mercedes-benz.com/documents/sustainability/other/mercedes-benz-sustainability-report-2021.pdf"
+        },
+        {
+            "company": "Deutsche Bank",
+            "query": "Deutsche Bank sustainability report 2021 filetype:pdf",
+            "link": "https://agm.db.com/files/documents/2022/Non_Financial_Report_2021.pdf"
+        },
+        {
+            "company": "Deutsche Boerse",
+            "query": "Deutsche Boerse sustainability report 2021 filetype:pdf",
+            "link": "https://www.deutsche-boerse.com/resource/blob/2725890/b7aa12e3d57cbe2f4a0e670ee75fb865/data/DBG-Detailed-GRI-index-Deutsche-Bo-rse-Group-AR-2021.pdf"
+        },
+        {
+            "company": "Deutsche Post",
+            "query": "Deutsche Post sustainability report 2021 filetype:pdf",
+            "link": "https://reporting-hub.dpdhl.com/downloads/2021/4/en/DPDHL-2021-Annual-Report.pdf"
+        },
+        {
+            "company": "HeidelbergCement",
+            "query": "HeidelbergCement sustainability report 2021 filetype:pdf",
+            "link": "https://www.heidelbergmaterials.com/sites/default/files/2022-06/220529-HC-NB-2021-EN.pdf"
+        },
+        {
+            "company": "Henkel",
+            "query": "Henkel sustainability report 2021 filetype:pdf",
+            "link": "https://www.isscorporatesolutions.com/file/documents/spo/20211005-henkel.pdf"
+        },
+        {
+            "company": "Infineon",
+            "query": "Infineon sustainability report 2021 filetype:pdf",
+            "link": "https://www.infineon.com/export/sites/default/en/about-infineon/sustainability/IFX21_Our-sustainability-targets_EN_secured.pdf"
+        },
+        {
+            "company": "Siemens",
+            "query": "Siemens sustainability report 2021 filetype:pdf",
+            "link": "https://assets.new.siemens.com/siemens/assets/api/uuid:4806da09-01c7-40b1-af91-99af4b726653/sustainability2021-en.pdf"
+        },
+        {
+            "company": "ThyssenKrupp",
+            "query": "ThyssenKrupp sustainability report 2021 filetype:pdf",
+            "link": "https://ucpcdn.thyssenkrupp.com/_binary/UCPthyssenkruppAG/9fee6ee8-a921-445a-b5b7-6be9c29d8446/thyssenkrupp-GB-en-2020-2021-Web.pdf"
+        }
+    ],
+    "2022": [
+        {
+            "company": "Commerzbank",
+            "query": "Commerzbank sustainability report 2022 filetype:pdf",
+            "link": "https://www.commerzbank.de/media/nachhaltigkeit/nfe/Commerzbank_NFR_2022.pdf"
+        },
+        {
+            "company": "Daimler",
+            "query": "Daimler sustainability report 2022 filetype:pdf",
+            "link": "https://group.mercedes-benz.com/documents/sustainability/other/mercedes-benz-sustainability-report-2021.pdf"
+        },
+        {
+            "company": "Deutsche Bank",
+            "query": "Deutsche Bank sustainability report 2022 filetype:pdf",
+            "link": "https://investor-relations.db.com/files/documents/annual-reports/2023/Non-Financial-Report-2022.pdf"
+        },
+        {
+            "company": "Deutsche Post",
+            "query": "Deutsche Post sustainability report 2022 filetype:pdf",
+            "link": "https://www.dpdhl.com/content/dam/dpdhl/en/investors/creditor-relations/slf-framework/DPDHL-Sustainability-Linked-Finance-Framework-November-2022.pdf"
+        },
+        {
+            "company": "Deutsche Telekom",
+            "query": "Deutsche Telekom sustainability report 2022 filetype:pdf",
+            "link": "https://www.telekom.com/resource/blob/1018322/5abb9df4025d88d628ec322d290fc97a/dt-sustainability-day-2022-presentation-74pages--data.pdf"
+        },
+        {
+            "company": "E.ON",
+            "query": "E.ON sustainability report 2022 filetype:pdf",
+            "link": "https://annualreport.eon.com/content/dam/eon-annualreport/documents/en/EON_2021_Sustainability_Report.pdf"
+        },
+        {
+            "company": "HeidelbergCement",
+            "query": "HeidelbergCement sustainability report 2022 filetype:pdf",
+            "link": "https://www.heidelbergmaterials.com/sites/default/files/2022-06/220529-HC-NB-2021-EN.pdf"
+        },
+        {
+            "company": "Henkel",
+            "query": "Henkel sustainability report 2022 filetype:pdf",
+            "link": "https://www.se.com/ww/en/assets/564/document/396659/2022-sustainability-report.pdf"
+        },
+        {
+            "company": "Infineon",
+            "query": "Infineon sustainability report 2022 filetype:pdf",
+            "link": "https://www.infineon.com/dgdl/Sustainability+at+Infineon+2022-Explanatory+Notes.pdf?fileId=8ac78c8b84a33cb40184bd6b312a0036"
+        },
+        {
+            "company": "Linde",
+            "query": "Linde sustainability report 2022 filetype:pdf",
+            "link": "https://www.linde.com/-/media/linde/merger/documents/sustainable-development/2021/2021-sustainable-development-report-v2.pdf"
+        },
+        {
+            "company": "MAN",
+            "query": "MAN sustainability report 2022 filetype:pdf",
+            "link": "https://www.man-es.com/docs/default-source/sustainability/man-es_corporate_responsibility_report_en_2021_rz.pdf?sfvrsn=5eaa04c9_6"
+        },
+        {
+            "company": "SAP",
+            "query": "SAP sustainability report 2022 filetype:pdf",
+            "link": "https://sapsa.se/wp-content/uploads/2022/05/sap-sustainabilitysugenjsullivan220428.pdf"
+        },
+        {
+            "company": "ThyssenKrupp",
+            "query": "ThyssenKrupp sustainability report 2022 filetype:pdf",
+            "link": "https://d2zo35mdb530wx.cloudfront.net/_binary/UCPthyssenkruppMarineSystems/09e3ca08-2501-4bdf-a63c-0b97f59543d5/tkMS_Sustainability_Report.pdf"
+        }
+    ]
+}
