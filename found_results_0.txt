@@ -1,9 +1,5 @@
 2017 : 76.66666666666667% were found
 2018 : 86.66666666666667% were found
-2019 : 83.33333333333333% were found
-2020 : 60.0% were found
-2021 : 63.333333333333336% were found
-2022 : 50.0% were found
 {
     "2017": [
         {
@@ -24,7 +20,7 @@
         {
             "company": "Beiersdorf",
             "query": "Beiersdorf sustainability report 2017 filetype:pdf",
-            "link": "https://www.beiersdorf.com/~/media/Beiersdorf/sustainability/reporting/sustainability-review/2017/Beiersdorf-Consumer-Sustainability-Review-2017.pdf"
+            "link": "https://www.beiersdorf.com/~/media/Beiersdorf/sustainability/reporting/sustainability-review/2017/Sustainability-Report-2017-Updated-documents/20190731-Beiersdorf-Sustainability-Review-2017-Consumer-EN.pdf"
         },
         {
             "company": "BMW",
@@ -44,7 +40,7 @@
         {
             "company": "Deutsche Bank",
             "query": "Deutsche Bank sustainability report 2017 filetype:pdf",
-            "link": "https://investor-relations.db.com/files/documents/annual-reports/Deutsche_Bank_GRI_Content_Index_Non-Financial_Report_2017.pdf?language_id=1"
+            "link": "https://investor-relations.db.com/files/documents/annual-reports/Deutsche_Bank_Non-Financial_Report_2017.pdf?language_id=1"
         },
         {
             "company": "Deutsche Boerse",
@@ -144,11 +140,6 @@
             "link": "https://www.beiersdorf.com/~/media/Beiersdorf/sustainability/reporting/sustainability-review/2018/Beiersdorf-Sustainability-Review-EN-2018.pdf"
         },
         {
-            "company": "BMW",
-            "query": "BMW sustainability report 2018 filetype:pdf",
-            "link": "http://www.bmw-brilliance.cn/cn/en/common/download/sustainability_report/BMW_Brilliance_Sustainability_Report_2018_ENG.pdf"
-        },
-        {
             "company": "Commerzbank",
             "query": "Commerzbank sustainability report 2018 filetype:pdf",
             "link": "https://ungc-production.s3.us-west-2.amazonaws.com/attachments/cop_2019/477078/original/Commerzbank_GRI_Report_2018_EN.pdf?1564481132"
@@ -191,7 +182,7 @@
         {
             "company": "HeidelbergCement",
             "query": "HeidelbergCement sustainability report 2018 filetype:pdf",
-            "link": "https://flacema.org/wp-content/uploads/2020/07/heidelbergcement-sustainability-report-2018.pdf"
+            "link": "https://www.heidelbergmaterials.com/sites/default/files/assets/document/29/d2/heidelbergcement-sustainability-report-2018.pdf"
         },
         {
             "company": "Henkel",
@@ -216,12 +207,17 @@
         {
             "company": "Lufthansa",
             "query": "Lufthansa sustainability report 2018 filetype:pdf",
-            "link": "https://www.lufthansagroup.com/media/downloads/en/responsibility/LH-sustainability-report-2018.pdf"
+            "link": "https://www.lufthansagroup.com/media/downloads/de/verantwortung/LH-Nachhaltigkeitsbericht-2018.pdf"
         },
         {
             "company": "MAN",
             "query": "MAN sustainability report 2018 filetype:pdf",
             "link": "https://www.volkswagenag.com/presence/investorrelation/publications/annual-reports/2019/man/MAN_GB_2018_EN.pdf"
+        },
+        {
+            "company": "Merck",
+            "query": "Merck sustainability report 2018 filetype:pdf",
+            "link": "https://www.merckgroup.com/investors/reports-and-financials/earnings-materials/2018-q4/en/2018-Q4-Report-EN.pdf"
         },
         {
             "company": "Metro",
@@ -234,417 +230,24 @@
             "link": "https://www.munichre.com/content/dam/munichre/contentlounge/website-pieces/documents/MunichRe-CR-Report-2018.pdf/_jcr_content/renditions/original./MunichRe-CR-Report-2018.pdf"
         },
         {
+            "company": "RWE",
+            "query": "RWE sustainability report 2018 filetype:pdf",
+            "link": "https://www.rwe.com/-/media/RWE/documents/09-verantwortung-nachhaltigkeit/cr-berichte/bericht-2018.pdf"
+        },
+        {
             "company": "SAP",
             "query": "SAP sustainability report 2018 filetype:pdf",
             "link": "https://ungc-production.s3.us-west-2.amazonaws.com/attachments/cop_2019/472632/original/sap-2018-integrated-report.pdf?1552663326"
         },
         {
-            "company": "Siemens",
-            "query": "Siemens sustainability report 2018 filetype:pdf",
-            "link": "https://assets.new.siemens.com/siemens/assets/api/uuid:4bfbab10-00d6-4a22-aad2-b50f3f232bfb/siemens-annual-report-2018.pdf"
-        },
-        {
             "company": "ThyssenKrupp",
             "query": "ThyssenKrupp sustainability report 2018 filetype:pdf",
-            "link": "https://www.annualreports.com/HostedData/AnnualReportArchive/t/thyssenKrupp-ag_2018.pdf"
+            "link": "https://ucpcdn.thyssenkrupp.com/_legacy/UCPthyssenkruppAG/assets.files/media/investoren/berichterstattung-publikationen/update-21.11.2019/en/thyssenkrupp-gb-2018-2019-en-web_neu.pdf"
         },
         {
             "company": "Volkswagen",
             "query": "Volkswagen sustainability report 2018 filetype:pdf",
             "link": "https://www.volkswagenag.com/presence/nachhaltigkeit/documents/sustainability-report/2018/Nonfinancial_Report_2018_e.pdf"
-        }
-    ],
-    "2019": [
-        {
-            "company": "Adidas",
-            "query": "Adidas sustainability report 2019 filetype:pdf",
-            "link": "https://www.adidas-group.com/media/filer_public/a8/5c/a85c9b8e-865b-4237-8def-8574be243577/annual_report_gb-2019_en.pdf"
-        },
-        {
-            "company": "Allianz",
-            "query": "Allianz sustainability report 2019 filetype:pdf",
-            "link": "https://www.allianz.com/content/dam/onemarketing/azcom/Allianz_com/sustainability/documents/Allianz_Group_Sustainability_Report_2019-web.pdf"
-        },
-        {
-            "company": "BASF",
-            "query": "BASF sustainability report 2019 filetype:pdf",
-            "link": "https://www.basf.com/global/documents/en/news-and-media/publications/reports/2020/BASF_Report_2019.pdf"
-        },
-        {
-            "company": "Bayer",
-            "query": "Bayer sustainability report 2019 filetype:pdf",
-            "link": "https://www.bayer.com/sites/default/files/bayer-ag-sustainability-report-2019_9.pdf"
-        },
-        {
-            "company": "Beiersdorf",
-            "query": "Beiersdorf sustainability report 2019 filetype:pdf",
-            "link": "https://www.beiersdorf.com/~/media/Beiersdorf/sustainability/reporting/sustainability-review/2019/Beiersdorf-Sustainability-Review-2019.pdf"
-        },
-        {
-            "company": "BMW",
-            "query": "BMW sustainability report 2019 filetype:pdf",
-            "link": "http://www.bmw-brilliance.cn/cn/en/common/download/sustainability_report/BMW_Brilliance_Sustainability_Report_2019_ENG.pdf"
-        },
-        {
-            "company": "Commerzbank",
-            "query": "Commerzbank sustainability report 2019 filetype:pdf",
-            "link": "https://www.commerzbank.de/media/nachhaltigkeit/gri_2019/Commerzbank_GRI_Report_2019.pdf"
-        },
-        {
-            "company": "Daimler",
-            "query": "Daimler sustainability report 2019 filetype:pdf",
-            "link": "https://group.mercedes-benz.com/documents/sustainability/other/daimler-sustainability-report-2019.pdf"
-        },
-        {
-            "company": "Deutsche Bank",
-            "query": "Deutsche Bank sustainability report 2019 filetype:pdf",
-            "link": "https://investor-relations.db.com/files/documents/annual-reports/Deutsche_Bank_Non-Financial_Report_2019.pdf?language_id=1"
-        },
-        {
-            "company": "E.ON",
-            "query": "E.ON sustainability report 2019 filetype:pdf",
-            "link": "https://www.eon.com/content/dam/eon/eon-com/Documents/en/sustainability-report/2019/eon_2019_sustainability_report.pdf"
-        },
-        {
-            "company": "Fresenius Medical Care",
-            "query": "Fresenius Medical Care sustainability report 2019 filetype:pdf",
-            "link": "https://www.freseniusmedicalcare.com/fileadmin/data/com/pdf/Media_Center/Publications/Annual_Reports/FME_Annual_Report_2019.pdf"
-        },
-        {
-            "company": "Fresenius SE",
-            "query": "Fresenius SE sustainability report 2019 filetype:pdf",
-            "link": "https://www.fresenius.com/sites/default/files/2022-01/Fresenius_Annual_Report_2019.pdf"
-        },
-        {
-            "company": "HeidelbergCement",
-            "query": "HeidelbergCement sustainability report 2019 filetype:pdf",
-            "link": "https://www.heidelbergmaterials.com/sites/default/files/assets/document/93/63/heidelbergcement-sustainability-report-2019.pdf"
-        },
-        {
-            "company": "Infineon",
-            "query": "Infineon sustainability report 2019 filetype:pdf",
-            "link": "https://www.infineon.com/dgdl/Infineon+Annual+Report+2019.pdf?fileId=5546d4616e8d476e016e9958480f0029"
-        },
-        {
-            "company": "KplusS",
-            "query": "KplusS sustainability report 2019 filetype:pdf",
-            "link": "https://www.kpluss.com/en-us/.pdf/investor-relations/2020/Annual_Report_2019.pdf"
-        },
-        {
-            "company": "Linde",
-            "query": "Linde sustainability report 2019 filetype:pdf",
-            "link": "https://www.linde.com/-/media/linde/merger/documents/sustainable-development/2019-sustainable-development-report.pdf?la=en"
-        },
-        {
-            "company": "Lufthansa",
-            "query": "Lufthansa sustainability report 2019 filetype:pdf",
-            "link": "https://www.lufthansagroup.com/media/downloads/en/responsibility/LH-sustainability-report-2019.pdf"
-        },
-        {
-            "company": "MAN",
-            "query": "MAN sustainability report 2019 filetype:pdf",
-            "link": "https://www.man-es.com/docs/default-source/corporate-responsibility/cr-report-2019_man-energy-solutions.pdf"
-        },
-        {
-            "company": "Merck",
-            "query": "Merck sustainability report 2019 filetype:pdf",
-            "link": "https://www.merckgroup.com/en/cr-report/2019/servicepages/downloads/files/entire_merck_crr19.pdf"
-        },
-        {
-            "company": "Metro",
-            "query": "Metro sustainability report 2019 filetype:pdf",
-            "link": "https://corpo.metro.ca/userfiles/file/PDF/Responsabilite_entreprise/2020/METRO_CR_Report_2019_EN.pdf"
-        },
-        {
-            "company": "Munich Re",
-            "query": "Munich Re sustainability report 2019 filetype:pdf",
-            "link": "https://www.munichre.com/content/dam/munichre/contentlounge/website-pieces/documents/cr-report-2019.pdf/_jcr_content/renditions/original./cr-report-2019.pdf"
-        },
-        {
-            "company": "RWE",
-            "query": "RWE sustainability report 2019 filetype:pdf",
-            "link": "https://www.rwe.com/-/media/RWE/documents/09-verantwortung-nachhaltigkeit/cr-berichte/EN/rwe-overall-report-2019.pdf"
-        },
-        {
-            "company": "SAP",
-            "query": "SAP sustainability report 2019 filetype:pdf",
-            "link": "https://ungc-production.s3.us-west-2.amazonaws.com/attachments/cop_2020/484079/original/sap-2019-integrated-report.pdf?1584364574"
-        },
-        {
-            "company": "ThyssenKrupp",
-            "query": "ThyssenKrupp sustainability report 2019 filetype:pdf",
-            "link": "https://ucpcdn.thyssenkrupp.com/_legacy/UCPthyssenkruppAG/assets.files/media/investoren/berichterstattung-publikationen/update-21.11.2019/en/thyssenkrupp-gb-2018-2019-en-web_neu.pdf"
-        },
-        {
-            "company": "Volkswagen",
-            "query": "Volkswagen sustainability report 2019 filetype:pdf",
-            "link": "https://www.volkswagenag.com/presence/nachhaltigkeit/documents/sustainability-report/2019/Nonfinancial_Report_2019_e.pdf"
-        }
-    ],
-    "2020": [
-        {
-            "company": "Allianz",
-            "query": "Allianz sustainability report 2020 filetype:pdf",
-            "link": "https://www.allianz.com/content/dam/onemarketing/azcom/Allianz_com/sustainability/documents/Allianz_Group_Sustainability_Report_2020-web.pdf"
-        },
-        {
-            "company": "BASF",
-            "query": "BASF sustainability report 2020 filetype:pdf",
-            "link": "https://www.basf.com/kr/documents/publications/2021/BASF_Report_2020.pdf"
-        },
-        {
-            "company": "Bayer",
-            "query": "Bayer sustainability report 2020 filetype:pdf",
-            "link": "https://www.bayer.com/sites/default/files/CSR%20Report%20Bayer%20Switzerland%202020_0.pdf"
-        },
-        {
-            "company": "Beiersdorf",
-            "query": "Beiersdorf sustainability report 2020 filetype:pdf",
-            "link": "https://www.beiersdorf.com/~/media/Beiersdorf/investors/financial-reports/2021/annual-report/Beiersdorf-2020-Annual-Report-EN.pdf"
-        },
-        {
-            "company": "BMW",
-            "query": "BMW sustainability report 2020 filetype:pdf",
-            "link": "https://report2020.bmwgroup.com/data/pdf/en/BMW-Group-Bericht-2020-EN.pdf"
-        },
-        {
-            "company": "Commerzbank",
-            "query": "Commerzbank sustainability report 2020 filetype:pdf",
-            "link": "https://www.commerzbank.de/media/nachhaltigkeit/gri_bilanz_2020/GRI_Report_2020.pdf"
-        },
-        {
-            "company": "Daimler",
-            "query": "Daimler sustainability report 2020 filetype:pdf",
-            "link": "https://group.mercedes-benz.com/documents/sustainability/other/daimler-sustainability-report-2020.pdf"
-        },
-        {
-            "company": "Deutsche Telekom",
-            "query": "Deutsche Telekom sustainability report 2020 filetype:pdf",
-            "link": "https://www.telekom.hu/static-tr/sw/file/magyar-telekom-sustainability-report-2020.pdf"
-        },
-        {
-            "company": "E.ON",
-            "query": "E.ON sustainability report 2020 filetype:pdf",
-            "link": "https://www.eon.com/content/dam/eon/eon-com/eon-com-assets/documents/sustainability/en/sustainability-report/2020/EON_2020_Sustainability_Report.pdf"
-        },
-        {
-            "company": "Fresenius Medical Care",
-            "query": "Fresenius Medical Care sustainability report 2020 filetype:pdf",
-            "link": "https://www.freseniusmedicalcare.com/fileadmin/data/com/pdf/investors/03_Publications/2020/FME_Annual_Report_2020_EN.pdf"
-        },
-        {
-            "company": "Fresenius SE",
-            "query": "Fresenius SE sustainability report 2020 filetype:pdf",
-            "link": "https://www.fresenius.com/sites/default/files/2021-11/Fresenius_Annual_Report_2020.pdf"
-        },
-        {
-            "company": "KplusS",
-            "query": "KplusS sustainability report 2020 filetype:pdf",
-            "link": "https://www.kpluss.com/.downloads/annual-reports/2021/kpluss-annual-report-2020.pdf"
-        },
-        {
-            "company": "Lufthansa",
-            "query": "Lufthansa sustainability report 2020 filetype:pdf",
-            "link": "https://www.lufthansagroup.com/media/downloads/en/responsibility/LH-TCFD-Report-2020.pdf"
-        },
-        {
-            "company": "MAN",
-            "query": "MAN sustainability report 2020 filetype:pdf",
-            "link": "https://www.man-es.com/docs/default-source/press-releases-new/20200625_man-es_pr_cr-report_2020_en.pdf?sfvrsn=b0a6b5cf_2"
-        },
-        {
-            "company": "Metro",
-            "query": "Metro sustainability report 2020 filetype:pdf",
-            "link": "https://corpo.metro.ca/userfiles/file/PDF/Responsabilite_entreprise/2021/METRO_CR_Report_2020-EN.pdf"
-        },
-        {
-            "company": "Munich Re",
-            "query": "Munich Re sustainability report 2020 filetype:pdf",
-            "link": "https://www.munichre.com/content/dam/munichre/mrwebsiteslaunches/2020-annual-report/MunichRe-Group-Annual-Report-2020-en.pdf/_jcr_content/renditions/original./MunichRe-Group-Annual-Report-2020-en.pdf"
-        },
-        {
-            "company": "RWE",
-            "query": "RWE sustainability report 2020 filetype:pdf",
-            "link": "https://www.rwe.com/-/media/RWE/documents/09-verantwortung-nachhaltigkeit/cr-berichte/EN/cr-report-2020.pdf"
-        },
-        {
-            "company": "Volkswagen",
-            "query": "Volkswagen sustainability report 2020 filetype:pdf",
-            "link": "https://www.volkswagenag.com/presence/nachhaltigkeit/documents/sustainability-report/2020/Nonfinancial_Report_2020_e.pdf"
-        }
-    ],
-    "2021": [
-        {
-            "company": "Allianz",
-            "query": "Allianz sustainability report 2021 filetype:pdf",
-            "link": "https://www.allianz.com/content/dam/onemarketing/azcom/Allianz_com/sustainability/documents/Allianz_Group_Sustainability_Report_2021-web.pdf"
-        },
-        {
-            "company": "BASF",
-            "query": "BASF sustainability report 2021 filetype:pdf",
-            "link": "https://www.basf.com/in/documents/en/investor-relations/annual-reports/2022/Annual%20Report%202021-2022.pdf"
-        },
-        {
-            "company": "Bayer",
-            "query": "Bayer sustainability report 2021 filetype:pdf",
-            "link": "https://www.bayer.com/sites/default/files/SustainabilityCouncil-Report-2021_0.pdf"
-        },
-        {
-            "company": "Beiersdorf",
-            "query": "Beiersdorf sustainability report 2021 filetype:pdf",
-            "link": "https://www.beiersdorf.com/~/media/Beiersdorf/sustainability/reporting/sustainable-reporting/2022/Beiersdorf-NFE-EN-2021.pdf"
-        },
-        {
-            "company": "BMW",
-            "query": "BMW sustainability report 2021 filetype:pdf",
-            "link": "http://www.bmw-brilliance.cn/cn/en/common/download/sustainability_report/BBA_SR_2021_Full_Report_EN_FINAL.pdf"
-        },
-        {
-            "company": "Commerzbank",
-            "query": "Commerzbank sustainability report 2021 filetype:pdf",
-            "link": "https://cdn2.assets-servd.host/green-field/production/files/Commerzbank_GRI_Report_2021.pdf"
-        },
-        {
-            "company": "Daimler",
-            "query": "Daimler sustainability report 2021 filetype:pdf",
-            "link": "https://www.daimlertruck.com/fileadmin/user_upload/documents/investors/capital-market-releases/financial-news/220608-dtg-investor-relations-release-daimler-truck-publishes-sustainability-report-2021.pdf"
-        },
-        {
-            "company": "Deutsche Telekom",
-            "query": "Deutsche Telekom sustainability report 2021 filetype:pdf",
-            "link": "https://www.cr-report.telekom.com/2021/sites/default/files/pdf/gri_en_2021.pdf"
-        },
-        {
-            "company": "E.ON",
-            "query": "E.ON sustainability report 2021 filetype:pdf",
-            "link": "https://annualreport.eon.com/content/dam/eon-annualreport/documents/en/EON_2021_Sustainability_Report.pdf"
-        },
-        {
-            "company": "Fresenius Medical Care",
-            "query": "Fresenius Medical Care sustainability report 2021 filetype:pdf",
-            "link": "https://www.fresenius.com/sites/default/files/2022-03/Fresenius_Annual_Report_2021.pdf"
-        },
-        {
-            "company": "Fresenius SE",
-            "query": "Fresenius SE sustainability report 2021 filetype:pdf",
-            "link": "https://www.fresenius.com/sites/default/files/2022-03/Fresenius_Annual_Report_2021.pdf"
-        },
-        {
-            "company": "KplusS",
-            "query": "KplusS sustainability report 2021 filetype:pdf",
-            "link": "https://www.kpluss.com/.downloads/annual-reports/2022/kpluss-annual-report-2021.pdf"
-        },
-        {
-            "company": "Linde",
-            "query": "Linde sustainability report 2021 filetype:pdf",
-            "link": "https://www.linde.com/-/media/linde/merger/documents/sustainable-development/2021/2021-sustainable-development-report-v2.pdf"
-        },
-        {
-            "company": "MAN",
-            "query": "MAN sustainability report 2021 filetype:pdf",
-            "link": "https://www.man-es.com/docs/default-source/sustainability/man-es_corporate_responsibility_report_en_2021_rz.pdf?sfvrsn=5eaa04c9_6"
-        },
-        {
-            "company": "Merck",
-            "query": "Merck sustainability report 2021 filetype:pdf",
-            "link": "https://www.merckgroup.com/en/sustainability-report/2021/_assets/downloads/entire-merck-sr21.pdf"
-        },
-        {
-            "company": "Metro",
-            "query": "Metro sustainability report 2021 filetype:pdf",
-            "link": "https://corpo.metro.ca/userfiles/file/PDF/2021-cr-report"
-        },
-        {
-            "company": "Munich Re",
-            "query": "Munich Re sustainability report 2021 filetype:pdf",
-            "link": "https://www.munichre.com/content/dam/munichre/mrwebsiteslaunches/2021-annual-report/MunichRe-Group-Annual-Report-2021-en.pdf/_jcr_content/renditions/original./MunichRe-Group-Annual-Report-2021-en.pdf"
-        },
-        {
-            "company": "SAP",
-            "query": "SAP sustainability report 2021 filetype:pdf",
-            "link": "https://news.sap.com/latinamerica/files/2022/02/01/Infographic_CSR-2021-Mexico-Report.pdf"
-        },
-        {
-            "company": "Volkswagen",
-            "query": "Volkswagen sustainability report 2021 filetype:pdf",
-            "link": "https://www.volkswagenag.com/presence/nachhaltigkeit/documents/sustainability-report/2021/Nonfinancial_Report_2021_e.pdf"
-        }
-    ],
-    "2022": [
-        {
-            "company": "Allianz",
-            "query": "Allianz sustainability report 2022 filetype:pdf",
-            "link": "https://www.allianz.com/content/dam/onemarketing/azcom/Allianz_com/sustainability/documents/Allianz_Group_Sustainability_Report_2022-web.pdf"
-        },
-        {
-            "company": "BASF",
-            "query": "BASF sustainability report 2022 filetype:pdf",
-            "link": "https://www.basf.com/global/documents/en/investor-relations/basf-at-a-glance/key-financial-data/fy-2022/BASF_Report_2022_Corporate_Governance.pdf"
-        },
-        {
-            "company": "Bayer",
-            "query": "Bayer sustainability report 2022 filetype:pdf",
-            "link": "https://www.bayer.com/sites/default/files/Sustainability%20Progress%20Report_2022.pdf"
-        },
-        {
-            "company": "Beiersdorf",
-            "query": "Beiersdorf sustainability report 2022 filetype:pdf",
-            "link": "https://www.beiersdorf.com/~/media/Beiersdorf/sustainability/reporting/sustainability-review/2023/Beiersdorf-Sustainability-Highlight-Report-2022-en.pdf"
-        },
-        {
-            "company": "BMW",
-            "query": "BMW sustainability report 2022 filetype:pdf",
-            "link": "https://www.bmwgroup.com/en/report/2022/downloads/BMW-Group-Report-2022-en.pdf"
-        },
-        {
-            "company": "Deutsche Boerse",
-            "query": "Deutsche Boerse sustainability report 2022 filetype:pdf",
-            "link": "https://www.deutsche-boerse.com/resource/blob/3373886/4f81ce68b319100305315c3262a38d2d/data/DBG-Combined-management-report-AR-2022.pdf"
-        },
-        {
-            "company": "Fresenius SE",
-            "query": "Fresenius SE sustainability report 2022 filetype:pdf",
-            "link": "https://www.fresenius.com/sites/default/files/2023-03/Fresenius_Annual_Report_2022_3.pdf"
-        },
-        {
-            "company": "KplusS",
-            "query": "KplusS sustainability report 2022 filetype:pdf",
-            "link": "https://www.kpluss.com/.downloads/annual-reports/2023/kpluss-2022-annual-report.pdf"
-        },
-        {
-            "company": "Lufthansa",
-            "query": "Lufthansa sustainability report 2022 filetype:pdf",
-            "link": "https://investor-relations.lufthansagroup.com/fileadmin/downloads/en/financial-reports/annual-reports/LH-AR-2022-e.pdf"
-        },
-        {
-            "company": "Merck",
-            "query": "Merck sustainability report 2022 filetype:pdf",
-            "link": "https://www.merckgroup.com/en/sustainability-report/2022/_assets/downloads/entire-merck-sr22.pdf"
-        },
-        {
-            "company": "Metro",
-            "query": "Metro sustainability report 2022 filetype:pdf",
-            "link": "https://corpo.metro.ca/userfiles/file/PDF/2022-cr-report.pdf"
-        },
-        {
-            "company": "Munich Re",
-            "query": "Munich Re sustainability report 2022 filetype:pdf",
-            "link": "https://www.munichre.com/content/dam/munichre/mrwebsiteslaunches/2022-annual-report/MunichRe-Group-Annual-Report-2022-en.pdf/_jcr_content/renditions/original./MunichRe-Group-Annual-Report-2022-en.pdf"
-        },
-        {
-            "company": "RWE",
-            "query": "RWE sustainability report 2022 filetype:pdf",
-            "link": "https://www.rwe.com/-/media/RWE/documents/09-verantwortung-nachhaltigkeit/cr-berichte/sustainability-strategy-report-2022.pdf"
-        },
-        {
-            "company": "Siemens",
-            "query": "Siemens sustainability report 2022 filetype:pdf",
-            "link": "https://assets.new.siemens.com/siemens/assets/api/uuid:c1088e4f-4d7f-4fa5-8e8e-33398ecf5361/sustainability-report-fy2022.pdf"
-        },
-        {
-            "company": "Volkswagen",
-            "query": "Volkswagen sustainability report 2022 filetype:pdf",
-            "link": "https://www.volkswagenag.com/presence/nachhaltigkeit/documents/sustainability-report/2022/Nonfinancial_Report_2022_e.pdf"
         }
     ]
 }
