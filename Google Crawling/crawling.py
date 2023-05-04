@@ -34,7 +34,7 @@ def scrape_google_and_order(query, year, company, found_list, doubt_list):
 
     # Find all google search results (g class) and sub-results (d4rhi class)
     allData = soup.find_all("div",{"class":["g", "d4rhi"]})
-
+    print(allData)
     if len(allData) > 0:
         print("oui")
 
