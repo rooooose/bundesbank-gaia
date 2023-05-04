@@ -1,4 +1,4 @@
-11 might be wrong :{
+17 might be wrong :{
     "2017": [
         {
             "company": "Bayer",
@@ -13,7 +13,12 @@
         {
             "company": "Deutsche Telekom",
             "query": "Deutsche Telekom sustainability report 2017 filetype:pdf",
-            "link": "https://ungc-production.s3.us-west-2.amazonaws.com/attachments/cop_2018/464970/original/CRB2017_en_final.pdf?1530197859"
+            "link": "https://www.telekom.com/resource/blob/512798/3accce9a6968ba72b7bc3b63ffa31e02/dl-180222-q4-17-pdf-data.pdf"
+        },
+        {
+            "company": "HeidelbergCement",
+            "query": "HeidelbergCement sustainability report 2017 filetype:pdf",
+            "link": "https://www.heidelbergmaterials.com/sites/default/files/assets/document/annual-report-2017_0.pdf"
         },
         {
             "company": "Henkel",
@@ -23,12 +28,17 @@
         {
             "company": "KplusS",
             "query": "KplusS sustainability report 2017 filetype:pdf",
-            "link": "https://www.kpluss.com/en-us/.pdf/investor-relations/2017/gb2017.pdf"
+            "link": "https://www.kpluss.com/.downloads/annual-reports/2022/kpluss-annual-report-2021.pdf"
         },
         {
             "company": "MAN",
             "query": "MAN sustainability report 2017 filetype:pdf",
-            "link": "https://ir.traton.com/download/companies/traton/annual_brands/MANGB2017_EN.pdf"
+            "link": "https://www.volkswagenag.com/presence/nachhaltigkeit/documents/sustainability-report/2017/Nonfinancial_Report_2017_e.pdf"
+        },
+        {
+            "company": "SAP",
+            "query": "SAP sustainability report 2017 filetype:pdf",
+            "link": "https://www.owenscorning.com/en-us/corporate/sustainability/docs/2018/OwensCorning_2017SustainabilityReport.pdf"
         },
         {
             "company": "Siemens",
@@ -43,9 +53,9 @@
             "link": "https://www.bayer.com/sites/default/files/bayer-ag-sustainability-report-2019_9.pdf"
         },
         {
-            "company": "BMW",
-            "query": "BMW sustainability report 2018 filetype:pdf",
-            "link": "https://www.bmwgroup.com/content/dam/grpw/websites/bmwgroup_com/responsibility/downloads/en/2019/2019-BMW-Group-SVR-2018-Englisch.pdf"
+            "company": "Commerzbank",
+            "query": "Commerzbank sustainability report 2018 filetype:pdf",
+            "link": "https://www.ucb.com/_up/ucb_com_ir/documents/2018%20integrated%20annual%20report%20-%20ENG.pdf"
         },
         {
             "company": "Deutsche Post",
@@ -53,9 +63,29 @@
             "link": "https://www.dpdhl.com/content/dam/dpdhl/en/media-center/responsibility/dpdhl-corporate-responsibility-report-2018.pdf"
         },
         {
-            "company": "Siemens",
-            "query": "Siemens sustainability report 2018 filetype:pdf",
-            "link": "https://www.siemens.com/investor/pool/en/investor_relations/siemens_sustainability_information2018.pdf"
+            "company": "Deutsche Telekom",
+            "query": "Deutsche Telekom sustainability report 2018 filetype:pdf",
+            "link": "https://www.telekom.com/resource/blob/559432/6076e3a75158fd74f313f001e458cea0/dl-190221-q4-18-pdf-data.pdf"
+        },
+        {
+            "company": "KplusS",
+            "query": "KplusS sustainability report 2018 filetype:pdf",
+            "link": "https://www.kpluss.com/en-us/.pdf/investor-relations/2020/Annual_Report_2019.pdf"
+        },
+        {
+            "company": "MAN",
+            "query": "MAN sustainability report 2018 filetype:pdf",
+            "link": "https://www.crh.com/media/1022/crh-sustainability-report-2018.pdf"
+        },
+        {
+            "company": "Merck",
+            "query": "Merck sustainability report 2018 filetype:pdf",
+            "link": "https://www.merck.com/wp-content/uploads/sites/5/2021/08/MRK_ESG18_MSD_v10.pdf"
+        },
+        {
+            "company": "RWE",
+            "query": "RWE sustainability report 2018 filetype:pdf",
+            "link": "https://www.banktrack.org/download/csr_report_2018_15"
         }
     ]
 }

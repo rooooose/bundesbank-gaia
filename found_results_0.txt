@@ -1,5 +1,5 @@
-2017 : 76.66666666666667% were found
-2018 : 86.66666666666667% were found
+2017 : 70.0% were found
+2018 : 73.33333333333333% were found
 {
     "2017": [
         {
@@ -20,7 +20,7 @@
         {
             "company": "Beiersdorf",
             "query": "Beiersdorf sustainability report 2017 filetype:pdf",
-            "link": "https://www.beiersdorf.com/~/media/Beiersdorf/sustainability/reporting/sustainability-review/2017/Beiersdorf-Consumer-Sustainability-Review-2017.pdf"
+            "link": "https://www.beiersdorf.com/~/media/Beiersdorf/sustainability/reporting/sustainability-review/2017/Beiersdorf-tesa-Sustainability-Report-2017.pdf"
         },
         {
             "company": "BMW",
@@ -30,7 +30,7 @@
         {
             "company": "Commerzbank",
             "query": "Commerzbank sustainability report 2017 filetype:pdf",
-            "link": "https://www.commerzbank.de/media/nachhaltigkeit/gri_bilanz_2017/GRI_Report_2017.pdf"
+            "link": "https://www.annualreports.com/HostedData/AnnualReportArchive/c/commerzbank_2017.pdf"
         },
         {
             "company": "Daimler",
@@ -40,7 +40,7 @@
         {
             "company": "Deutsche Bank",
             "query": "Deutsche Bank sustainability report 2017 filetype:pdf",
-            "link": "https://investor-relations.db.com/files/documents/annual-reports/Deutsche_Bank_GRI_Content_Index_Non-Financial_Report_2017.pdf?language_id=1"
+            "link": "https://investor-relations.db.com/files/documents/reports/Deutsche_Bank_Compensation_Report_2017.pdf?language_id=1"
         },
         {
             "company": "Deutsche Boerse",
@@ -63,11 +63,6 @@
             "link": "https://www.fresenius.com/sites/default/files/2022-01/Fresenius_Annual_Report_2017.pdf"
         },
         {
-            "company": "HeidelbergCement",
-            "query": "HeidelbergCement sustainability report 2017 filetype:pdf",
-            "link": "https://www.heidelbergmaterials.com/sites/default/files/assets/document/37/e0/heidelbergcement-sustainability-report-2017.pdf"
-        },
-        {
             "company": "Infineon",
             "query": "Infineon sustainability report 2017 filetype:pdf",
             "link": "https://www.infineon.com/dgdl/Infineon+Annual+Report+2017.pdf?fileId=5546d4615fe36363015fea7bc7620023"
@@ -75,12 +70,12 @@
         {
             "company": "Linde",
             "query": "Linde sustainability report 2017 filetype:pdf",
-            "link": "https://www.linde.com/-/media/linde/merger/documents/sustainable-development/praxair-2017-sustainable-value-report.pdf?la=en"
+            "link": "https://www.linde.com/-/media/linde/merger/documents/sustainable-development/2017_linde_corporate_responsibility_report.pdf?la=en"
         },
         {
             "company": "Lufthansa",
             "query": "Lufthansa sustainability report 2017 filetype:pdf",
-            "link": "https://www.lufthansagroup.com/media/downloads/en/responsibility/LH-sustainability-report-2017.pdf"
+            "link": "https://investor-relations.lufthansagroup.com/fileadmin/downloads/en/financial-reports/annual-reports/LH-AR-2017-e.pdf"
         },
         {
             "company": "Merck",
@@ -101,11 +96,6 @@
             "company": "RWE",
             "query": "RWE sustainability report 2017 filetype:pdf",
             "link": "https://www.rwe.com/-/media/RWE/documents/09-verantwortung-nachhaltigkeit/cr-berichte/EN/en-bericht-2017.pdf"
-        },
-        {
-            "company": "SAP",
-            "query": "SAP sustainability report 2017 filetype:pdf",
-            "link": "https://ungc-production.s3.us-west-2.amazonaws.com/attachments/cop_2018/461806/original/sap-2017-integrated-report.pdf?1521207778"
         },
         {
             "company": "ThyssenKrupp",
@@ -140,9 +130,9 @@
             "link": "https://www.beiersdorf.com/~/media/Beiersdorf/sustainability/reporting/sustainability-review/2018/Beiersdorf-Sustainability-Review-EN-2018.pdf"
         },
         {
-            "company": "Commerzbank",
-            "query": "Commerzbank sustainability report 2018 filetype:pdf",
-            "link": "https://ungc-production.s3.us-west-2.amazonaws.com/attachments/cop_2019/477078/original/Commerzbank_GRI_Report_2018_EN.pdf?1564481132"
+            "company": "BMW",
+            "query": "BMW sustainability report 2018 filetype:pdf",
+            "link": "http://www.bmw-brilliance.cn/cn/en/common/download/sustainability_report/BMW_Brilliance_Sustainability_Report_2018_ENG.pdf"
         },
         {
             "company": "Daimler",
@@ -160,14 +150,9 @@
             "link": "https://www.deutsche-boerse.com/resource/blob/1441006/f7953188907a2dccca8fa078ff0a394d/data/DBG-annual-report-2018.pdf"
         },
         {
-            "company": "Deutsche Telekom",
-            "query": "Deutsche Telekom sustainability report 2018 filetype:pdf",
-            "link": "https://report.telekom.com/annual-report-2018/servicepages/downloads/files/entire_dtag_ar18.pdf?pk_campaign=lp_pdf"
-        },
-        {
             "company": "E.ON",
             "query": "E.ON sustainability report 2018 filetype:pdf",
-            "link": "https://www.eon.com/content/dam/eon/eon-com/Documents/en/sustainability-report/2018/innogy-sustainability-report-2018.pdf"
+            "link": "https://www.eon.com/content/dam/eon/eon-com/Documents/en/sustainability-report/EON_Sustainability_Report_2018.pdf"
         },
         {
             "company": "Fresenius Medical Care",
@@ -182,7 +167,7 @@
         {
             "company": "HeidelbergCement",
             "query": "HeidelbergCement sustainability report 2018 filetype:pdf",
-            "link": "https://www.heidelbergmaterials.com/sites/default/files/assets/document/29/d2/heidelbergcement-sustainability-report-2018.pdf"
+            "link": "https://flacema.org/wp-content/uploads/2020/07/heidelbergcement-sustainability-report-2018.pdf"
         },
         {
             "company": "Henkel",
@@ -195,11 +180,6 @@
             "link": "https://www.infineon.com/dgdl/Infineon+Annual+Report+2018.pdf?fileId=5546d461673c11be01673d9d98e40014"
         },
         {
-            "company": "KplusS",
-            "query": "KplusS sustainability report 2018 filetype:pdf",
-            "link": "https://www.kpluss.com/en-us/.pdf/investor-relations/2020/2020-annual-general-meeting/annual-report-2018.pdf"
-        },
-        {
             "company": "Linde",
             "query": "Linde sustainability report 2018 filetype:pdf",
             "link": "https://www.linde.com/-/media/linde/merger/documents/sustainable-development/2018-sustainable-development-report.pdf?la=en"
@@ -207,17 +187,7 @@
         {
             "company": "Lufthansa",
             "query": "Lufthansa sustainability report 2018 filetype:pdf",
-            "link": "https://www.lufthansagroup.com/media/downloads/de/verantwortung/LH-Nachhaltigkeitsbericht-2018.pdf"
-        },
-        {
-            "company": "MAN",
-            "query": "MAN sustainability report 2018 filetype:pdf",
-            "link": "https://www.volkswagenag.com/presence/investorrelation/publications/annual-reports/2019/man/MAN_GB_2018_EN.pdf"
-        },
-        {
-            "company": "Merck",
-            "query": "Merck sustainability report 2018 filetype:pdf",
-            "link": "https://www.merckgroup.com/investors/reports-and-financials/earnings-materials/2018-q4/en/2018-Q4-Report-EN.pdf"
+            "link": "https://www.lufthansagroup.com/media/downloads/en/responsibility/LH-sustainability-report-2018.pdf"
         },
         {
             "company": "Metro",
@@ -230,14 +200,14 @@
             "link": "https://www.munichre.com/content/dam/munichre/contentlounge/website-pieces/documents/MunichRe-CR-Report-2018.pdf/_jcr_content/renditions/original./MunichRe-CR-Report-2018.pdf"
         },
         {
-            "company": "RWE",
-            "query": "RWE sustainability report 2018 filetype:pdf",
-            "link": "https://www.rwe.com/-/media/RWE/documents/09-verantwortung-nachhaltigkeit/cr-berichte/bericht-2018.pdf"
-        },
-        {
             "company": "SAP",
             "query": "SAP sustainability report 2018 filetype:pdf",
             "link": "https://ungc-production.s3.us-west-2.amazonaws.com/attachments/cop_2019/472632/original/sap-2018-integrated-report.pdf?1552663326"
+        },
+        {
+            "company": "Siemens",
+            "query": "Siemens sustainability report 2018 filetype:pdf",
+            "link": "https://www.siemensgamesa.com/en-int/-/media/siemensgamesa/downloads/en/sustainability/siemens-gamesa-sustainability-report-2018-en.pdf"
         },
         {
             "company": "ThyssenKrupp",

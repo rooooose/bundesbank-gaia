@@ -25,3 +25,11 @@ headers = {'User-Agent': user_agent,
             "Sec-Fetch-User": "?1",
             'Cache-Control': 'no-cache'
 }
+
+google_domains = ('https://www.google.', 
+                      'https://google.', 
+                      'https://webcache.googleusercontent.', 
+                      'http://webcache.googleusercontent.', 
+                      'https://policies.google.',
+                      'https://support.google.',
+                      'https://maps.google.')
