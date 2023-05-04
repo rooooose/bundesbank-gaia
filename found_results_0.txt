@@ -20,7 +20,7 @@
         {
             "company": "Beiersdorf",
             "query": "Beiersdorf sustainability report 2017 filetype:pdf",
-            "link": "https://www.beiersdorf.com/~/media/Beiersdorf/sustainability/reporting/sustainability-review/2017/Sustainability-Report-2017-Updated-documents/20190731-Beiersdorf-Sustainability-Review-2017-Consumer-EN.pdf"
+            "link": "https://www.beiersdorf.com/~/media/Beiersdorf/sustainability/reporting/sustainability-review/2017/Beiersdorf-Consumer-Sustainability-Review-2017.pdf"
         },
         {
             "company": "BMW",
@@ -40,7 +40,7 @@
         {
             "company": "Deutsche Bank",
             "query": "Deutsche Bank sustainability report 2017 filetype:pdf",
-            "link": "https://investor-relations.db.com/files/documents/annual-reports/Deutsche_Bank_Non-Financial_Report_2017.pdf?language_id=1"
+            "link": "https://investor-relations.db.com/files/documents/annual-reports/Deutsche_Bank_GRI_Content_Index_Non-Financial_Report_2017.pdf?language_id=1"
         },
         {
             "company": "Deutsche Boerse",

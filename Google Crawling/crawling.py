@@ -35,7 +35,7 @@ def scrape_google_and_order(query, year, company, found_list, doubt_list):
     # Find all google search results (g class) and sub-results (d4rhi class)
     allData = soup.find_all("div",{"class":["g", "d4rhi"]})
 
-    if allData != []:
+    if len(allData) > 0:
 
         first_link = allData[0].find('a').get('href')
         most_relevant_link = first_link
