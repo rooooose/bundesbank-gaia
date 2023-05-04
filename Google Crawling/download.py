@@ -4,7 +4,7 @@ import os
 
 def download_pdf(link, yearString, companyName):
 
-    response = requests.get(link, headers=headers)
+    response = requests.get(link, headers=headers, timeout=(20,20))
     # print(response)
     if response.status_code == 200 and ".pdf" in link:
 

@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-from vars_for_requests import headers, google_domains
+from vars_for_requests import headers
 
 from googleapiclient.discovery import build
 import json
@@ -17,7 +17,6 @@ def google_search(search_term: str, api_key: str, cse_id: str, **kwargs) -> json
 # Initialize search parameters
 my_api_key = 'AIzaSyBkd6a4at2EfOyLB_wmtNuh42wxexVmR0s'
 my_cse_id = '94f0c6b7e2d3d45fb'
-search_term = 'Will it rain today in Amsterdam?'
 num_search_results = 5
 
 
