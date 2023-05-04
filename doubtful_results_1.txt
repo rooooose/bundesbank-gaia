@@ -1,4 +1,4 @@
-16 might be wrong :{
+19 might be wrong :{
     "2017": [
         {
             "query": "Deutsche Post sustainability report 2017 filetype:pdf",
@@ -12,12 +12,7 @@
             "error": "PDF could not be read"
         }
     ],
-    "2019": [
-        {
-            "query": "Henkel sustainability report 2019 filetype:pdf",
-            "link": "https://ungc-production.s3.us-west-2.amazonaws.com/attachments/cop_2019/472114/original/henkel-sustainability-report-2018.pdf?1551174737"
-        }
-    ],
+    "2019": [],
     "2020": [
         {
             "query": "Adidas sustainability report 2020 filetype:pdf",
@@ -25,7 +20,7 @@
         },
         {
             "query": "Deutsche Bank sustainability report 2020 filetype:pdf",
-            "link": "https://agm.db.com/files/documents/2022/Non_Financial_Report_2021.pdf"
+            "link": "https://investor-relations.db.com/files/documents/annual-reports/2022/Non-Financial_Report_2021.pdf"
         },
         {
             "query": "Deutsche Post sustainability report 2020 filetype:pdf",
@@ -36,18 +31,23 @@
             "link": "https://www.heidelbergmaterials.com/sites/default/files/2022-06/220529-HC-NB-2021-EN.pdf"
         },
         {
-            "query": "Henkel sustainability report 2020 filetype:pdf",
-            "link": "https://www.isscorporatesolutions.com/file/documents/spo/20211005-henkel.pdf"
-        },
-        {
             "query": "SAP sustainability report 2020 filetype:pdf",
             "link": "https://www3.weforum.org/docs/SAP_WEF_Sustainability_Report.pdf"
         }
     ],
     "2021": [
         {
+            "query": "Deutsche Post sustainability report 2021 filetype:pdf",
+            "link": "https://www.dpdhl.com/content/dam/dpdhl/en/media-center/responsibility/dpdhl-sustainability-roadmap-facts-figures.pdf"
+        },
+        {
             "query": "Henkel sustainability report 2021 filetype:pdf",
             "link": "https://www.isscorporatesolutions.com/file/documents/spo/20211005-henkel.pdf"
+        },
+        {
+            "query": "RWE sustainability report 2021 filetype:pdf",
+            "link": "https://www.rwe.com/en/rwe-annual-report-2021/",
+            "error": "PDF could not be read"
         }
     ],
     "2022": [
@@ -69,12 +69,24 @@
             "error": "PDF could not be read"
         },
         {
+            "query": "Fresenius Medical Care sustainability report 2022 filetype:pdf",
+            "link": "https://www.freseniusmedicalcare.com/fileadmin/data/com/pdf/About_us/Sustainability/Our_commitment/ESG_Performance_Data.pdf"
+        },
+        {
+            "query": "HeidelbergCement sustainability report 2022 filetype:pdf",
+            "link": "https://www.heidelbergmaterials.com/sites/default/files/2023-03/HM_Annual_and_Sustainability_Report_2022.pdf"
+        },
+        {
             "query": "Henkel sustainability report 2022 filetype:pdf",
             "link": "https://www.se.com/ww/en/assets/564/document/396659/2022-sustainability-report.pdf"
         },
         {
             "query": "MAN sustainability report 2022 filetype:pdf",
             "link": "https://www.man-es.com/docs/default-source/sustainability/man-es_corporate_responsibility_report_en_2021_rz.pdf?sfvrsn=5eaa04c9_6"
+        },
+        {
+            "query": "SAP sustainability report 2022 filetype:pdf",
+            "link": "https://blog.asug.com/hubfs/Chapter%20Events/4.6.2023%20CT%20-%20Sustainability.pdf"
         }
     ]
 }

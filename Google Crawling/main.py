@@ -24,10 +24,10 @@ for year in years_to_search:
             print(companyRow[0])
             scraping_result = scrape_google_and_order(companyRow[0] + " sustainability report " + str(year) + " filetype:pdf", str(year), companyRow[0], found_list, doubt_list)
 
-        for company in msci_list:
-            company = str.lower(company)
-            print(company)
-            scraping_result = scrape_google_and_order(company + " sustainability report " + str(year) + " filetype:pdf", str(year), company, found_list, doubt_list)
+        # for company in msci_list:
+        #     company = str.lower(company)
+        #     print(company)
+        #     scraping_result = scrape_google_and_order(company + " sustainability report " + str(year) + " filetype:pdf", str(year), company, found_list, doubt_list)
 
     doubt_count = write_result_files(year, 0, found_list, doubt_list, conclusions_found, doubt_count)
 
@@ -36,16 +36,19 @@ doubt_count = 0
 doubt_list_new = {}
 conclusions_found = []
 
-# for year in doubt_list:
+for year in doubt_list:
     
-#     for result in doubt_list[year]:
-#         print(result)
-#         filepath = download_pdf(result["link"], year, result["company"])
-#         read_and_reorder_pdf(filepath, year, result["company"], result["query"], result["link"], doubt_list_new, found_list)
+    for result in doubt_list[year]:
+        print(result)
+        if not (result["company"] == "Henkel" and year == "2020"):
+            filepath = download_pdf(result["link"], year, result["company"])
+            read_and_reorder_pdf(filepath, year, result["company"], result["query"], result["link"], doubt_list_new, found_list)
 
-#     for result in found_list[year]:
-#         print(result)
-#         download_pdf(result["link"], year, result["company"])
+    for result in found_list[year]:
+        print(result)
+        download_pdf(result["link"], year, result["company"])
 
-#     doubt_count = write_result_files(year, 1, found_list, doubt_list_new, conclusions_found, doubt_count)
+    print(doubt_list_new)
+
+    doubt_count = write_result_files(year, 1, found_list, doubt_list_new, conclusions_found, doubt_count)
     
