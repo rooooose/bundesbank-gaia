@@ -4,7 +4,15 @@ import os
 
 def download_pdf(link, yearString, companyName):
 
-    response = requests.get(link, headers=headers)
+    try:
+        response = requests.get(link, headers=headers, timeout=30)
+    except:
+        print("GET REQUEST FAILED")
+        with open('Exception_at_download.txt','w') as f:
+            f.write(companyName)
+            f.write(yearString)
+            f.write(link)
+    
     # print(response)
     if response.status_code == 200 and ".pdf" in link:
 
