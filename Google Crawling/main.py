@@ -34,7 +34,7 @@ for year in years_to_search:
         for i, companyRow in enumerate(dax_reader):
             print(companyRow[0])
             scrape_google_and_order(companyRow[0] + " sustainability report " + str(year) + " filetype:pdf", str(year), companyRow[0], found_list, doubt_list)
-            time.sleep(0.5)
+            # time.sleep(0.5)
 
         for company in msci_list:
             company = str.lower(company)
@@ -42,7 +42,7 @@ for year in years_to_search:
                 company = company.split(word, 1)[0]
             print(company)
             scrape_google_and_order(company + " sustainability report " + str(year) + " filetype:pdf", str(year), company, found_list, doubt_list)
-            time.sleep(1)
+            time.sleep(0.7)
 
     doubt_count = write_result_files(year, 0, found_list, doubt_list, conclusions_found, doubt_count)
 
