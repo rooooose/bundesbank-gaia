@@ -42,7 +42,7 @@ for year in years_to_search:
                 company = company.split(word, 1)[0]
             print(company)
             scrape_google_and_order(company + " sustainability report " + str(year) + " filetype:pdf", str(year), company, found_list, doubt_list)
-            time.sleep(0.7)
+            time.sleep(0.8)
 
     doubt_count = write_result_files(year, 0, found_list, doubt_list, conclusions_found, doubt_count)
 
