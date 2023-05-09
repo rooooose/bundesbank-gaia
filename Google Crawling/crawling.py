@@ -4,6 +4,7 @@ from vars_for_requests import headers
 
 from googleapiclient.discovery import build
 import json
+from write_results import write_json
 
 
 def google_search(search_term: str, api_key: str, cse_id: str, **kwargs) -> json:
@@ -22,7 +23,7 @@ num_search_results = 5
 
 
 
-def scrape_google_and_order(query, year, company, found_list, doubt_list):
+def scrape_google_and_order(query, year, company):
     print(year)
 
     # set the list of formats of company names wished in the url
@@ -61,8 +62,6 @@ def scrape_google_and_order(query, year, company, found_list, doubt_list):
     
     allData = soup.find_all("div",{"class":["g", "d4rhi"]})
 
-    # if len(allData) > 0:
-
     first_link = allData[0].find('a').get('href')
     # print(results['items'])
 
@@ -79,24 +78,25 @@ def scrape_google_and_order(query, year, company, found_list, doubt_list):
         splittedFilename = splittedLink[1].split(".pdf")
         filename = splittedFilename[0]+".pdf"
 
-        if year not in found_list.keys():
-                    found_list[year] = []
+        # if year not in found_list.keys():
+        #     found_list[year] = []
 
         if any(companyName in str.lower(link) for companyName in allowed_names_in_link) and ((year in filename) or ((year_2_digits != "20") and (year_2_digits in filename))) and ("report" in link or "Report" in link or "bericht" in link or "Bericht" in link):
             
-                most_relevant_link = link
-                found_list[year].append({'company': company, 'query': query, 'link': most_relevant_link})
-                break
+            most_relevant_link = link
+            # found_list[year].append({'company': company, 'query': query, 'link': most_relevant_link})
+            write_json({'company': company, 'query': query, 'link': most_relevant_link}, 'found_results_0.json', year)
+            break
                 
         else:
 
             # If the first link is doubtful, we try again with the second, and if the second is also, then we wright the first link in the doubt_file
             if not first_iteration:
 
-                #Create dict table sorted by year
-                if year not in doubt_list.keys():
-                    doubt_list[year] = []
+                # if year not in doubt_list.keys():
+                #     doubt_list[year] = []
 
-                doubt_list[year].append({'company': company, 'query': query, 'link': most_relevant_link})
+                # doubt_list[year].append({'company': company, 'query': query, 'link': most_relevant_link})
+                write_json({'company': company, 'query': query, 'link': most_relevant_link}, 'doubt_results_0.json', year)
 
             first_iteration = False

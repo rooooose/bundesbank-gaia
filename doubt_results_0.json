@@ -1,0 +1,88 @@
+{
+    "2017": [
+        {
+            "company": "Bayer",
+            "query": "Bayer sustainability report 2017 filetype:pdf",
+            "link": "https://www.bayer.com/sites/default/files/bayer_ar17_entire.pdf"
+        },
+        {
+            "company": "Deutsche Post",
+            "query": "Deutsche Post sustainability report 2017 filetype:pdf",
+            "link": "https://www.dpdhl.com/content/dam/dpdhl/en/media-center/responsibility/dpdhl-corporate-responsibility-report-2017.pdf"
+        },
+        {
+            "company": "Deutsche Telekom",
+            "query": "Deutsche Telekom sustainability report 2017 filetype:pdf",
+            "link": "https://ungc-production.s3.us-west-2.amazonaws.com/attachments/cop_2018/464970/original/CRB2017_en_final.pdf?1530197859"
+        },
+        {
+            "company": "Henkel",
+            "query": "Henkel sustainability report 2017 filetype:pdf",
+            "link": "https://www.annualreports.com/HostedData/AnnualReportArchive/h/OTC_HENKY_2017.pdf"
+        },
+        {
+            "company": "KplusS",
+            "query": "KplusS sustainability report 2017 filetype:pdf",
+            "link": "https://www.kpluss.com/en-us/.pdf/investor-relations/2017/gb2017.pdf"
+        },
+        {
+            "company": "MAN",
+            "query": "MAN sustainability report 2017 filetype:pdf",
+            "link": "https://ir.traton.com/download/companies/traton/annual_brands/MANGB2017_EN.pdf"
+        },
+        {
+            "company": "Siemens",
+            "query": "Siemens sustainability report 2017 filetype:pdf",
+            "link": "https://www.siemens.com/investor/pool/en/investor_relations/siemens_sustainability_information2017.pdf"
+        }
+    ],
+    "2018": [
+        {
+            "company": "Bayer",
+            "query": "Bayer sustainability report 2018 filetype:pdf",
+            "link": "https://www.bayer.com/sites/default/files/2020-04/bayer_ar18_entire.pdf"
+        },
+        {
+            "company": "BMW",
+            "query": "BMW sustainability report 2018 filetype:pdf",
+            "link": "https://www.bmwgroup.com/content/dam/grpw/websites/bmwgroup_com/responsibility/downloads/en/2019/2019-BMW-Group-SVR-2018-Englisch.pdf"
+        },
+        {
+            "company": "Deutsche Post",
+            "query": "Deutsche Post sustainability report 2018 filetype:pdf",
+            "link": "https://www.dpdhl.com/content/dam/dpdhl/en/media-center/responsibility/dpdhl-corporate-responsibility-report-2018.pdf"
+        },
+        {
+            "company": "Siemens",
+            "query": "Siemens sustainability report 2018 filetype:pdf",
+            "link": "https://www.siemens.com/investor/pool/en/investor_relations/siemens_sustainability_information2018.pdf"
+        }
+    ],
+    "2019": [
+        {
+            "company": "BMW",
+            "query": "BMW sustainability report 2019 filetype:pdf",
+            "link": "https://www.bmwgroup.com/content/dam/grpw/websites/bmwgroup_com/responsibility/downloads/en/2020/2020-BMW-Group-SVR-2019-Englisch.pdf"
+        },
+        {
+            "company": "Deutsche Boerse",
+            "query": "Deutsche Boerse sustainability report 2019 filetype:pdf",
+            "link": "https://www.deutsche-boerse.com/resource/blob/1749806/6eb7d4e5d332c3c83aaaa239dc955e05/data/DBG-gri-index-AR-2019.pdf"
+        },
+        {
+            "company": "Deutsche Post",
+            "query": "Deutsche Post sustainability report 2019 filetype:pdf",
+            "link": "https://www.dhl.com/content/dam/dhl/global/core/documents/pdf/sustainability-report.pdf"
+        },
+        {
+            "company": "Deutsche Telekom",
+            "query": "Deutsche Telekom sustainability report 2019 filetype:pdf",
+            "link": "https://www.telekom.com/resource/blob/592886/e320aaecaf7a0a6186804fe09e9a5978/dl-200219-q4-19-pdf-data.pdf"
+        },
+        {
+            "company": "Henkel",
+            "query": "Henkel sustainability report 2019 filetype:pdf",
+            "link": "https://www.annualreports.com/HostedData/AnnualReportArchive/h/OTC_HENKY_2019.pdf"
+        }
+    ]
+}
