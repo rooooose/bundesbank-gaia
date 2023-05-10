@@ -1,4 +1,5 @@
 import fitz
+from write_results import write_json
 
 def check_pdf_txt(pdf, year, companyName):
     
@@ -33,19 +34,22 @@ def check_pdf_txt(pdf, year, companyName):
         return 403
     
 
-def read_and_reorder_pdf(filepath, year, company, query, link, doubt_list_new, found_list):
+def read_and_reorder_pdf(filepath, year, company, query, link):
 
     #Create dict table sorted by year
-    if year not in doubt_list_new.keys():
-        doubt_list_new[year] = []
+    # if year not in doubt_list_new.keys():
+    #     doubt_list_new[year] = []
 
     pdf_text_is_relevant = check_pdf_txt(filepath, year, company)
     if not pdf_text_is_relevant:
-        doubt_list_new[year].append({'query': query, 'link': link})
+        # doubt_list_new[year].append({'query': query, 'link': link})
+        write_json({'query': query, 'link': link}, 'doubt_results_1.json', year)
     elif pdf_text_is_relevant == 403:
-        doubt_list_new[year].append({'query': query, 'link': link, 'error': 'PDF could not be read'})
+        write_json({'query': query, 'link': link, 'error': 'PDF could not be read'}, 'doubt_results_1.json', year)
+        # doubt_list_new[year].append({'query': query, 'link': link, 'error': 'PDF could not be read'})
     else:
-        if year not in found_list.keys():
-            found_list[year] = []
-        found_list[year].append({'company': company, 'query': query, 'link': link})
+        # if year not in found_list.keys():
+        #     found_list[year] = []
+        # found_list[year].append({'company': company, 'query': query, 'link': link})
+        write_json({'query': query, 'link': link, 'error': 'PDF could not be read'}, 'found_results.json', year)
     

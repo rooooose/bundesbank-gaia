@@ -8,14 +8,33 @@ import pandas as pd
 import time
 import re
 
+def find_where_to_start(file):
+
+    last_comp_file = open(file,'r')
+    last_comp_line = last_comp_file.read()
+    last_comp_file.close()
+
+    if not last_comp_line == "":
+        last_year = last_comp_line.split('-')[0]
+        last_comp = last_comp_line.split('-')[1]
+        last_comp_index = list(companies).index(last_comp)
+        last_year_index = years_to_search.index(last_year)
+    else:
+        last_year_index = 0
+        last_comp_index = -1
+    
+    return last_year_index, last_comp_index
+
 
 years_to_search = ["2017", "2018", "2019", "2020", "2021", "2022"]
 doubt_count = 0
-doubt_list = {}
-found_list = {}
-conclusions_found = []
+# doubt_list = {}
+# found_list = {}
+# conclusions_found = []
 
 msci_list = pd.read_csv("Google Crawling/msci.csv")["Name"]
+dax_list = pd.read_csv("Google Crawling/dax.csv")["COMPANIES"]
+# print(dax_list)
 
 not_allowed_terms = [
     ' inc',
@@ -25,77 +44,108 @@ not_allowed_terms = [
     " plc",
     " ag",
     " sa",
-    " corp"
+    " corp",
+    " entertainment"
 ]
 
-# to comment
-f = open('doubt_results_0.json', 'w')
-f = open('found_results_0.json', 'w')
 
-# TODO associate last company done to variables last_year and last_company and start for loop at last company ONLY for the first iteration
+msci_list = msci_list.apply(str.lower)
+for key, company in msci_list.items():
+    for word in not_allowed_terms:
+        found = re.search(word + "(\s|$)", company)
+        if found:
+            company = company.split(word, 1)[0]
+            msci_list.iloc[key] = company
 
-for year in years_to_search: 
+companies = pd.concat([dax_list, msci_list])
 
-    with open('Google Crawling/dax.csv') as csv_file:
-        dax_reader = csv.reader(csv_file, delimiter='\n')
+last_year_index, last_comp_index = find_where_to_start('stopped_search_at.txt')
 
-        for i, companyRow in enumerate(dax_reader):
-            print(companyRow[0])
-            scrape_google_and_order(companyRow[0] + " sustainability report " + year + " filetype:pdf", year, companyRow[0])
-            with open('last_company_done.txt','w') as write_file:
-                write_file.write(year + "-" + companyRow[0] + "\n")
+year_changed = False
 
-        # for company in msci_list:
-        #     company = str.lower(company)
-        #     for word in not_allowed_terms:
-        #         found = re.search(word + "(\s|$)", company)
-        #         if found:
-        #             company = company.split(word, 1)[0]
-        #     print(company)
-        #     scrape_google_and_order(company + " sustainability report " + year + " filetype:pdf", year, company)
-        #     with open('last_company_done.txt','w') as write_file:
-        #         write_file.write(year + "-" + company + "\n")
-        #     time.sleep(0.8)
-        
-        doubt_count = write_stats(year, "0", doubt_count, conclusions_found)
+for year in years_to_search[last_year_index:]: 
+
+    #when we change year, we want to start at the first comany
+    print(last_comp_index)
+    if year_changed:
+        last_comp_index = -1
+    if last_comp_index+1 == len(companies):
+        break
+    for company in companies[last_comp_index+1:26]:
+        print(company)
+        scrape_google_and_order(company + " sustainability report " + year + " filetype:pdf", year, company)
+        f = open('stopped_search_at.txt','w')
+        f.write(year + "-" + company)
+        # time.sleep(0.8)
+    
+    year_changed = True
+
+    doubt_count = write_stats(year, "0", doubt_count)
 
     
 
 # Reinit variables for new recap after text reading
 doubt_count = 0
-doubt_list_new = {}
-conclusions_found = []
+# doubt_list_new = {}
+# conclusions_found = []
 
 #to comment
-f = open('doubt_results_1.json', 'w')
-f = open('found_results_1.json', 'w')
+# f = open('doubt_results_1.json', 'w')
+# f = open('found_results_1.json', 'w')
 
+with open('doubt_results_0.json','r') as file:
+    try:
+        doubt_list = json.load(file)
+    except:
+        doubt_list = {}
 
-for year in years_to_search:
+with open('found_results.json','r') as file:
+    try:
+        found_list = json.load(file)
+    except:
+        found_list = {}
 
-    # if doubt_list[str(year]:
-    
-    for result in doubt_list[year]:
-        print(result)
+last_year_index, last_comp_index = find_where_to_start('stopped_download_at.txt')
+
+year_changed = False
+
+for year in years_to_search[last_year_index:]:
+
+    if year_changed:
+        last_comp_index = -1
+
+    if last_comp_index+1 == len(companies):
+        break
+
+    for company in companies[last_comp_index+1:27]:
+
+        is_doubt = False
         #if not (result["company"] == "Henkel" and year == "2020"):
-        filepath = download_pdf(result["link"], year, result["company"])
-        read_and_reorder_pdf(filepath, year, result["company"], result["query"], result["link"], doubt_list_new, found_list)
-        
+        if year in doubt_list.keys():
+            for result in doubt_list[year]:
+                if company in result.values():
+                    print(result)
+                    filepath = download_pdf(result["link"], year, result["company"])
+                    read_and_reorder_pdf(filepath, year, result["company"], result["query"], result["link"])
+                    is_doubt = True
+                    break
+        if year in found_list.keys() and not is_doubt:
+            # print("look in found results")
+            for result in found_list[year]:
+                if company in result.values():
+                    print(result)
+                    download_pdf(result["link"], year, result["company"])
+                    break
 
-    for result in found_list[year]:
-        print(result)
-        download_pdf(result["link"], year, result["company"])
+        f = open('stopped_download_at.txt','w')
+        f.write(year + "-" + company)
+
+    year_changed = True
     
     doubt_count = write_stats(year, "1", doubt_count)
-
-
     
 
-    #TODO O-I
-    # lire fichier direct au download
-    # lire fichier last_company pour reprendre au dernier
-    # ecrire dans le fichier quand un fichier est telechargé pour reprendre au suivant
-    # Verifier le bug pdf could not be found RWE 2018
+    #TODO Verifier que doubt 1 et doubt 0 sont bien differents
+    # Verifier le bug pdf could not be read dans les nouveaux found_results
 
-    # regler pb append conclusion
 
