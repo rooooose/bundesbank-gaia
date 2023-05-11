@@ -45,7 +45,23 @@ not_allowed_terms = [
     " ag",
     " sa",
     " corp",
-    " entertainment"
+    " entertainment",
+    " holding",
+    " holdings",
+    " company",
+    " reit",
+    " pharmaceuticals",
+    " pharmaceutical",
+    " nv", 
+    " industries",
+    " communications",
+    " corporation",
+    " resources",
+    " vacations",
+    " solutions",
+    " a",
+    " stapled units",
+    " n"
 ]
 
 
