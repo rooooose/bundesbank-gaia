@@ -65,8 +65,7 @@ year_changed = False
 
 for year in years_to_search[last_year_index:]: 
 
-    #when we change year, we want to start at the first comany
-    print(last_comp_index)
+    #when we change year, we want to start at the first comany (-1 because we want to start 0 and we do +1)
     if year_changed:
         last_comp_index = -1
     if last_comp_index+1 == len(companies):
@@ -86,8 +85,6 @@ for year in years_to_search[last_year_index:]:
 
 # Reinit variables for new recap after text reading
 doubt_count = 0
-# doubt_list_new = {}
-# conclusions_found = []
 
 #to comment
 # f = open('doubt_results_1.json', 'w')
@@ -117,7 +114,7 @@ for year in years_to_search[last_year_index:]:
     if last_comp_index+1 == len(companies):
         break
 
-    for company in companies[last_comp_index+1:27]:
+    for company in companies[last_comp_index+1:26]:
 
         is_doubt = False
         #if not (result["company"] == "Henkel" and year == "2020"):
@@ -143,9 +140,5 @@ for year in years_to_search[last_year_index:]:
     year_changed = True
     
     doubt_count = write_stats(year, "1", doubt_count)
-    
-
-    #TODO Verifier que doubt 1 et doubt 0 sont bien differents
-    # Verifier le bug pdf could not be read dans les nouveaux found_results
 
 

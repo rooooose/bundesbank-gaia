@@ -51,5 +51,5 @@ def read_and_reorder_pdf(filepath, year, company, query, link):
         # if year not in found_list.keys():
         #     found_list[year] = []
         # found_list[year].append({'company': company, 'query': query, 'link': link})
-        write_json({'query': query, 'link': link, 'error': 'PDF could not be read'}, 'found_results.json', year)
+        write_json({'query': query, 'link': link}, 'found_results.json', year)
     

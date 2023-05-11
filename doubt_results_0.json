@@ -77,6 +77,11 @@
             "link": "https://www.adidas-group.com/media/filer_public/f8/10/f8105750-28cb-4a13-9e2c-7031785b2c92/adidas_gcr_2020_en.pdf"
         },
         {
+            "company": "Bayer",
+            "query": "Bayer sustainability report 2020 filetype:pdf",
+            "link": "https://www.bayer.com/sites/default/files/SustainabilityCouncil-Report-2021_0.pdf"
+        },
+        {
             "company": "Deutsche Bank",
             "query": "Deutsche Bank sustainability report 2020 filetype:pdf",
             "link": "https://investor-relations.db.com/files/documents/annual-reports/2022/Non-Financial_Report_2021.pdf"
@@ -208,7 +213,7 @@
         {
             "company": "HeidelbergCement",
             "query": "HeidelbergCement sustainability report 2022 filetype:pdf",
-            "link": "https://www.heidelbergmaterials.com/sites/default/files/2023-03/HM_Annual_and_Sustainability_Report_2022.pdf"
+            "link": "https://www.heidelbergmaterials.com/sites/default/files/2022-06/220529-HC-NB-2021-EN.pdf"
         },
         {
             "company": "Henkel",
