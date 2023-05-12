@@ -90,7 +90,7 @@ for year in years_to_search[last_year_index:]:
         last_comp_index = -1
     if last_comp_index+1 == len(companies):
         break
-    for company in companies[last_comp_index+1:3]:
+    for company in companies[last_comp_index+1:]:
         print(company)
         scrape_google_and_order(company + " sustainability report " + year + " filetype:pdf", year, company)
         f = open('stopped_search_at.txt','w')
@@ -138,7 +138,7 @@ for year in years_to_search[last_year_index:]:
     if last_comp_index+1 == len(companies):
         break
 
-    for company in companies[last_comp_index+1:3]:
+    for company in companies[last_comp_index+1:]:
 
         is_doubt = False
 
