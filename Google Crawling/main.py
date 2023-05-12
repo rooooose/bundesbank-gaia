@@ -66,7 +66,9 @@ not_allowed_terms = [
     " units trust",
     " unit trust",
     " investment",
-    " b"
+    " b",
+    " energia",
+    " energias"
 ]
 
 
