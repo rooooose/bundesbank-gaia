@@ -12,7 +12,7 @@ def write_stats(year, i, doubt_count_total):
 
         
 
-  with open('found_results.json','r') as file:
+  with open('found_results_' + i + '.json','r') as file:
         try:
           file_data = json.load(file)
           found_count_year = len(file_data[year])

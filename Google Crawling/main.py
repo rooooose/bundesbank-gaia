@@ -7,6 +7,7 @@ from write_results import write_stats
 import pandas as pd
 import time
 import re
+import shutil
 
 def find_where_to_start(file):
 
@@ -61,7 +62,10 @@ not_allowed_terms = [
     " solutions",
     " a",
     " stapled units",
-    " n"
+    " n",
+    " units trust",
+    " unit trust",
+    " investment"
 ]
 
 
@@ -86,7 +90,7 @@ for year in years_to_search[last_year_index:]:
         last_comp_index = -1
     if last_comp_index+1 == len(companies):
         break
-    for company in companies[last_comp_index+1:]:
+    for company in companies[last_comp_index+1:3]:
         print(company)
         scrape_google_and_order(company + " sustainability report " + year + " filetype:pdf", year, company)
         f = open('stopped_search_at.txt','w')
@@ -106,13 +110,17 @@ doubt_count = 0
 # f = open('doubt_results_1.json', 'w')
 # f = open('found_results_1.json', 'w')
 
+original_found = 'found_results_0.json'
+new_found = 'found_results_1.json'
+shutil.copyfile(original_found, new_found)
+
 with open('doubt_results_0.json','r') as file:
     try:
         doubt_list = json.load(file)
     except:
         doubt_list = {}
 
-with open('found_results.json','r') as file:
+with open('found_results_0.json','r') as file:
     try:
         found_list = json.load(file)
     except:
@@ -130,10 +138,10 @@ for year in years_to_search[last_year_index:]:
     if last_comp_index+1 == len(companies):
         break
 
-    for company in companies[last_comp_index+1:]:
+    for company in companies[last_comp_index+1:3]:
 
         is_doubt = False
-        #if not (result["company"] == "Henkel" and year == "2020"):
+
         if year in doubt_list.keys():
             for result in doubt_list[year]:
                 if company in result.values():

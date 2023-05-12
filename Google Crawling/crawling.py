@@ -85,7 +85,7 @@ def scrape_google_and_order(query, year, company):
             
             most_relevant_link = link
             # found_list[year].append({'company': company, 'query': query, 'link': most_relevant_link})
-            write_json({'company': company, 'query': query, 'link': most_relevant_link}, 'found_results.json', year)
+            write_json({'company': company, 'query': query, 'link': most_relevant_link}, 'found_results_0.json', year)
             break
                 
         else:
