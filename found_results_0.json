@@ -1,0 +1,774 @@
+{
+    "2017": [
+        {
+            "company": "Adidas",
+            "query": "Adidas sustainability report 2017 filetype:pdf",
+            "link": "https://www.adidas-group.com/media/filer_public/6a/69/6a690baa-8430-42c5-841d-d9222a150aff/annual_report_gb-2017_en_secured.pdf"
+        },
+        {
+            "company": "Allianz",
+            "query": "Allianz sustainability report 2017 filetype:pdf",
+            "link": "https://www.allianz.com/content/dam/onemarketing/azcom/Allianz_com/responsibility/documents/Allianz_Group_Sustainability_Report_2017-web.pdf"
+        },
+        {
+            "company": "BASF",
+            "query": "BASF sustainability report 2017 filetype:pdf",
+            "link": "https://www.basf.com/global/documents/en/news-and-media/publications/reports/2018/BASF_Report_2017.pdf"
+        },
+        {
+            "company": "Beiersdorf",
+            "query": "Beiersdorf sustainability report 2017 filetype:pdf",
+            "link": "https://www.beiersdorf.com/~/media/Beiersdorf/sustainability/reporting/sustainability-review/2017/Beiersdorf-Consumer-Sustainability-Review-2017.pdf"
+        },
+        {
+            "company": "BMW",
+            "query": "BMW sustainability report 2017 filetype:pdf",
+            "link": "https://www.bmwgroup.com/content/dam/grpw/websites/bmwgroup_com/ir/downloads/en/2017/BMW-Group-SustainableValueReport-2017--EN.pdf"
+        },
+        {
+            "company": "Commerzbank",
+            "query": "Commerzbank sustainability report 2017 filetype:pdf",
+            "link": "https://www.commerzbank.de/media/nachhaltigkeit/gri_bilanz_2017/GRI_Report_2017.pdf"
+        },
+        {
+            "company": "Daimler",
+            "query": "Daimler sustainability report 2017 filetype:pdf",
+            "link": "https://group.mercedes-benz.com/documents/sustainability/other/daimler-sustainability-report-2017.pdf"
+        },
+        {
+            "company": "Deutsche Bank",
+            "query": "Deutsche Bank sustainability report 2017 filetype:pdf",
+            "link": "https://investor-relations.db.com/files/documents/annual-reports/Deutsche_Bank_GRI_Content_Index_Non-Financial_Report_2017.pdf?language_id=1"
+        },
+        {
+            "company": "Deutsche Boerse",
+            "query": "Deutsche Boerse sustainability report 2017 filetype:pdf",
+            "link": "https://www.deutsche-boerse.com/resource/blob/82362/e986e62162c3d76fb11e26b6689e9968/data/DBG-financial-report-2017.pdf"
+        },
+        {
+            "company": "E.ON",
+            "query": "E.ON sustainability report 2017 filetype:pdf",
+            "link": "https://www.eon.com/content/dam/eon/eon-com/Documents/en/sustainability-report/EON_Sustainability_Report_2017.pdf"
+        },
+        {
+            "company": "Fresenius Medical Care",
+            "query": "Fresenius Medical Care sustainability report 2017 filetype:pdf",
+            "link": "https://www.freseniusmedicalcare.com/fileadmin/data/com/pdf/investors/03_Publications/2017/FME_Annual_Report_2017.pdf"
+        },
+        {
+            "company": "Fresenius SE",
+            "query": "Fresenius SE sustainability report 2017 filetype:pdf",
+            "link": "https://www.fresenius.com/sites/default/files/2022-01/Fresenius_Annual_Report_2017.pdf"
+        },
+        {
+            "company": "HeidelbergCement",
+            "query": "HeidelbergCement sustainability report 2017 filetype:pdf",
+            "link": "https://www.heidelbergmaterials.com/sites/default/files/assets/document/16/40/heidelbergcement-nachhaltigkeitsbericht-2017.pdf"
+        },
+        {
+            "company": "Infineon",
+            "query": "Infineon sustainability report 2017 filetype:pdf",
+            "link": "https://www.infineon.com/dgdl/Infineon+Annual+Report+2017.pdf?fileId=5546d4615fe36363015fea7bc7620023"
+        },
+        {
+            "company": "Linde",
+            "query": "Linde sustainability report 2017 filetype:pdf",
+            "link": "https://www.linde.com/-/media/linde/merger/documents/sustainable-development/praxair-2017-sustainable-value-report.pdf?la=en"
+        },
+        {
+            "company": "Lufthansa",
+            "query": "Lufthansa sustainability report 2017 filetype:pdf",
+            "link": "https://www.lufthansagroup.com/media/downloads/en/responsibility/LH-sustainability-report-2017.pdf"
+        },
+        {
+            "company": "Merck",
+            "query": "Merck sustainability report 2017 filetype:pdf",
+            "link": "https://www.merckgroup.com/investors/reports-and-financials/earnings-materials/2017-q4/en/2017-Q4-Report-EN.pdf"
+        },
+        {
+            "company": "Metro",
+            "query": "Metro sustainability report 2017 filetype:pdf",
+            "link": "https://www.sydneymetro.info/sites/default/files/2021-09/SydneyMetro_SustainabilityReport2017.pdf"
+        },
+        {
+            "company": "Munich Re",
+            "query": "Munich Re sustainability report 2017 filetype:pdf",
+            "link": "https://www.munichre.com/content/dam/munichre/contentlounge/website-pieces/documents/CorporateResponsibilityReport_2017-2018.pdf/_jcr_content/renditions/original./CorporateResponsibilityReport_2017-2018.pdf"
+        },
+        {
+            "company": "RWE",
+            "query": "RWE sustainability report 2017 filetype:pdf",
+            "link": "https://www.rwe.com/-/media/RWE/documents/09-verantwortung-nachhaltigkeit/cr-berichte/EN/en-bericht-2017.pdf"
+        },
+        {
+            "company": "SAP",
+            "query": "SAP sustainability report 2017 filetype:pdf",
+            "link": "https://ungc-production.s3.us-west-2.amazonaws.com/attachments/cop_2018/461806/original/sap-2017-integrated-report.pdf?1521207778"
+        },
+        {
+            "company": "ThyssenKrupp",
+            "query": "ThyssenKrupp sustainability report 2017 filetype:pdf",
+            "link": "https://www.annualreports.com/HostedData/AnnualReportArchive/t/thyssenKrupp-ag_2017.pdf"
+        },
+        {
+            "company": "Volkswagen",
+            "query": "Volkswagen sustainability report 2017 filetype:pdf",
+            "link": "https://www.volkswagenag.com/presence/nachhaltigkeit/documents/sustainability-report/2017/Nonfinancial_Report_2017_e.pdf"
+        },
+        {
+            "company": "deckers outdoor",
+            "query": "deckers outdoor sustainability report 2017 filetype:pdf",
+            "link": "https://www.deckers.com/sites/default/files/images/responsibility/Corporate_Responsibility_Report_2017.pdf"
+        },
+        {
+            "company": "jabil",
+            "query": "jabil sustainability report 2017 filetype:pdf",
+            "link": "https://www.jabil.com/dam/jcr:04591b82-8bff-42c2-9400-3191ef6d8f61/jabil-ser-report-2017.pdf"
+        },
+        {
+            "company": "performance food",
+            "query": "performance food sustainability report 2017 filetype:pdf",
+            "link": "https://stocklight.com/stocks/us/wholesale-trade/nyse-pfgc/performance-food-group/annual-reports/nyse-pfgc-2017-10K-171050458.pdf"
+        },
+        {
+            "company": "flex",
+            "query": "flex sustainability report 2017 filetype:pdf",
+            "link": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/f/NASDAQ_FLEX_2017.pdf"
+        },
+        {
+            "company": "saia",
+            "query": "saia sustainability report 2017 filetype:pdf",
+            "link": "https://www.annualreports.com/HostedData/AnnualReportArchive/s/NASDAQ_SAIA_2017.pdf"
+        },
+        {
+            "company": "centrica",
+            "query": "centrica sustainability report 2017 filetype:pdf",
+            "link": "https://www.centrica.com/media/4492/centrica_annual_report_and_accounts_2017.pdf"
+        },
+        {
+            "company": "bruker",
+            "query": "bruker sustainability report 2017 filetype:pdf",
+            "link": "http://q4live.s22.clientfiles.s3-website-us-east-1.amazonaws.com/617463959/files/doc_financials/annual/2017/Bruker-2017-Annual-Report-Web-FINAL.pdf"
+        },
+        {
+            "company": "voya financial",
+            "query": "voya financial sustainability report 2017 filetype:pdf",
+            "link": "https://www.voya.com/sites/www/files/2020-11/CR_Impact%20Report_2017-2018.pdf"
+        },
+        {
+            "company": "east west bancorp",
+            "query": "east west bancorp sustainability report 2017 filetype:pdf",
+            "link": "https://cms.eastwestbanker.com/sites/default/files/pdf/annualreport/EastWest%202017%20Annual%20Report%20-%20Main%20Section.pdf"
+        },
+        {
+            "company": "planet fitness",
+            "query": "planet fitness sustainability report 2017 filetype:pdf",
+            "link": "https://www.planetfitness.com/sites/default/files/equipment/JFG%20Impact%20Report%202017_0.pdf"
+        },
+        {
+            "company": "wex",
+            "query": "wex sustainability report 2017 filetype:pdf",
+            "link": "https://s201.q4cdn.com/988560546/files/doc_financials/2017/ar/2017-Annual-Report-WEX-(1).pdf"
+        },
+        {
+            "company": "toll brothers",
+            "query": "toll brothers sustainability report 2017 filetype:pdf",
+            "link": "https://investors.tollbrothers.com/~/media/Files/T/TollBrothers-IR/documents/annual-reports/2017-toll-brothers-annual-report.pdf"
+        },
+        {
+            "company": "tetra tech",
+            "query": "tetra tech sustainability report 2017 filetype:pdf",
+            "link": "https://www.tetrapak.com/content/dam/tetrapak/publicweb/se/sv/sustainability/2017-sustainability-report.pdf"
+        },
+        {
+            "company": "autoliv",
+            "query": "autoliv sustainability report 2017 filetype:pdf",
+            "link": "https://www.autoliv.com/sites/default/files/2022-05/alv-sustainability-report-2017-1p.pdf"
+        },
+        {
+            "company": "wingstop",
+            "query": "wingstop sustainability report 2017 filetype:pdf",
+            "link": "https://stocklight.com/stocks/us/accommodation-and-food-services/nasdaq-wing/wingstop/annual-reports/nasdaq-wing-2017-10K-17660664.pdf"
+        },
+        {
+            "company": "helvetia",
+            "query": "helvetia sustainability report 2017 filetype:pdf",
+            "link": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/h/helvetia-holding_2017.pdf"
+        },
+        {
+            "company": "new york community bancorp",
+            "query": "new york community bancorp sustainability report 2017 filetype:pdf",
+            "link": "https://stocklight.com/stocks/us/finance-and-insurance/nyse-nycb/new-york-community-bancorp/annual-reports/nyse-nycb-2017-10K-17654418.pdf"
+        },
+        {
+            "company": "skechers usa",
+            "query": "skechers usa sustainability report 2017 filetype:pdf",
+            "link": "https://stocklight.com/stocks/us/wholesale-trade/nyse-skx/skechers-u/annual-reports/nyse-skx-2017-10K-17652983.pdf"
+        },
+        {
+            "company": "georg fischer",
+            "query": "georg fischer sustainability report 2017 filetype:pdf",
+            "link": "https://www.georgfischer.com/content/dam/gfcorp/documents/about-gf/180704_GF_Sustainability_Report_2017_final.pdf"
+        },
+        {
+            "company": "nexstar media",
+            "query": "nexstar media sustainability report 2017 filetype:pdf",
+            "link": "https://www.nexstar.tv/wp-content/uploads/2018/05/2017-annual-report.pdf"
+        },
+        {
+            "company": "evoqua water technologies",
+            "query": "evoqua water technologies sustainability report 2017 filetype:pdf",
+            "link": "https://stocklight.com/stocks/us/manufacturing/nyse-aqua/evoqua-water-technologies/annual-reports/nyse-aqua-2017-10K-171237811.pdf"
+        },
+        {
+            "company": "stantec",
+            "query": "stantec sustainability report 2017 filetype:pdf",
+            "link": "https://www.stantec.com/content/dam/stantec/files/PDFAssets/2018/stn-2017-sustainability-report.pdf"
+        },
+        {
+            "company": "axalta coating systems",
+            "query": "axalta coating systems sustainability report 2017 filetype:pdf",
+            "link": "https://www.axalta.com/content/dam/EMEA/Axalta/HQ/Public/Documents/Corporate%20PR/2018/Sustainability_Report_2016-2017_Highlights.pdf"
+        },
+        {
+            "company": "fti consulting",
+            "query": "fti consulting sustainability report 2017 filetype:pdf",
+            "link": "https://www.fticonsulting.com/-/media/files/us-files/our-firm/annual-reports/2017-annual-report.pdf?rev=a1f7f331ec3040b3a8aa7aef219102f9&hash=CA49291707464147D52D943AF7206132"
+        },
+        {
+            "company": "asr nederland",
+            "query": "asr nederland sustainability report 2017 filetype:pdf",
+            "link": "https://www.asrnederland.nl/-/media/files/asrnederland-nl/investor-relations/jaarverslagen/2017/2017-annual-report-asr-nederland.pdf?la=nl-nl"
+        },
+        {
+            "company": "polaris",
+            "query": "polaris sustainability report 2017 filetype:pdf",
+            "link": "https://links.sgx.com/1.0.0/corporate-announcements/04A7MPHGXJIMMWP7/534664_Polaris%20Sustainability%20Report%20FY2017.pdf"
+        },
+        {
+            "company": "sonoco products",
+            "query": "sonoco products sustainability report 2017 filetype:pdf",
+            "link": "https://www.sonoco.com/sites/default/files/2018-08/17-18%20Corp%20Resp%20Report%20_72418.pdf"
+        },
+        {
+            "company": "trex",
+            "query": "trex sustainability report 2017 filetype:pdf",
+            "link": "https://www.annualreports.com/HostedData/AnnualReportArchive/t/NYSE_TREX_2017.pdf"
+        },
+        {
+            "company": "atlas arteria",
+            "query": "atlas arteria sustainability report 2017 filetype:pdf",
+            "link": "https://www.atlasarteria.com/stores/_sharedfiles/Investor_Resources/Annual_Reports/mqa-annual-report-2017.pdf"
+        },
+        {
+            "company": "univar",
+            "query": "univar sustainability report 2017 filetype:pdf",
+            "link": "https://discover.univarsolutions.com/assets/files/univ_3236_2_1_2017_Sustainability_SummaryReport_mech2_A4_HR.ashx"
+        },
+        {
+            "company": "stifel financial",
+            "query": "stifel financial sustainability report 2017 filetype:pdf",
+            "link": "https://stocklight.com/stocks/us/finance-insurance-and-real-estate/nyse-sf/stifel-financial/annual-reports/nyse-sf-2017-10K-17632856.pdf"
+        },
+        {
+            "company": "meg energy",
+            "query": "meg energy sustainability report 2017 filetype:pdf",
+            "link": "https://www.annualreports.com/HostedData/AnnualReportArchive/m/TSX_MEG_2017.pdf"
+        },
+        {
+            "company": "dechra",
+            "query": "dechra sustainability report 2017 filetype:pdf",
+            "link": "https://www.dechra.com/Admin/Public/Download.aspx?file=Files%2FFiles%2FCorporate%2FFinancial-reports%2F2017%2FDechraAR2017.pdf"
+        },
+        {
+            "company": "trelleborg b",
+            "query": "trelleborg b sustainability report 2017 filetype:pdf",
+            "link": "https://www.trelleborg.com/~/media/group/investors/cr-reports/cr_trell_2017.pdf"
+        },
+        {
+            "company": "pvh",
+            "query": "pvh sustainability report 2017 filetype:pdf",
+            "link": "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-CR-Report-2017.pdf"
+        },
+        {
+            "company": "mdu",
+            "query": "mdu sustainability report 2017 filetype:pdf",
+            "link": "https://www.montana-dakota.com/wp-content/uploads/PDFs/Conservation/mdur_sustainability_report_2017.pdf"
+        },
+        {
+            "company": "addtech",
+            "query": "addtech sustainability report 2017 filetype:pdf",
+            "link": "https://www.addtech.com/fileadmin/user_upload/Hallbarhetsrapporter/Addtech-Annual-Report-20172018-SUSTAINABILITY-REPORT.pdf"
+        },
+        {
+            "company": "beijer ref",
+            "query": "beijer ref sustainability report 2017 filetype:pdf",
+            "link": "https://www.beijerref.com/wp-content/uploads/sites/2/2020/06/Corporate-Governance-Report-2017-ENG.pdf"
+        },
+        {
+            "company": "capri",
+            "query": "capri sustainability report 2017 filetype:pdf",
+            "link": "https://www.capriloans.in/wp-content/uploads/2020/12/annual-report-2017-2018.pdf"
+        },
+        {
+            "company": "dxc technology",
+            "query": "dxc technology sustainability report 2017 filetype:pdf",
+            "link": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/d/NYSE_DXC_2017.pdf"
+        },
+        {
+            "company": "ralph lauren",
+            "query": "ralph lauren sustainability report 2017 filetype:pdf",
+            "link": "https://careers.ralphlauren.com/portal/20/docs/Fiscal2017_CorporateResponsibilityReport.pdf"
+        },
+        {
+            "company": "ashland",
+            "query": "ashland sustainability report 2017 filetype:pdf",
+            "link": "https://www.ashland.com/file_source/Ashland/Documents/COR17-1041.1_SustainabilityReport_FY17-18_hyperlinked0926.pdf"
+        },
+        {
+            "company": "novanta",
+            "query": "novanta sustainability report 2017 filetype:pdf",
+            "link": "https://stocklight.com/stocks/us/manufacturing/nasdaq-novt/novanta/annual-reports/nasdaq-novt-2017-10K-17666690.pdf"
+        },
+        {
+            "company": "valmet",
+            "query": "valmet sustainability report 2017 filetype:pdf",
+            "link": "https://www.valmet.com/globalassets/investors/reports--presentations/annual-reports/2017/valmet-gri-supplement-2017.pdf"
+        },
+        {
+            "company": "ssab",
+            "query": "ssab sustainability report 2017 filetype:pdf",
+            "link": "https://ssabwebsitecdn.azureedge.net/-/media/files/company/investors/annual-reports/2017/ssab-annual-report-2017-en.pdf?m=20180319123646"
+        },
+        {
+            "company": "marriott",
+            "query": "marriott sustainability report 2017 filetype:pdf",
+            "link": "http://serve360.marriott.com/wp-content/uploads/2017/10/2017_Sustainability_and_Social_Impact_Report.pdf"
+        },
+        {
+            "company": "hiscox",
+            "query": "hiscox sustainability report 2017 filetype:pdf",
+            "link": "https://www.hiscoxgroup.com/sites/group/files/2018-04/Hiscox_report_and_accounts_2017_0.pdf"
+        },
+        {
+            "company": "triton international",
+            "query": "triton international sustainability report 2017 filetype:pdf",
+            "link": "https://www.triton-partners.de/media/2335/triton-advisers-limited-ri-transparency-report-201718-pdf.pdf"
+        },
+        {
+            "company": "elf beauty",
+            "query": "elf beauty sustainability report 2017 filetype:pdf",
+            "link": "https://stocklight.com/stocks/us/retail-trade/nyse-elf/e-l-f-beauty/annual-reports/nyse-elf-2017-10K-17691928.pdf"
+        },
+        {
+            "company": "saab b",
+            "query": "saab b sustainability report 2017 filetype:pdf",
+            "link": "https://www.saab.com/contentassets/22c6314206844bceaa37cf947ae237e2/annual-and-sustainability-report-2017.pdf"
+        },
+        {
+            "company": "maximus",
+            "query": "maximus sustainability report 2017 filetype:pdf",
+            "link": "https://d1io3yog0oux5.cloudfront.net/_b4dba85ad42a8c6bb5ecfddbb9e43f0e/maximus/db/1992/18114/file/MAXIMUS_Sustainability-Corporate-Responsiblility-Report_2017.pdf"
+        },
+        {
+            "company": "smith (ds)",
+            "query": "smith (ds) sustainability report 2017 filetype:pdf",
+            "link": "https://www.dssmith.com/contentassets/bc866dad9a9d4b95b06c92fb78e37d7c/ds_smith_annual_report_2017.pdf"
+        },
+        {
+            "company": "beazley",
+            "query": "beazley sustainability report 2017 filetype:pdf",
+            "link": "https://investor.relations.beazley.com/~/media/Files/B/Beazley-IR-V3/documents/annual-reports/ar-2017-beazley-ireland-holdings-plc.pdf"
+        },
+        {
+            "company": "imi",
+            "query": "imi sustainability report 2017 filetype:pdf",
+            "link": "https://www.annualreports.com/HostedData/AnnualReportArchive/i/LSE_IMI_2017.pdf"
+        },
+        {
+            "company": "exponent",
+            "query": "exponent sustainability report 2017 filetype:pdf",
+            "link": "https://www.exponent.com/sites/default/files/media/documents/2017-annual%20report.pdf"
+        },
+        {
+            "company": "penn",
+            "query": "penn sustainability report 2017 filetype:pdf",
+            "link": "https://sustainability.upenn.edu/sites/default/files/legacy/downloads/2017%20Sustainability%20Report%20FINAL%2027Feb2018.pdf"
+        },
+        {
+            "company": "mks instruments",
+            "query": "mks instruments sustainability report 2017 filetype:pdf",
+            "link": "https://www.annualreports.com/HostedData/AnnualReportArchive/m/NASDAQ_MKSI_2017.pdf"
+        },
+        {
+            "company": "nextera energy partners units",
+            "query": "nextera energy partners units sustainability report 2017 filetype:pdf",
+            "link": "https://www.investor.nexteraenergypartners.com/~/media/Files/N/NEP-IR/reports-and-fillings/quartely-earnings/2018/q4/012618-nee-q4-and-full-year-2017-earnings-news-release-final.pdf"
+        },
+        {
+            "company": "new relic",
+            "query": "new relic sustainability report 2017 filetype:pdf",
+            "link": "https://stocklight.com/stocks/us/services/nyse-newr/new-relic/annual-reports/nyse-newr-2017-10K-17855610.pdf"
+        },
+        {
+            "company": "belimo",
+            "query": "belimo sustainability report 2017 filetype:pdf",
+            "link": "https://www.belimo.com/mam/corporate-communications/investor-relations/financial-reports/2017/annual-report_2017.pdf"
+        },
+        {
+            "company": "sojitz",
+            "query": "sojitz sustainability report 2017 filetype:pdf",
+            "link": "https://www.sojitz.com/jp/ir/reports/annual/upload/ar2017e_005.pdf"
+        },
+        {
+            "company": "alkermes",
+            "query": "alkermes sustainability report 2017 filetype:pdf",
+            "link": "https://www.alkermes.com/getmedia/e457cd04-fa46-4530-8e3d-0015931cf359/alkermes_csr-report-2017.pdf"
+        },
+        {
+            "company": "evolution mining",
+            "query": "evolution mining sustainability report 2017 filetype:pdf",
+            "link": "https://evolutionmining.com.au/wp-content/uploads/2018/03/2017-CR-Report_final-web-version.pdf"
+        },
+        {
+            "company": "galenica",
+            "query": "galenica sustainability report 2017 filetype:pdf",
+            "link": "https://www.galenica.com/galenica23Assets/bin/en/publikationen/sustainability-report/nhb17_e.pdf"
+        },
+        {
+            "company": "workiva",
+            "query": "workiva sustainability report 2017 filetype:pdf",
+            "link": "https://www.workiva.com/sites/workiva/files/pdfs/press-and-news/2017-sustainability-report.pdf"
+        },
+        {
+            "company": "incitec pivot",
+            "query": "incitec pivot sustainability report 2017 filetype:pdf",
+            "link": "https://www.incitecpivot.com.au/~/media/Files/IPL/Sustainability/2017%20IPL%20Online%20Sustainability%20Report-pdf.pdf"
+        },
+        {
+            "company": "hugo boss",
+            "query": "hugo boss sustainability report 2017 filetype:pdf",
+            "link": "https://ircenter.handelsblatt.com/download/companies/hugoboss/Annual%20Reports/DE000A1PHFF7-JA-2017-EQ-E-01.pdf"
+        },
+        {
+            "company": "new jersey",
+            "query": "new jersey sustainability report 2017 filetype:pdf",
+            "link": "https://www.sustainablejersey.com/fileadmin/media/Events_and_Trainings/Sustainability_Summit/2017/2017_SSSR_Summary_Report_FINAL.pdf"
+        },
+        {
+            "company": "whitehaven coal",
+            "query": "whitehaven coal sustainability report 2017 filetype:pdf",
+            "link": "https://whitehavencoal.com.au/wp-content/uploads/2019/12/Whitehaven-Coal-Annual-Report-2017.pdf"
+        },
+        {
+            "company": "badger meter",
+            "query": "badger meter sustainability report 2017 filetype:pdf",
+            "link": "https://stocklight.com/stocks/us/manufacturing/nyse-bmi/badger-meter/annual-reports/nyse-bmi-2017-10K-17649503.pdf"
+        },
+        {
+            "company": "lanxess",
+            "query": "lanxess sustainability report 2017 filetype:pdf",
+            "link": "https://lanxess.com/-/media/Project/Lanxess/Corporate-Internet/Investors/Publications/Reports/2017/EN/LXS_GB2017_E_web.pdf"
+        },
+        {
+            "company": "meritage",
+            "query": "meritage sustainability report 2017 filetype:pdf",
+            "link": "https://stocklight.com/stocks/us/construction/nyse-mth/meritage-homes/annual-reports/nyse-mth-2017-10K-17621152.pdf"
+        },
+        {
+            "company": "iac",
+            "query": "iac sustainability report 2017 filetype:pdf",
+            "link": "https://www.globalreporting.org/media/bnod1uhs/iac-annual-report-2017.pdf"
+        },
+        {
+            "company": "colliers international",
+            "query": "colliers international sustainability report 2017 filetype:pdf",
+            "link": "https://s202.q4cdn.com/432246625/files/doc_financials/2017/ar/Colliers-2017_Annual-Report.pdf"
+        },
+        {
+            "company": "simcorp",
+            "query": "simcorp sustainability report 2017 filetype:pdf",
+            "link": "https://www.annualreports.com/HostedData/AnnualReportArchive/s/simcorp_2017.pdf"
+        },
+        {
+            "company": "freenet",
+            "query": "freenet sustainability report 2017 filetype:pdf",
+            "link": "https://www.freenet.ag/binaries/_ts_1632059296667/content/assets/freenetgroup/pdf/ir-englisch/finanzberichte/2016/20170403-annual-report-2016-of-freenet-ag.pdf"
+        },
+        {
+            "company": "aalberts",
+            "query": "aalberts sustainability report 2017 filetype:pdf",
+            "link": "https://www.annualreports.com/HostedData/AnnualReportArchive/a/aalberts_2017.pdf"
+        },
+        {
+            "company": "hawaiian electric",
+            "query": "hawaiian electric sustainability report 2017 filetype:pdf",
+            "link": "https://www.hawaiianelectric.com/documents/about_us/news/2017/20170809_hawaiian_electric_companies_sustainability_report_now_available.pdf"
+        },
+        {
+            "company": "balchem",
+            "query": "balchem sustainability report 2017 filetype:pdf",
+            "link": "https://balchem.com/wp-content/uploads/2021/02/2017-12-31-Balchem-Annual-Report-2017.pdf"
+        },
+        {
+            "company": "onemain",
+            "query": "onemain sustainability report 2017 filetype:pdf",
+            "link": "https://stocklight.com/stocks/us/finance-and-insurance/nyse-omf/onemain-holdings/annual-reports/nyse-omf-2017-10K-17625883.pdf"
+        },
+        {
+            "company": "power integrations",
+            "query": "power integrations sustainability report 2017 filetype:pdf",
+            "link": "https://stocklight.com/stocks/us/manufacturing/nasdaq-powi/power-integrations/annual-reports/nasdaq-powi-2017-10K-17583326.pdf"
+        },
+        {
+            "company": "snc lavalin",
+            "query": "snc lavalin sustainability report 2017 filetype:pdf",
+            "link": "https://www.snclavalin.com/~/media/Files/S/SNC-Lavalin/download-centre/en/report/sustainability-report-2017-en.pdf"
+        },
+        {
+            "company": "royal unibrew",
+            "query": "royal unibrew sustainability report 2017 filetype:pdf",
+            "link": "https://www.annualreports.com/HostedData/AnnualReportArchive/r/royal-unibrew_2017.pdf"
+        },
+        {
+            "company": "manpower",
+            "query": "manpower sustainability report 2017 filetype:pdf",
+            "link": "https://www.manpowergroup.com/-/media/project/manpowergroup/mpg-marketing/pdf/sustainability/mpg_sustainability_report_2017.pdf"
+        },
+        {
+            "company": "tritax big box",
+            "query": "tritax big box sustainability report 2017 filetype:pdf",
+            "link": "https://www.tritaxbigbox.co.uk/media/mfcdjiin/tritaxbigbox-interim-report-2017.pdf"
+        },
+        {
+            "company": "steadfast",
+            "query": "steadfast sustainability report 2017 filetype:pdf",
+            "link": "https://investor.steadfast.com.au/FormBuilder/_Resource/_module/7zaApZtBC0S8RkpPzBXBxw/file/results/2017/SDF-FY17-annual-report.pdf"
+        },
+        {
+            "company": "finning international",
+            "query": "finning international sustainability report 2017 filetype:pdf",
+            "link": "https://www.finning.com/content/dam/finning/Global/Documents/sustainability/2017_Sustainability_Report.pdf"
+        },
+        {
+            "company": "enerplus",
+            "query": "enerplus sustainability report 2017 filetype:pdf",
+            "link": "https://enerplus.com/wp-content/uploads/2022/08/Enerplus-2017-Sustainability-Report.pdf"
+        },
+        {
+            "company": "investec",
+            "query": "investec sustainability report 2017 filetype:pdf",
+            "link": "https://www.investec.com/content/dam/south-africa/welcome-to-investec/corporate-responsibility/sustainability_reports_statements/Investec%20sustainability%20report%202017.pdf"
+        },
+        {
+            "company": "asics",
+            "query": "asics sustainability report 2017 filetype:pdf",
+            "link": "https://assets.asics.com/page_types/3736/files/asics_sustainability_report_2017_online_original.pdf"
+        },
+        {
+            "company": "inchcape",
+            "query": "inchcape sustainability report 2017 filetype:pdf",
+            "link": "https://www.inchcape.com/wp-content/uploads/2022/03/2017-annual-report.pdf"
+        },
+        {
+            "company": "neogen",
+            "query": "neogen sustainability report 2017 filetype:pdf",
+            "link": "https://www.neogen.com/globalassets/pdfs/annual-reports/annual-report-2017.pdf"
+        },
+        {
+            "company": "hertz",
+            "query": "hertz sustainability report 2017 filetype:pdf",
+            "link": "https://images.hertz.com/pdfs/2017-Living-Journey-Sustainability-Report.pdf"
+        },
+        {
+            "company": "united bankshares",
+            "query": "united bankshares sustainability report 2017 filetype:pdf",
+            "link": "https://www.ahliunited.com/wp-content/uploads/2018/12/AUBAnnualReport2017.pdf"
+        },
+        {
+            "company": "bakkafrost",
+            "query": "bakkafrost sustainability report 2017 filetype:pdf",
+            "link": "https://www.bakkafrost.com/media/1773/bakkafrost_sustainability_report_2017.pdf"
+        },
+        {
+            "company": "group automotive",
+            "query": "group automotive sustainability report 2017 filetype:pdf",
+            "link": "https://www.bmwgroup.com/content/dam/grpw/websites/bmwgroup_com/ir/downloads/en/2017/BMW-Group-SustainableValueReport-2017--EN.pdf"
+        },
+        {
+            "company": "radian",
+            "query": "radian sustainability report 2017 filetype:pdf",
+            "link": "https://www.radian.com/who-we-are/for-investors/-/media/Files/Enterprise/Investor-Relations/Rating-Agency-Reports/Radian-Group-Inc/Standard-and-Poors101817.pdf"
+        },
+        {
+            "company": "old national bancorp",
+            "query": "old national bancorp sustainability report 2017 filetype:pdf",
+            "link": "https://www.commbank.com.au/content/dam/commbank/about-us/shareholders/pdfs/corporate-responsibility/2017/2017-corporate-responsibility-report.pdf"
+        },
+        {
+            "company": "cabot",
+            "query": "cabot sustainability report 2017 filetype:pdf",
+            "link": "https://www.cabotcorp.com/-/media/files/reports/responsibility/cabot-corporation-sustainability-report-2017.pdf?la=en&rev=236da4f26a884bd2baedf8b4708edd5c"
+        },
+        {
+            "company": "wendys",
+            "query": "wendys sustainability report 2017 filetype:pdf",
+            "link": "https://www.wendys.com/sites/default/files/2018-06/Wendys_Bookmarked_Annual_Report_2017.pdf"
+        },
+        {
+            "company": "signify",
+            "query": "signify sustainability report 2017 filetype:pdf",
+            "link": "https://www.signify.com/static/2017/philips-lighting-annual-report-2017.pdf"
+        },
+        {
+            "company": "ringkjobing landbobank",
+            "query": "ringkjobing landbobank sustainability report 2017 filetype:pdf",
+            "link": "https://www.nordjyskebank.dk/wps/wcm/connect/landbobanken/1c5c25d1-990c-4bcf-85dc-f9601b38b8ce/Annual+report+2017.pdf?MOD=AJPERES&CVID=m5c4QeQ"
+        },
+        {
+            "company": "civitas",
+            "query": "civitas sustainability report 2017 filetype:pdf",
+            "link": "https://civitas.eu/sites/default/files/d6.1a_forum_report2017_final.pdf"
+        },
+        {
+            "company": "msc industrial",
+            "query": "msc industrial sustainability report 2017 filetype:pdf",
+            "link": "https://ungc-production.s3.us-west-2.amazonaws.com/attachments/cop_2018/467307/original/msc_sustainability_report_2017.pdf?1537432153"
+        },
+        {
+            "company": "itv",
+            "query": "itv sustainability report 2017 filetype:pdf",
+            "link": "https://www.itvplc.com/~/media/Files/I/ITV-PLC/documents/reports-and-results/2017-annual-report.pdf"
+        },
+        {
+            "company": "national storage affiliates trust",
+            "query": "national storage affiliates trust sustainability report 2017 filetype:pdf",
+            "link": "https://d1io3yog0oux5.cloudfront.net/_9492796184ea1941991955573a43a092/nationalstorageaffiliates/news/2017-05-03_National_Storage_Affiliates_Trust_Reports_First_45.pdf"
+        },
+        {
+            "company": "sunrun",
+            "query": "sunrun sustainability report 2017 filetype:pdf",
+            "link": "https://d1io3yog0oux5.cloudfront.net/sunrun/files/pages/sunrun/db/331/description/sunrun-2017-impact-report-final.pdf"
+        },
+        {
+            "company": "mueller",
+            "query": "mueller sustainability report 2017 filetype:pdf",
+            "link": "http://ir.muellerwaterproducts.com/~/media/Files/M/Mueller-Water-Products-IR/documents/annual-report-2017.pdf"
+        },
+        {
+            "company": "slm",
+            "query": "slm sustainability report 2017 filetype:pdf",
+            "link": "https://www.slm-solutions.com/fileadmin/Content/Investor_Relations/Financial_Reports/SLM_Solutions_Group_AG_Annual_Report_2017.pdf"
+        },
+        {
+            "company": "b2gold",
+            "query": "b2gold sustainability report 2017 filetype:pdf",
+            "link": "https://www.b2gold.com/_resources/esg/2017-Responsible-Mining-Report.pdf"
+        },
+        {
+            "company": "dufry",
+            "query": "dufry sustainability report 2017 filetype:pdf",
+            "link": "https://www.dufry.com/sites/default/files/document/2018-03/Dufry_Sustainibility_report_2017_EN_final.pdf"
+        },
+        {
+            "company": "pbf energy",
+            "query": "pbf energy sustainability report 2017 filetype:pdf",
+            "link": "https://investors.pbfenergy.com/~/media/Files/P/PBF-Energy-IR-V3/documents/annual-reports-and-proxy/2017-proxy-statement.pdf"
+        },
+        {
+            "company": "sprouts farmers market",
+            "query": "sprouts farmers market sustainability report 2017 filetype:pdf",
+            "link": "https://stocklight.com/stocks/us/retail-trade/nasdaq-sfm/sprouts-farmers-market/annual-reports/nasdaq-sfm-2017-10K-17630941.pdf"
+        },
+        {
+            "company": "castellum",
+            "query": "castellum sustainability report 2017 filetype:pdf",
+            "link": "https://www.annualreports.com/HostedData/AnnualReportArchive/c/castellum_2017.pdf"
+        },
+        {
+            "company": "cnx",
+            "query": "cnx sustainability report 2017 filetype:pdf",
+            "link": "https://www.cnx.com/cnx/media/Pdf/2017_CNX_CRR_Report.pdf"
+        },
+        {
+            "company": "pennymac financial services",
+            "query": "pennymac financial services sustainability report 2017 filetype:pdf",
+            "link": "https://s201.q4cdn.com/340896660/files/doc_financials/2017/q2/PennyMac-Financial-Services,-Inc.-Reports-Second-Quarter-2017-Results-20170803-1630.pdf"
+        },
+        {
+            "company": "sopra steria",
+            "query": "sopra steria sustainability report 2017 filetype:pdf",
+            "link": "https://www.soprasteria.com/docs/librariesprovider2/publications-rse/corporate-responsibility-report-2017.pdf?sfvrsn=42bc21dc_2"
+        },
+        {
+            "company": "avnet",
+            "query": "avnet sustainability report 2017 filetype:pdf",
+            "link": "https://www.avnet.com/wps/wcm/connect/onesite/b733ff6b-faf4-430e-93f7-573cabcee5cf/Avnet-Emissions-Report-FY17.pdf?MOD=AJPERES&CVID=mPuI9B1&CVID=l-xeWvy&CVID=l-xeWvy"
+        },
+        {
+            "company": "qube",
+            "query": "qube sustainability report 2017 filetype:pdf",
+            "link": "https://qube.com.au/wp-content/uploads/2020/11/Annual-Report-2017.pdf"
+        },
+        {
+            "company": "synaptics",
+            "query": "synaptics sustainability report 2017 filetype:pdf",
+            "link": "https://stocklight.com/stocks/us/manufacturing/nasdaq-syna/synaptics/annual-reports/nasdaq-syna-2017-10K-171041288.pdf"
+        },
+        {
+            "company": "britvic",
+            "query": "britvic sustainability report 2017 filetype:pdf",
+            "link": "https://www.britvic.com/media/2tcjj24s/annual-report-2017.pdf"
+        },
+        {
+            "company": "tomra systems",
+            "query": "tomra systems sustainability report 2017 filetype:pdf",
+            "link": "https://www.tomra.com/-/media/project/tomra/tomra/investor-relations/annual-reports/tomra-annual-report-2017_single-page.pdf"
+        },
+        {
+            "company": "taiyo yuden",
+            "query": "taiyo yuden sustainability report 2017 filetype:pdf",
+            "link": "https://www.yuden.co.jp/resource/data/csr/report/S_and_ER_17e.pdf"
+        },
+        {
+            "company": "ihi",
+            "query": "ihi sustainability report 2017 filetype:pdf",
+            "link": "https://www.ihi.co.jp/csr/english/download02/pdf/Sustainability_report_2017_E_all.pdf"
+        },
+        {
+            "company": "encore wire",
+            "query": "encore wire sustainability report 2017 filetype:pdf",
+            "link": "https://www.annualreports.com/HostedData/AnnualReportArchive/e/NASDAQ_WIRE_2017.pdf"
+        },
+        {
+            "company": "prairiesky royalty",
+            "query": "prairiesky royalty sustainability report 2017 filetype:pdf",
+            "link": "https://www.prairiesky.com/wp-content/uploads/1.1-PrairieSky-Royalty-Ltd.-Responsibility-Report-2017.pdf"
+        },
+        {
+            "company": "aedifica",
+            "query": "aedifica sustainability report 2017 filetype:pdf",
+            "link": "https://aedifica.eu/wp-content/uploads/2020/08/AED_Annual-Report_2017-2018_EN_2018-09-26_LVsec.pdf"
+        },
+        {
+            "company": "kawasaki kisen",
+            "query": "kawasaki kisen sustainability report 2017 filetype:pdf",
+            "link": "https://global.kawasaki.com/en/corp/sustainability/report/environmental/pdf/17_houkokusyo.pdf"
+        },
+        {
+            "company": "ryan specialty",
+            "query": "ryan specialty sustainability report 2017 filetype:pdf",
+            "link": "https://ir.ryanspecialty.com/financial-reports/sec-filings/content/0000950170-22-003831/0000950170-22-003831.pdf"
+        },
+        {
+            "company": "lincoln national",
+            "query": "lincoln national sustainability report 2017 filetype:pdf",
+            "link": "https://www.lincolnfinancial.com/pbl-static/pdf/Corp-Social-Responsibility-Report---2017.pdf"
+        },
+        {
+            "company": "tri pointe homes",
+            "query": "tri pointe homes sustainability report 2017 filetype:pdf",
+            "link": "https://stocklight.com/stocks/us/construction/nyse-tph/tri-pointe-homes/annual-reports/nyse-tph-2017-10K-17637812.pdf"
+        }
+    ]
+}
