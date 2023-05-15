@@ -123,7 +123,6 @@ for key, company in msci_list.items():
         if found:
             company = company.split(word, 1)[0] + word
             msci_list.iloc[key] = company
-    print(company)
 
 companies = pd.concat([dax_list, msci_list])
 
