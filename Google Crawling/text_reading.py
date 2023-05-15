@@ -21,12 +21,24 @@ def check_pdf_txt(pdf, year, companyName):
             'emission'
         ]
 
+        companySmall = companyName.lower()
+        companySlice0 = companyName.split(" ")[0]
+        allowed_names = [
+            companySmall,
+            companySlice0
+        ]
+        if(len(companyName.split(" ")) > 1):    
+            companySlice1 = companySmall.split(" ")[1]
+            allowed_names.append(companySlice1)
+        else:
+            companySlice1 = ""
+
         if companyName == 'KplusS':
             companyName = 'K+S'
         elif 'oe' in companyName:
             companyName = companyName.replace('oe','ö')
 
-        if any(word in str.lower(textInPages) for word in allowed_terms) and ("report" in str.lower(textInPages) or "information" in str.lower(textInPages)) and year in textInPages and str.lower(companyName) in str.lower(textInPages):
+        if any(word in str.lower(textInPages) for word in allowed_terms) and ("report" in str.lower(textInPages) or "information" in str.lower(textInPages)) and year in textInPages and any(companyName in str.lower(textInPages) for companyName in allowed_names):
             return True
         else:
             return False

@@ -37,7 +37,7 @@ msci_list = pd.read_csv("Google Crawling/msci.csv")["Name"]
 dax_list = pd.read_csv("Google Crawling/dax.csv")["COMPANIES"]
 # print(dax_list)
 
-not_allowed_terms = [
+not_allowed_terms_old = [
     ' inc',
     ' group',
     " class",
@@ -71,6 +71,44 @@ not_allowed_terms = [
     " energias"
 ]
 
+not_allowed_terms = [
+    " class",
+    " nv", 
+    " a",
+    " stapled units",
+    " n",
+    " units",
+    " unit",
+    " b",
+    " i"
+]
+
+tolerated_terms = [
+    ' inc',
+    ' group',
+    " ltd",
+    " plc",
+    " ag",
+    " sa",
+    " corp",
+    " entertainment",
+    " holding",
+    " holdings",
+    " company",
+    " reit",
+    " pharmaceuticals",
+    " pharmaceutical",
+    " industries",
+    " communications",
+    " corporation",
+    " resources",
+    " vacations",
+    " solutions",
+    " investment",
+    " energia",
+    " energias"
+]
+
 
 msci_list = msci_list.apply(str.lower)
 for key, company in msci_list.items():
@@ -79,8 +117,16 @@ for key, company in msci_list.items():
         if found:
             company = company.split(word, 1)[0]
             msci_list.iloc[key] = company
+    
+    for word in tolerated_terms:
+        found = re.search(word + "(\s|$)", company)
+        if found:
+            company = company.split(word, 1)[0] + word
+            msci_list.iloc[key] = company
+    print(company)
 
 companies = pd.concat([dax_list, msci_list])
+
 
 last_year_index, last_comp_index = find_where_to_start('stopped_search_at.txt')
 
@@ -169,3 +215,4 @@ for year in years_to_search[last_year_index:]:
     doubt_count = write_stats(year, "1", doubt_count)
 
 
+#TODO BEFORE DOWNLOAD : accept a part of the name in pdf reading 
