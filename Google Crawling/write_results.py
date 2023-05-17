@@ -1,16 +1,22 @@
 import json
 
-def write_stats(year, i, doubt_count_total):
+def write_stats(year, i):
 
   with open('doubt_results_' + i + '.json','r') as file:
-        try:
-          file_data = json.load(file)
-          doubt_count_year = len(file_data[year])
-        except:
-          file_data = {}
-          doubt_count_year = 0
+    try:
+      file_data = json.load(file)
 
-        
+    except:
+      file_data = {}
+      # doubt_count_total = 0
+    
+    if year in file_data.keys():
+      doubt_count_year = len(file_data[year])
+    else:
+      doubt_count_year = 0
+
+    doubt_count_total = sum(len(list) for list in file_data.values())
+
 
   with open('found_results_' + i + '.json','r') as file:
         try:
@@ -19,42 +25,56 @@ def write_stats(year, i, doubt_count_total):
         except:
           file_data = {}
           found_count_year = 0
-
-
+  
   to_find_per_year = doubt_count_year + found_count_year
-  doubt_count_total += doubt_count_year
+  # doubt_count_total += doubt_count_year
+
 
   found_per_year = found_count_year*100/to_find_per_year
-  #conclusions_found.append(year + " : " + str(found_per_year) + "% were found\n")
+
   conclusion_found = year + " : " + str(found_per_year) + "% were found\n"
   conclusion_doubt = str(doubt_count_total) + " doubtful results until now"
+  
+  if i == "1" :
+  
+    with open('exception_at_download.json','r') as file:
+      try:
+        file_data = json.load(file)
+        
+      except:
+        file_data = {}
+    
+      if year in file_data.keys():
+        exception_count_year = len(file_data[year])
+      else:
+        exception_count_year = 0
 
+      exception_count_total = sum(len(list) for list in file_data.values())
 
-  # for percentage in conclusions_found :
-  #   write_file.write(percentage)
+    # exception_count_total += exception_count_year
+    exception_per_year = exception_count_year*100/to_find_per_year
+    percentage_except = str(exception_per_year) + "% couldn't be downloaded\n"
+    count_except = str(exception_count_total) + " exceptions until now"
+  
 
   f = open('stats' + i + '.txt','a+')
   f.write(conclusion_found)
-  text = f.read()
   f.write(conclusion_doubt+'\n')
 
+  if i == "1" :
+    f.write(percentage_except)
+    f.write(count_except +'\n\n')
+  #   return doubt_count_total, exception_count_total
+  # else :
+  #   return doubt_count_total
   
-  # writing the data into the files
-  # with open('doubtful_results_' + str(i) + '.txt','w') as write_file:
-  #   write_file.write(conclusion_doubt)
-  #   json.dump(doubt_list, write_file, indent=4)
-  # with open('found_results_' + str(i) + '.txt','w') as write_file: 
-  #   for percentage in conclusions_found :
-  #       write_file.write(percentage)
-  #   json.dump(found_list, write_file, indent=4)
   
-  return doubt_count_total
 
 
 def write_json(new_data, filename, year):
     
   with open(filename,'r+') as file:
-        # First we load existing data into a dict.
+      # First we load existing data into a dict.
       try:
         file_data = json.load(file)
       except:

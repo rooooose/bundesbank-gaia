@@ -1,6 +1,7 @@
 import requests
 from vars_for_requests import headers
 import os
+from write_results import write_json
 
 def download_pdf(link, yearString, companyName):
 
@@ -10,10 +11,10 @@ def download_pdf(link, yearString, companyName):
     except:
         status_code = None
         print("GET REQUEST FAILED")
-        with open('exception_at_download.txt','a') as f:
-            f.write(companyName + '\n')
-            f.write(yearString + '\n')
-            f.write(link + '\n\n')
+        # with open('exception_at_download.txt','a') as f:
+        #     f.write(companyName + '\n')
+        #     f.write(yearString + '\n')
+        #     f.write(link + '\n\n')
     
     # print(response)
     if status_code == 200 and ".pdf" in link:
@@ -28,4 +29,5 @@ def download_pdf(link, yearString, companyName):
         filepath = "resultPDFs/" + companyName + "/" + yearString + "_report.pdf"
         return filepath
     else:
+        write_json({'company': companyName, 'link': link}, 'exception_at_download.json', yearString)
         return None

@@ -1,12 +1,8 @@
-2017 : 22.507204610951007% were found
-2689 doubtful results until now
-2018 : 24.1647465437788% were found
-2633 doubtful results until now
-2019 : 29.654178674351584% were found
-5074 doubtful results until now
-2020 : 33.36214347450303% were found
-2313 doubtful results until now
-2021 : 41.4121037463977% were found
-4346 doubtful results until now
-2022 : 36.607142857142854% were found
-2201 doubtful results until now
+2017 : 22.51369270683194% were found
+2018 : 24.17170844137136% were found
+2019 : 29.63390025944076% were found
+2020 : 33.371757925072046% were found
+2021 : 41.39521475929663% were found
+2022 : 36.61768942667819% were found
+
+14306 doubtful results

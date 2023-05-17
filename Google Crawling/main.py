@@ -28,10 +28,7 @@ def find_where_to_start(file):
 
 
 years_to_search = ["2017", "2018", "2019", "2020", "2021", "2022"]
-doubt_count = 0
-# doubt_list = {}
-# found_list = {}
-# conclusions_found = []
+# doubt_count = 0
 
 msci_list = pd.read_csv("Google Crawling/msci.csv")["Name"]
 dax_list = pd.read_csv("Google Crawling/dax.csv")["COMPANIES"]
@@ -133,30 +130,23 @@ year_changed = False
 
 # for year in years_to_search[last_year_index:]: 
 
-#     #when we change year, we want to start at the first comany (-1 because we want to start 0 and we do +1)
-#     if year_changed:
-#         last_comp_index = -1
-#     if last_comp_index+1 == len(companies):
-#         break
-#     for company in companies[last_comp_index+1:]:
-#         print(company)
-#         scrape_google_and_order(company + " sustainability report " + year + " filetype:pdf", year, company)
-#         f = open('stopped_search_at.txt','w')
-#         f.write(year + "-" + company)
-#         time.sleep(0.8)
+    #when we change year, we want to start at the first comany (-1 because we want to start 0 and we do +1)
+    # if year_changed:
+    #     last_comp_index = -1
+    # if last_comp_index+1 == len(companies):
+    #     break
+    # for company in companies[last_comp_index+1:]:
+    #     print(company)
+    #     scrape_google_and_order(company + " sustainability report " + year + " filetype:pdf", year, company)
+    #     f = open('stopped_search_at.txt','w')
+    #     f.write(year + "-" + company)
+    #     time.sleep(0.8)
     
-#     year_changed = True
+    # year_changed = True
 
-#     doubt_count = write_stats(year, "0", doubt_count)
+    # write_stats(year, "0")
 
-    
 
-# Reinit variables for new recap after text reading
-doubt_count = 0
-
-#to comment
-# f = open('doubt_results_1.json', 'w')
-# f = open('found_results_1.json', 'w')
 
 original_found = 'found_results_0.json'
 new_found = 'found_results_1.json'
@@ -211,7 +201,4 @@ for year in years_to_search[last_year_index:]:
 
     year_changed = True
     
-    doubt_count = write_stats(year, "1", doubt_count)
-
-
-#TODO BEFORE DOWNLOAD : accept a part of the name in pdf reading 
+    write_stats(year, "1")
