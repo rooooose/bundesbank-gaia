@@ -131,23 +131,23 @@ last_year_index, last_comp_index = find_where_to_start('stopped_search_at.txt')
 
 year_changed = False
 
-for year in years_to_search[last_year_index:]: 
+# for year in years_to_search[last_year_index:]: 
 
-    #when we change year, we want to start at the first comany (-1 because we want to start 0 and we do +1)
-    if year_changed:
-        last_comp_index = -1
-    if last_comp_index+1 == len(companies):
-        break
-    for company in companies[last_comp_index+1:]:
-        print(company)
-        scrape_google_and_order(company + " sustainability report " + year + " filetype:pdf", year, company)
-        f = open('stopped_search_at.txt','w')
-        f.write(year + "-" + company)
-        time.sleep(0.8)
+#     #when we change year, we want to start at the first comany (-1 because we want to start 0 and we do +1)
+#     if year_changed:
+#         last_comp_index = -1
+#     if last_comp_index+1 == len(companies):
+#         break
+#     for company in companies[last_comp_index+1:]:
+#         print(company)
+#         scrape_google_and_order(company + " sustainability report " + year + " filetype:pdf", year, company)
+#         f = open('stopped_search_at.txt','w')
+#         f.write(year + "-" + company)
+#         time.sleep(0.8)
     
-    year_changed = True
+#     year_changed = True
 
-    doubt_count = write_stats(year, "0", doubt_count)
+#     doubt_count = write_stats(year, "0", doubt_count)
 
     
 
