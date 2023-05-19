@@ -12,7 +12,7 @@ def download_pdf(link, yearString, companyName):
     except:
         status_code = None
 
-    if status_code == 200 and ".pdf" in link:
+    if status_code == 200 in link:
 
         if not os.path.exists("resultPDFs/"+companyName):
             os.makedirs("resultPDFs/"+companyName)

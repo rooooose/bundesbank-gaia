@@ -47,7 +47,7 @@ def check_pdf_txt(pdf, year, companyName, link):
         except:
             print("PDF CORRUPTED")
             os.remove(pdf)
-            write_json({'company': companyName, 'link': link}, 'exception_at_download.json', year)
+            write_json({'company': companyName, 'link': link, 'error': 'pdf corrupted'}, 'exception_at_download.json', year)
             return 403
     else:
         return 403
