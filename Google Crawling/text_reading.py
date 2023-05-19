@@ -1,5 +1,6 @@
 import fitz
 from write_results import write_json
+import os
 
 def check_pdf_txt(pdf, year, companyName, link):
     
@@ -44,6 +45,8 @@ def check_pdf_txt(pdf, year, companyName, link):
             else:
                 return False
         except:
+            print("PDF CORRUPTED")
+            os.remove(pdf)
             write_json({'company': companyName, 'link': link}, 'exception_at_download.json', year)
             return 403
     else:

@@ -202,3 +202,6 @@ for year in years_to_search[last_year_index:]:
     year_changed = True
     
     write_stats(year, "1")
+
+
+#TODO Supprimer les fichiers corrompus dans le text reading except

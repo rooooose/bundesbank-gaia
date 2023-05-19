@@ -11,7 +11,6 @@ def download_pdf(link, yearString, companyName):
         print(status_code)
     except:
         status_code = None
-        print("GET REQUEST FAILED")
 
     if status_code == 200 and ".pdf" in link:
 
@@ -25,5 +24,6 @@ def download_pdf(link, yearString, companyName):
         filepath = "resultPDFs/" + companyName + "/" + yearString + "_report.pdf"
         return filepath
     else:
+        print("GET REQUEST FAILED")
         write_json({'company': companyName, 'link': link}, 'exception_at_download.json', yearString)
         return None
