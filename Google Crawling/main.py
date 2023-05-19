@@ -150,7 +150,7 @@ year_changed = False
 
 original_found = 'found_results_0.json'
 new_found = 'found_results_1.json'
-# shutil.copyfile(original_found, new_found)
+shutil.copyfile(original_found, new_found)
 
 with open('doubt_results_0.json','r') as file:
     try:
@@ -168,42 +168,42 @@ last_year_index, last_comp_index = find_where_to_start('stopped_download_at.txt'
 
 year_changed = False
 
-# for year in years_to_search[last_year_index:]:
+for year in years_to_search[last_year_index:]:
 
-#     if year_changed:
-#         last_comp_index = -1
+    if year_changed:
+        last_comp_index = -1
 
-#     if last_comp_index+1 == len(companies):
-#         break
+    if last_comp_index+1 == len(companies):
+        break
 
-#     for company in companies[last_comp_index+1:]:
+    for company in companies[last_comp_index+1:]:
 
-#         is_doubt = False
+        is_doubt = False
 
-#         if year in doubt_list.keys():
-#             for result in doubt_list[year]:
-#                 if company in result.values():
-#                     print(result)
-#                     filepath = download_pdf(result["link"], year, result["company"])
-#                     read_and_reorder_pdf(filepath, year, result["company"], result["query"], result["link"])
-#                     is_doubt = True
-#                     break
-#         if year in found_list.keys() and not is_doubt:
-#             # print("look in found results")
-#             for result in found_list[year]:
-#                 if company in result.values():
-#                     print(result)
-#                     download_pdf(result["link"], year, result["company"])
-#                     break
+        if year in doubt_list.keys():
+            for result in doubt_list[year]:
+                if company in result.values():
+                    print(result)
+                    filepath = download_pdf(result["link"], year, result["company"])
+                    read_and_reorder_pdf(filepath, year, result["company"], result["query"], result["link"])
+                    is_doubt = True
+                    break
+        if year in found_list.keys() and not is_doubt:
+            # print("look in found results")
+            for result in found_list[year]:
+                if company in result.values():
+                    print(result)
+                    download_pdf(result["link"], year, result["company"])
+                    break
 
-#         f = open('stopped_download_at.txt','w')
-#         f.write(year + "-" + company)
+        f = open('stopped_download_at.txt','w')
+        f.write(year + "-" + company)
 
-#     year_changed = True
+    year_changed = True
     
-#     write_stats(year, "1")
+    write_stats(year, "1")
 
 
-download_pdf("https://www.nitto.com/eu/en/others/sustainability/report/2019/file/2019_all.pdf", "2017", "nitto boseki ltd")
+# download_pdf("https://www.nitto.com/eu/en/others/sustainability/report/2019/file/2019_all.pdf", "2017", "nitto boseki ltd")
 
 #TODO A LA FIN DE TOUT LE RESTE TELECHARGE DANS DROPBOX : télécharger tous ceux qui ont été supprimés à partir de : ........ et créer un nouveau fichier exceptions.txt
