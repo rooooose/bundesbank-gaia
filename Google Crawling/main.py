@@ -15,7 +15,7 @@ def find_where_to_start(file):
     last_comp_line = last_comp_file.read()
     last_comp_file.close()
 
-    if not last_comp_line == "":
+    if not last_comp_line == "" and not last_comp_line == "\n":
         last_year = last_comp_line.split('-')[0]
         last_comp = last_comp_line.split('-')[1]
         last_comp_index = list(companies).index(last_comp)
