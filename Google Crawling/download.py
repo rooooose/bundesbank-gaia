@@ -5,7 +5,7 @@ from write_results import write_json
 import dropbox
 
 def dropbox_upload(filepath, company):
-    dbx = dropbox.Dropbox('sl.BeofrB0-YwYsFkzC9bl0A1TnVqYeuStHmMG0OtwmoFGKG7U9AzLAgptpVo5osRTt_SJ934z0-ZJSuMEcc0c4HGpE7cxj2FevP9Kvbruyy63jTgtpJ6RYVyGihsoTE6_lMkbG0eR7A78')
+    dbx = dropbox.Dropbox('sl.BeqfnpLQvybDihTNPcLLa8oiesfQW8_Z7G9cvUPMDDm4pOLUwBGwShRMMp1xr5hyQivPTAxKptkJBjLrzuqehckWMs4XtlU7aygay29r6ef_kIe02MPtxnrV99t5BhveqWrjpoJb3aM')
     
     with open(filepath, "rb") as f:
         # print("cc")
