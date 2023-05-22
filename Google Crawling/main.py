@@ -5,9 +5,9 @@ from download import download_pdf
 from text_reading import read_and_reorder_pdf
 from write_results import write_stats
 import pandas as pd
-import time
-import re
+import re, os
 import shutil
+import dropbox
 
 def find_where_to_start(file):
 
@@ -123,6 +123,8 @@ for key, company in msci_list.items():
 
 companies = pd.concat([dax_list, msci_list])
 
+dbx = dropbox.Dropbox('sl.Be2YSRMeMcL4nyXNVEim-YgEBCKwUOpratWLPWLj_LMGaHXQMdhCQ0p-Y6kXaGeeGEQ_zYJE6VkDgvlXGljmYbthcDr-3S7XaG7Z2DNqk60VwdQh-IEI9JQV0e7nF9SFHjXyy-rWLUg:EUR')
+
 
 last_year_index, last_comp_index = find_where_to_start('stopped_search_at.txt')
 
@@ -184,16 +186,20 @@ for year in years_to_search[last_year_index:]:
             for result in doubt_list[year]:
                 if company in result.values():
                     print(result)
-                    filepath = download_pdf(result["link"], year, result["company"])
-                    read_and_reorder_pdf(filepath, year, result["company"], result["query"], result["link"])
+                    filepath = download_pdf(result["link"], year, result["company"], dbx)
+                    read_and_reorder_pdf(filepath, year, result["company"], result["query"], result["link"], dbx)
                     is_doubt = True
+                    if filepath != None:
+                        os.remove(filepath)
                     break
         if year in found_list.keys() and not is_doubt:
             # print("look in found results")
             for result in found_list[year]:
                 if company in result.values():
                     print(result)
-                    download_pdf(result["link"], year, result["company"])
+                    filepath = download_pdf(result["link"], year, result["company"], dbx)
+                    if filepath != None:
+                        os.remove(filepath)
                     break
 
         f = open('stopped_download_at.txt','w')
@@ -205,5 +211,3 @@ for year in years_to_search[last_year_index:]:
 
 
 # download_pdf("https://www.nitto.com/eu/en/others/sustainability/report/2019/file/2019_all.pdf", "2017", "nitto boseki ltd")
-
-#TODO A LA FIN DE TOUT LE RESTE TELECHARGE DANS DROPBOX : télécharger tous ceux qui ont été supprimés à partir de : ........ et créer un nouveau fichier exceptions.txt

@@ -4,18 +4,12 @@ import os
 from write_results import write_json
 import dropbox
 
-def dropbox_upload(filepath, company):
-    dbx = dropbox.Dropbox('sl.BeqfnpLQvybDihTNPcLLa8oiesfQW8_Z7G9cvUPMDDm4pOLUwBGwShRMMp1xr5hyQivPTAxKptkJBjLrzuqehckWMs4XtlU7aygay29r6ef_kIe02MPtxnrV99t5BhveqWrjpoJb3aM')
+def dropbox_upload(filepath, company, dbx):
     
     with open(filepath, "rb") as f:
-        # print("cc")
-        # filename = filepath.rsplit("/", 1)[1]
-        # print(filename)
         dbx.files_upload(f.read(), "/2023-05-19 (msci)/"+company+"/"+filepath, mode=dropbox.files.WriteMode("overwrite"))
-    
-    os.remove(filepath)
 
-def download_pdf(link, yearString, companyName):
+def download_pdf(link, yearString, companyName, dbx):
 
     try:
         response = requests.get(link, headers=headers, timeout=30)
@@ -32,7 +26,7 @@ def download_pdf(link, yearString, companyName):
     
         filepath = yearString + "_report.pdf"
 
-        dropbox_upload(filepath, companyName)
+        dropbox_upload(filepath, companyName, dbx)
         return filepath
     else:
         print("GET REQUEST FAILED")

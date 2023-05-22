@@ -2,7 +2,7 @@ import fitz
 from write_results import write_json
 import os
 
-def check_pdf_txt(pdf, year, companyName, link):
+def check_pdf_txt(pdf, year, companyName, link, dbx):
     
     if pdf != None:
         try:
@@ -46,16 +46,17 @@ def check_pdf_txt(pdf, year, companyName, link):
                 return False
         except:
             print("PDF CORRUPTED")
-            os.remove(pdf)
+            # os.remove(pdf)
+            dbx.files_delete("/2023-05-19 (msci)/"+companyName+"/"+pdf)
             write_json({'company': companyName, 'link': link, 'error': 'pdf corrupted'}, 'exception_at_download.json', year)
             return 403
     else:
         return 403
     
 
-def read_and_reorder_pdf(filepath, year, company, query, link):
+def read_and_reorder_pdf(filepath, year, company, query, link, dbx):
 
-    pdf_text_is_relevant = check_pdf_txt(filepath, year, company, link)
+    pdf_text_is_relevant = check_pdf_txt(filepath, year, company, link, dbx)
     if not pdf_text_is_relevant:
         write_json({'query': query, 'link': link}, 'doubt_results_1.json', year)
     elif pdf_text_is_relevant == 403:

@@ -1,0 +1,56 @@
+{
+    "2017": [
+        {
+            "company": "E.ON",
+            "link": "https://www.eon.com/content/dam/eon/eon-com/Documents/en/sustainability-report/EON_Sustainability_Report_2017.pdf"
+        },
+        {
+            "company": "agco corp",
+            "link": "https://ar2020.agcocorp.com/assets/pdf/AGCO-2020-Sustainability-Report.pdf"
+        },
+        {
+            "company": "kbr inc",
+            "link": "https://www.kbr.com/ru/document/3661",
+            "error": "pdf corrupted"
+        },
+        {
+            "company": "planet fitness inc",
+            "link": "https://www.planetfitness.com/sites/default/files/equipment/JFG%20Impact%20Report%202017_0.pdf"
+        },
+        {
+            "company": "texas roadhouse inc",
+            "link": "https://www.texasroadhouse.com/sites/default/files/2021-10/texas-roadhouse-sustainability-report.pdf"
+        },
+        {
+            "company": "wyndham hotels & resorts inc",
+            "link": "https://www.wyndhamhotels.com/de-de",
+            "error": "pdf corrupted"
+        },
+        {
+            "company": "h&r block inc",
+            "link": "https://de.wikipedia.org/wiki/H",
+            "error": "pdf corrupted"
+        },
+        {
+            "company": "mdu resources",
+            "link": "https://www.montana-dakota.com/wp-content/uploads/PDFs/Conservation/mdur_sustainability_report_2017.pdf"
+        },
+        {
+            "company": "hyatt hotels corp",
+            "link": "https://about.hyatt.com/content/dam/HyattStories/thrive/2017-2018-CR-Scorecard.pdf"
+        },
+        {
+            "company": "b&m european value retail sa",
+            "link": "https://www.bild.de/",
+            "error": "pdf corrupted"
+        },
+        {
+            "company": "apartment income reit",
+            "link": "https://www.aircommunities.com/content/dam/aimco/corporate-responsibility/AIR_CR_Report_121021_Digital.pdf"
+        },
+        {
+            "company": "simpson manufacturing inc",
+            "link": "https://www.strongtie.lv/sites/default/files/field_microsite_file/simpsonstrongtie_esg-report-2020.pdf"
+        }
+    ]
+}
