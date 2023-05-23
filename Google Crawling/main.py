@@ -123,7 +123,7 @@ for key, company in msci_list.items():
 
 companies = pd.concat([dax_list, msci_list])
 
-dbx = dropbox.Dropbox('sl.Be2YSRMeMcL4nyXNVEim-YgEBCKwUOpratWLPWLj_LMGaHXQMdhCQ0p-Y6kXaGeeGEQ_zYJE6VkDgvlXGljmYbthcDr-3S7XaG7Z2DNqk60VwdQh-IEI9JQV0e7nF9SFHjXyy-rWLUg:EUR')
+dbx = dropbox.Dropbox('sl.Be7wEJkxRnAh1Gr4Dl0QKbWvT2Uf9je4KonpvMguwJmgJNKe5CSmxmTkaiAibYkMqTuW4SknIBz9xtz7fa_QxK0X4al4Q4ys2hq9v61b6PFKgehZiXlyLSO2J5XrlEuKi9szO2oAk1g:EUR')
 
 
 last_year_index, last_comp_index = find_where_to_start('stopped_search_at.txt')
@@ -210,4 +210,6 @@ for year in years_to_search[last_year_index:]:
     write_stats(year, "1")
 
 
-# download_pdf("https://www.nitto.com/eu/en/others/sustainability/report/2019/file/2019_all.pdf", "2017", "nitto boseki ltd")
+# "query": "kanto denka kogyo ltd sustainability report 2017 filetype:pdf",
+# "link": "https://www.kantodenka.co.jp/english/sustainability/pdf/sustainability_report_2021e.pdf"
+# dans found
