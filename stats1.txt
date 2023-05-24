@@ -3,3 +3,8 @@
 6.258692628650904% couldn't be downloaded
 180 exceptions until now
 
+2018 : 35.38913362701909% were found
+3625 doubtful results until now
+6.424375917767988% couldn't be downloaded
+355 exceptions until now
+

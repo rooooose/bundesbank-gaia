@@ -123,7 +123,7 @@ for key, company in msci_list.items():
 
 companies = pd.concat([dax_list, msci_list])
 
-dbx = dropbox.Dropbox('sl.Be7wEJkxRnAh1Gr4Dl0QKbWvT2Uf9je4KonpvMguwJmgJNKe5CSmxmTkaiAibYkMqTuW4SknIBz9xtz7fa_QxK0X4al4Q4ys2hq9v61b6PFKgehZiXlyLSO2J5XrlEuKi9szO2oAk1g:EUR')
+dbx = dropbox.Dropbox('sl.Be8XAKhHDl66MAaIRYXpOw3AkTX9GS0tsOLdCX-lbblftqGNGiTZm0CDhFsoeXcaH1B8Oc1mYkpDSn4y2PiXuaoy0t3avveBs59x26OsN8RVLVtO2tz1_5b0mtC1waDdwXMReetB1EE:EUR')
 
 
 last_year_index, last_comp_index = find_where_to_start('stopped_search_at.txt')
