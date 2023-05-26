@@ -45,9 +45,10 @@ def check_pdf_txt(pdf, year, companyName, link, dbx):
             else:
                 return False
         except:
+            file.close()
             print("PDF CORRUPTED")
-            # os.remove(pdf)
-            dbx.files_delete("/2023-05-19 (msci)/"+companyName+"/"+pdf)
+            # dbx.files_delete("/2023-05-19 (msci)/"+companyName+"/"+pdf)
+            os.remove(pdf)
             write_json({'company': companyName, 'link': link, 'error': 'pdf corrupted'}, 'exception_at_download.json', year)
             return 403
     else:

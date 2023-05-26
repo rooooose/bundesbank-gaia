@@ -36,10 +36,6 @@
             "link": "https://www.montana-dakota.com/wp-content/uploads/PDFs/Conservation/mdur_sustainability_report_2017.pdf"
         },
         {
-            "company": "hyatt hotels corp",
-            "link": "https://about.hyatt.com/content/dam/HyattStories/thrive/2017-2018-CR-Scorecard.pdf"
-        },
-        {
             "company": "b&m european value retail sa",
             "link": "https://www.bild.de/",
             "error": "pdf corrupted"
@@ -51,6 +47,10 @@
         {
             "company": "simpson manufacturing inc",
             "link": "https://www.strongtie.lv/sites/default/files/field_microsite_file/simpsonstrongtie_esg-report-2020.pdf"
+        },
+        {
+            "company": "tg therapeutics inc",
+            "link": "https://www.tatachemicals.com/upload/content_pdf/tata-chemicals-yearly-reports-2017-18.pdf"
         },
         {
             "company": "penn entertainment",
@@ -137,6 +137,10 @@
             "error": "pdf corrupted"
         },
         {
+            "company": "potlatchdeltic corp",
+            "link": "https://s1.q4cdn.com/378084150/files/doc_financials/2020/sr/PCH-2020-ESG-HS_L.pdf"
+        },
+        {
             "company": "phillips edison & company",
             "link": "https://www.phillipsedison.com/",
             "error": "pdf corrupted"
@@ -181,8 +185,16 @@
             "error": "pdf corrupted"
         },
         {
+            "company": "cavco industries",
+            "link": "https://investor.cavco.com/public/phhweb/gallery/userupload/ir-doc-771/cavco_esg_report_0817.pdf"
+        },
+        {
             "company": "banca mediolanum",
             "link": "https://www.bancamediolanum.it/static-assets/documents/sostenibilita/BondFramework.pdf"
+        },
+        {
+            "company": "methanex corp",
+            "link": "https://www.methanex.com/sites/default/files/microsites/Methanex-Sustainability-Report-2017.pdf"
         },
         {
             "company": "patterson uti energy inc",
@@ -195,21 +207,13 @@
             "error": "pdf corrupted"
         },
         {
-            "company": "pets at home plc",
-            "link": "https://investors.petsathome.com/media/oumdupqy/pets-at-home-social-value-report-2022.pdf"
-        },
-        {
-            "company": "aozora bank ltd",
-            "link": "https://docs.publicnow.com/2AF3D2EC61A23C9194CA6CBE9F776AE2E847DD63"
+            "company": "sage therapeutics inc",
+            "link": "https://www.sage.com/investors/-/media/files/investors/documents/pdf/downloads/sage-sustainability-report-2021.pdf"
         },
         {
             "company": "j&j snack foods corp",
             "link": "https://de.wikipedia.org/wiki/J",
             "error": "pdf corrupted"
-        },
-        {
-            "company": "energean plc",
-            "link": "https://www.energean.com/media/4046/f-i-2017-annual-report.pdf"
         },
         {
             "company": "genworth financial",
@@ -227,11 +231,6 @@
         {
             "company": "papa johns international inc",
             "link": "https://www.papajohns.com/company/PapaJohns_SustainabilityReport_2019.pdf",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "innovative",
-            "link": "https://www.leonardo.com/documents/15646808/16737725/body_LEONARDO_BdS2017_Eng_Singole.pdf?t=1540545434748",
             "error": "pdf corrupted"
         },
         {
@@ -281,10 +280,6 @@
             "company": "bic sa",
             "link": "https://www.bicworld.com/sites/default/files/2018-03/BIC-registration-document-2017.pdf",
             "error": "pdf corrupted"
-        },
-        {
-            "company": "sacyr sa",
-            "link": "https://www.sacyr.com/documents/63048160/63077182/informe_integrado_ingles_2017_tcm30-42583.pdf/5b6afa78-b2ac-f27c-fc02-ad4d42ec98a9?1.0"
         },
         {
             "company": "sumitomo osaka cement ltd",
@@ -425,11 +420,6 @@
             "error": "pdf corrupted"
         },
         {
-            "company": "kerry properties ltd",
-            "link": "https://www.kerryprops.com/srreport/2017/e_00683sr_20180629.pdf",
-            "error": "pdf corrupted"
-        },
-        {
             "company": "gs yuasa corp",
             "link": "https://www.gs-yuasa.com/en/ir/pdf/GS_Yuasa_Report_2017.pdf"
         },
@@ -450,6 +440,10 @@
             "company": "h&e equipment services inc",
             "link": "https://de.wikipedia.org/wiki/H",
             "error": "pdf corrupted"
+        },
+        {
+            "company": "sangetsu corp",
+            "link": "https://www.sangetsu.co.jp/images/english/ir/library/pdf/sangetsu-report2017-en_a3.pdf"
         },
         {
             "company": "monarch casino & resort inc",
@@ -476,15 +470,6 @@
             "error": "pdf corrupted"
         },
         {
-            "company": "g8 education ltd",
-            "link": "https://g8education.edu.au/wp-content/uploads/2018/03/G8-Annual-Report-2017.pdf"
-        },
-        {
-            "company": "geo group",
-            "link": "https://www.geogroup.com/Portals/0/HumanRightsESG2019.pdf",
-            "error": "pdf corrupted"
-        },
-        {
             "company": "xenia hotels & resorts reit",
             "link": "https://de.wikipedia.org/wiki/Xenia_(Hotel)",
             "error": "pdf corrupted"
@@ -492,6 +477,10 @@
         {
             "company": "nbt bancorp inc",
             "link": "https://www.nbtbancorp.com/bn/assets/pdfs/ProxyStatement.pdf"
+        },
+        {
+            "company": "daiwa office investment",
+            "link": "https://www.daiwahouse.co.jp/sustainable/csr/pdfs/2017/2017_csr_en_all.pdf"
         },
         {
             "company": "sandy spring bancorp inc",
@@ -507,10 +496,6 @@
             "company": "heidrick & struggles international",
             "link": "https://www.heidrick.com/en",
             "error": "pdf corrupted"
-        },
-        {
-            "company": "wacom ltd",
-            "link": "https://docs.publicnow.com/9F478623D9B0D6FA48D60ED6DF9DB6667AFBEC8D"
         },
         {
             "company": "oil refineries ltd",
@@ -667,10 +652,6 @@
             "link": "https://www.sugi-hd.co.jp/csr/report/pdf/report2022E.pdf"
         },
         {
-            "company": "argan inc",
-            "link": "https://www.argan.fr/wp-content/uploads/2020/06/URD-2019-Argan-English-Translation-Final-Version.pdf"
-        },
-        {
             "company": "sakai moving service ltd",
             "link": "https://www.daiwahouse.co.jp/sustainable/csr/pdfs/2017/2017_csr_en_all.pdf"
         },
@@ -690,6 +671,11 @@
         {
             "company": "wealthnavi inc",
             "link": "https://www.sbichina.cn/data/pdf/2017ar_e-all.pdf"
+        },
+        {
+            "company": "almirall sa",
+            "link": "https://www.almirall.com/documents/4257831/4259568/EN_Consolidated_Directors_Report_31_12_2017.pdf/57b1438a-c584-48e9-9c71-cfd33c75985b",
+            "error": "pdf corrupted"
         },
         {
             "company": "playa hotels & resorts",
@@ -741,8 +727,7 @@
         },
         {
             "company": "babcock & wilcox enterprises inc",
-            "link": "https://www.babcockinternational.com/de/",
-            "error": "pdf corrupted"
+            "link": "https://www.babcockinternational.com/de/"
         },
         {
             "company": "health & happiness (h&h) interna",
@@ -789,6 +774,11 @@
             "error": "pdf corrupted"
         },
         {
+            "company": "emergent biosolutions inc",
+            "link": "https://investors.emergentbiosolutions.com/static-files/139a4191-2e9e-4db8-a6bc-0d3e9340adf9",
+            "error": "pdf corrupted"
+        },
+        {
             "company": "brookline bancorp inc",
             "link": "https://www.brooklinema.gov/DocumentCenter/View/22352/Brookline-Sustainability-Final-Report---August-2020"
         },
@@ -812,16 +802,16 @@
         {
             "company": "faes farma sa",
             "link": "https://www.acatis-research.de/AI/JB/jb_AIG_GB.pdf"
-        },
-        {
-            "company": "pointsbet holdings",
-            "link": "https://investors.pointsbet.com.au/wp-content/uploads/2022/08/FY22-Appendix-4E-and-Annual-Results.pdf"
         }
     ],
     "2018": [
         {
             "company": "E.ON",
             "link": "https://www.eon.com/content/dam/eon/eon-com/Documents/en/sustainability-report/2018/innogy-sustainability-report-2018.pdf"
+        },
+        {
+            "company": "HeidelbergCement",
+            "link": "https://www.heidelbergmaterials.com/sites/default/files/assets/document/29/d2/heidelbergcement-sustainability-report-2018.pdf"
         },
         {
             "company": "sarepta therapeutics inc",
@@ -845,9 +835,17 @@
             "error": "pdf corrupted"
         },
         {
+            "company": "idacorp inc",
+            "link": "https://docs.idahopower.com/pdfs/AboutUs/sustainabilityReport/Sustainability_Report_2019.pdf"
+        },
+        {
             "company": "h&r block inc",
             "link": "https://de.wikipedia.org/wiki/H",
             "error": "pdf corrupted"
+        },
+        {
+            "company": "us steel corp",
+            "link": "https://www.ussteel.com/documents/40705/43725/USS_CSR21_Full_Report.pdf/b990344d-2d81-f112-2a8f-b1c584989345?t=1658343821405"
         },
         {
             "company": "hyatt hotels corp",
@@ -934,6 +932,10 @@
             "link": "https://services.federatedinvestors.com/teamsite-file-server/content/Corporate+Sustainability+Report?token=ZGFmXHBkZlxhYm91dF9mZWRlcmF0ZWRcaW52ZXN0b3JfcmVsYXRpb25zXDUwNTc4LnBkZg%3D%3D%7C1%7CMCsCEyBSYYRRa1xqsbYOVBqvfsRpzXsCFDmmUdDud3KrnNFBiP47DA1dvw%2Bt&location=aHR0cHM6Ly9zZXJ2aWNlcy5mZWRlcmF0ZWRpbnZlc3RvcnMuY29tL3RlYW1zaXRlLWZpbGUtc2VydmVyL2NvbnRlbnQvQ29ycG9yYXRlK1N1c3RhaW5hYmlsaXR5K1JlcG9ydD90b2tlbj1aR0ZtWEhCa1pseGhZbTkxZEY5bVpXUmxjbUYwWldSY2FXNTJaWE4wYjNKZmNtVnNZWFJwYjI1elhEVXdOVGM0TG5Ca1pnJTNEJTNEJTdDMSU3Q01Dc0NFeUJTWVlSUmExeHFzYllPVkJxdmZzUnB6WHNDRkRtbVVkRHVkM0tybk5GQmlQNDdEQTFkdnclMkJ0%7CMC0CFBQuJHvlP49AD6Z8S8DZwuzgLfALAhUAhBYxsZvz3QIhxr6xU7i1CPiHMWM%3D"
         },
         {
+            "company": "ssr mining inc",
+            "link": "https://www.ssrmining.com/_resources/SSR-Sustainability-Report-2020.pdf"
+        },
+        {
             "company": "bendigo & adelaide bank ltd",
             "link": "https://de.wikipedia.org/wiki/Bendigo",
             "error": "pdf corrupted"
@@ -951,6 +953,26 @@
         {
             "company": "aritzia subordinate voting inc",
             "link": "https://s21.q4cdn.com/489771965/files/doc_downloads/2022/09/ARITZIA-COMMUNITY-TM-ESG-REPORT-FY2022_AUG30.pdf"
+        },
+        {
+            "company": "riot platforms inc",
+            "link": "https://www.riotinto.com/-/media/Content/Documents/Invest/Reports/Sustainable-development-reports/RT-Sustainable-development-2018.pdf?rev=d31c98dca0a44125b7dbddf66d10a83b"
+        },
+        {
+            "company": "jb hi-fi ltd",
+            "link": "https://investors.jbhifi.com.au/wp-content/uploads/2018/10/Annual-Report-2018-with-Chairmans-CEOs-Report.pdf"
+        },
+        {
+            "company": "rogers corp",
+            "link": "https://about.rogers.com/wp-content/uploads/2019/10/2018-Rogers-CSR-Report-en.pdf"
+        },
+        {
+            "company": "parex resources",
+            "link": "https://cdn.metrio.net/clients/parexresources/parex_sustainability_report_2018_ENG.pdf"
+        },
+        {
+            "company": "peabody energy corp",
+            "link": "https://www.peabodyenergy.com/Peabody/media/MediaLibrary/Sustainability/2018-Social-FINAL.pdf"
         },
         {
             "company": "kulicke & soffa industries",
@@ -987,806 +1009,8 @@
             "error": "pdf corrupted"
         },
         {
-            "company": "patterson uti energy inc",
-            "link": "https://esg.patenergy.com/content/documents/2021_Sustainability_Report.pdf",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "northern oil & gas inc",
-            "link": "https://www.northernoil.com/",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "aozora bank ltd",
-            "link": "https://docs.publicnow.com/2AF3D2EC61A23C9194CA6CBE9F776AE2E847DD63"
-        },
-        {
-            "company": "j&j snack foods corp",
-            "link": "https://de.wikipedia.org/wiki/J",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "energean plc",
-            "link": "https://www.energean.com/media/4047/f-ii-2018-annual-report.pdf"
-        },
-        {
-            "company": "national storage reit",
-            "link": "https://nationalstorageinvest.com.au/wp-content/uploads/2020/07/NSR-2018-Sustainability-Report.pdf"
-        },
-        {
-            "company": "stadler rail ag",
-            "link": "https://www.stadlerrail.com/media/pdf/sustainability_report_en_2019.pdf"
-        },
-        {
-            "company": "sankyu inc",
-            "link": "https://www.fse.or.jp/files/lis_com_gvr/20220802cgr9065.pdf"
-        },
-        {
-            "company": "site centers corp",
-            "link": "https://www.sitecenters.com/2018CSR"
-        },
-        {
-            "company": "bausch health companies inc",
-            "link": "https://www.bausch.com/siteassets/bauschhealth-csr-report-2018.pdf/",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "jungheinrich pref ag",
-            "link": "https://ar2020.jungheinrich.com/media/downloads/annual-report-2018-data.pdf"
-        },
-        {
-            "company": "frasers logistics & commercial tru",
-            "link": "https://www.frasersproperty.com/reits/flct",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "industrial &",
-            "link": "https://de.wikipedia.org/wiki/Industrial",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "walker & dunlop inc",
-            "link": "https://de.wikipedia.org/wiki/Walker_(Fernsehserie)",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "sohgo security services ltd",
-            "link": "https://docs.publicnow.com/0FE7507F98C57ED3FBF23089D8D148BEA6C722CC"
-        },
-        {
-            "company": "canadian western bank",
-            "link": "https://www.cwb.com/-/media/cwbgroup/documents/Community-Investment/CSR-archive/2019-CWBFG-Corporate-Social-Responsibility-Report.pdf"
-        },
-        {
-            "company": "outfront media inc",
-            "link": "https://www.outfrontmedia.com/aboutus/-/media/71B206D881094E7582010712ACC633CC.ashx"
-        },
-        {
-            "company": "greif inc",
-            "link": "https://www.greif.com/wp-content/uploads/2022/04/Greif-2021-Sustainability-Report.pdf"
-        },
-        {
-            "company": "john wiley & sons inc",
-            "link": "https://www.wiley.com/en-us",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "nufarm ltd",
-            "link": "https://cdn.nufarm.com/wp-content/uploads/2018/10/01101448/Nufarm-Sustainability-Report-2018-Online.pdf"
-        },
-        {
-            "company": "central garden & pet",
-            "link": "https://www.centralgarden.at/",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "infinera corp",
-            "link": "https://www.infinera.com/wp-content/uploads/Infinera_CSRReport_2018.pdf"
-        },
-        {
-            "company": "bic sa",
-            "link": "https://www.bicworld.com/sites/default/files/2018-03/BIC-registration-document-2017.pdf",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "sumitomo osaka cement ltd",
-            "link": "https://www.soc.co.jp/sumitomo_e/pdf/ir/2018/soc_csr_2018.pdf"
-        },
-        {
-            "company": "sixt",
-            "link": "https://www.about.sixt.com/download/companies/sixt/Annual%20Reports/DE0007231326-JA-2021-EQ-E-00.pdf"
-        },
-        {
-            "company": "patrick industries",
-            "link": "https://patrickind.com/wp-content/uploads/2022/12/PI_Sustain-Report_2022.pdf"
-        },
-        {
-            "company": "mochida pharmaceutical",
-            "link": "https://www.mochida.co.jp/english/annual/docs/mochida_annual_review2018_full.pdf"
-        },
-        {
-            "company": "mitsui mining & smelting ltd",
-            "link": "https://www.mitsui-kinzoku.com/en/",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "inmobiliaria colonial sa",
-            "link": "https://www.inmocolonial.com/sites/default/files/uploaded-files/2021-09/ia_colonial_2018_web_eng.pdf"
-        },
-        {
-            "company": "schouw & co",
-            "link": "https://de.langenscheidt.com/niederlaendisch-deutsch/schouw",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "mercury general corp",
-            "link": "https://www.mercuryinsurance.com/assets/pdf/Mercury-General-Corporate-Sustainability.pdf",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "abercrombie & fitch",
-            "link": "https://www.abercrombie.com/shop/eu-de",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "pacific premier bancorp inc",
-            "link": "https://annualreport2020.ppbi.com/custom/pacificpremierbancorp/pdf/Pacific-Premier-Bancorp-Report.pdf"
-        },
-        {
-            "company": "kratos defense & security soluti",
-            "link": "https://www.kratosdefense.com/",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "do & co aktiengesellschaft ag",
-            "link": "https://de.wikipedia.org/wiki/DO",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "weis markets inc",
-            "link": "https://www.weismarkets.com/sites/default/files/documents/weis_2018_9_ada.pdf?27"
-        },
-        {
-            "company": "kureha corp",
-            "link": "https://www.kureha.co.jp/en/csr/report/pdf/CSR%20report%202018_e.pdf"
-        },
-        {
-            "company": "daishi hokuetsu financial group",
-            "link": "https://www.dhfg.co.jp/english/reports/pdf/2022annual.pdf"
-        },
-        {
-            "company": "dts corp",
-            "link": "https://investors.nkt.com/static-files/801adba7-822b-4347-84f6-13c7c58b78e1"
-        },
-        {
-            "company": "zuora inc",
-            "link": "https://s201.q4cdn.com/780506941/files/doc_downloads/Zuora_ESG_FY22_Impact_Report.pdf"
-        },
-        {
-            "company": "mirion technologies inc",
-            "link": "https://ir.mirion.com/sec-filings/all-sec-filings/content/0000950103-22-003567/0000950103-22-003567.pdf"
-        },
-        {
-            "company": "abc mart inc",
-            "link": "https://abctechnologies.com/wp-content/uploads/ABC-Technologies-Corporate-Social-Responsibility-Report-FY19.pdf"
-        },
-        {
-            "company": "daiwabo holdings",
-            "link": "https://www.daiwabo-holdings.com/en/ir/news/news-23932421028860757121.html",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "sumo logic inc",
-            "link": "https://investor.sumologic.com/static-files/9e6cd13c-001c-4000-b2ea-476364f364c9",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "centerra gold inc",
-            "link": "https://www.centerragold.com/cg-raw/cg/2018-Kumtor-AESR-18-2019025-WEB-ENG.pdf"
-        },
-        {
-            "company": "carmila sa",
-            "link": "https://www.carmila.com/en/document-finance/2018-registration-document/"
-        },
-        {
-            "company": "core & main inc",
-            "link": "https://www.coregames.com/",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "huber & suhner ag",
-            "link": "https://www.huber.de/",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "cohen & steers inc",
-            "link": "https://de.wikipedia.org/wiki/Leonard_Cohen",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "wolverine world wide inc",
-            "link": "https://www.wolverineworldwide.com/wp-content/uploads/2020/08/18IR.V13.Final_.pdf"
-        },
-        {
-            "company": "golden agri resources",
-            "link": "https://goldenagri.com.sg/wp-content/uploads/2019/06/GAR_SR_2018.pdf"
-        },
-        {
-            "company": "piaggio & c",
-            "link": "https://www.piaggio.com/de_DE/",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "peyto exploration & development co",
-            "link": "https://www.peyto.com/",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "marcus & millichap inc",
-            "link": "https://de.wikipedia.org/wiki/Marcus",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "hill & smith plc",
-            "link": "https://de.wikipedia.org/wiki/Hill",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "dave & busters entertainment",
-            "link": "https://www.youtube.com/channel/UCdTt6nTzvK96D6TDCGEBkSg",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "alexander & baldwin inc",
-            "link": "https://de.wikipedia.org/wiki/Alexander",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "sixt",
-            "link": "https://www.about.sixt.com/download/companies/sixt/Annual%20Reports/DE0007231326-JA-2021-EQ-E-00.pdf"
-        },
-        {
-            "company": "vgp",
-            "link": "https://www.vgpparks.eu/media/1496/vgp_ar-2018_eng_web.pdf"
-        },
-        {
-            "company": "scansource inc",
-            "link": "https://www.scansource.com/it/investors/~/media/e7badb8544ef41729a151209c294cff4.ashx",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "eckert & ziegler strahlen und medi",
-            "link": "https://www.eckert-schulen.de/",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "coronado global resources",
-            "link": "https://coronadoglobal.com/staging/wp-content/uploads/2019/04/CC3283_SUSTAINABILITY-REPORT_INTERACTIVE-LR-1.0%E2%80%A2.pdf"
-        },
-        {
-            "company": "cushman & wakefield plc",
-            "link": "https://www.cushmanwakefield.com/de-de/germany"
-        },
-        {
-            "company": "data#3 ltd",
-            "link": "https://de.langenscheidt.com/englisch-deutsch/data",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "gs yuasa corp",
-            "link": "https://www.gs-yuasa.com/en/ir/pdf/GS_Yuasa_Report_2018e.pdf"
-        },
-        {
-            "company": "fugro",
-            "link": "https://www.fugro.com/docs/default-source/investor-publications/2019/fugro-annual-report-2018.pdf?sfvrsn=f52eea19_10"
-        },
-        {
-            "company": "h&e equipment services inc",
-            "link": "https://de.wikipedia.org/wiki/H",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "sangetsu corp",
-            "link": "https://www.sangetsu.co.jp/images/english/ir/library/pdf/sangetsu-report2018-en_a3.pdf"
-        },
-        {
-            "company": "monarch casino & resort inc",
-            "link": "https://monarchblackhawk.com/",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "sumitomo warehouse ltd",
-            "link": "https://www.soc.co.jp/sumitomo_e/pdf/environment/2018/csr_report_2018.pdf"
-        },
-        {
-            "company": "harel insurance investments & fina",
-            "link": "https://www.harel-group.co.il/investor-relations/investor-relations/Pages/default.aspx",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "nos sgps sa",
-            "link": "https://www.nos.pt/content/dam/nos/institucional/pdfs/en/notices-general-meeting/2018/RC17_ING.pdf",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "paz oil co ltd",
-            "link": "https://paz.co.il/Uploads/investortools/ENGLISH/financeEng/2021/Q1-2021/First%20Quarter%202021%20-%20Financial%20Statements.pdf"
-        },
-        {
-            "company": "saras",
-            "link": "https://www.saras.it/sites/default/files/documents_attachments/Saras-BilancioSostenibilita2018_ENG-low_final_con_opinion_-_09Apr2019.pdf",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "geo group",
-            "link": "https://www.geogroup.com/Portals/0/HumanRightsESG2019.pdf",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "middlesex water",
-            "link": "https://www.middlesexwater.com/wp-content/uploads/2022/05/MWC_ESG-2019_E-copy_3.6.20.pdf"
-        },
-        {
-            "company": "xenia hotels & resorts reit",
-            "link": "https://de.wikipedia.org/wiki/Xenia_(Hotel)",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "westshore terminals investment",
-            "link": "https://www.westshore.com/pdf/finance/2018/aif.pdf"
-        },
-        {
-            "company": "dine brands inc",
-            "link": "https://www.dinebrands.com/-/media/dinebrands/files/2021-dine-brands-esg-report_050422-2_ada.pdf"
-        },
-        {
-            "company": "b&g foods inc",
-            "link": "https://www.bild.de/",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "heidrick & struggles international",
-            "link": "https://www.heidrick.com/en",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "owens & minor inc",
-            "link": "https://de.wikipedia.org/wiki/Jesse_Owens",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "alony-hetz properties & investme",
-            "link": "https://www.alony-hetz.com/",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "telephone & data systems inc",
-            "link": "https://de.wikipedia.org/wiki/Telephone_(Lied)",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "pirelli & c",
-            "link": "https://www.pirelli.com/tyres/de-de/pkw/homepage",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "yellow cake plc",
-            "link": "https://www.yellowcakeplc.com/wp-content/uploads/2022/07/Yellow-Cake_IAR_2022.pdf"
-        },
-        {
-            "company": "maytronics ltd",
-            "link": "https://www.dolphinenergy.com/sites/all/themes/dolphinenergy/assets/image/DE%20Sustainability%20Report%202018%20FINAL-min.pdf"
-        },
-        {
-            "company": "elementis plc",
-            "link": "https://www.elementis.com/sites/default/files/2019-05/Elementis_AR17_160318_0.pdf"
-        },
-        {
-            "company": "bellevue gold ltd",
-            "link": "http://dev.bellevuegold.com.au/wp-content/uploads/2020/11/201106-Bellevue_Sustainability-Report2020.pdf"
-        },
-        {
-            "company": "atrion corp",
-            "link": "https://www.annualreports.com/Click/23631",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "veeco instruments inc",
-            "link": "https://www.veeco.com/wp-content/uploads/2022/08/Veeco_Sustainability_Report_B_08.10.2022.pdf"
-        },
-        {
-            "company": "shikun & binui ltd",
-            "link": "https://shikunbinui.com/en/",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "safety insurance group",
-            "link": "https://www.safetyinsurance.com/pdf/ir/2021_esgreport.pdf"
-        },
-        {
-            "company": "aya gold & silver inc",
-            "link": "https://www.finanzen.net/aktien/aya_goldsilver-aktie",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "shapir engineering & industry lt",
-            "link": "https://www.shapir.co.il/en/home/",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "petco health & wellness company",
-            "link": "https://www.petco.com/shop/en/petcostore/c/whole-health"
-        },
-        {
-            "company": "nec networks & system integration",
-            "link": "https://www.nesic.co.jp/english/",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "graftech international ltd",
-            "link": "https://s2.q4cdn.com/282965219/files/doc_downloads/sustainability/GrafTech_SustainabilityReport.pdf"
-        },
-        {
-            "company": "at&s austria",
-            "link": "https://www.internet-abc.de/eltern/lexikon/a/at-oder/",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "c&c group",
-            "link": "https://de.wikipedia.org/wiki/C_(Programmiersprache)",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "kloeckner & co",
-            "link": "https://shop.kloeckner.de/",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "first resources",
-            "link": "https://www.first-resources.com/upload/file/20190404/20190404085117_29052.pdf"
-        },
-        {
-            "company": "takara bio inc",
-            "link": "https://ir.takara-bio.co.jp/en/news_all/news_IR/news_IR5863210290762473161.html",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "ain holdings",
-            "link": "https://www.ainj.co.jp/Portals/0/html/ir/doc/AR2018.pdf"
-        },
-        {
-            "company": "american axle & manufacturing ho",
-            "link": "https://www.aam.com/",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "wuestenrot & wuerttembergische ag",
-            "link": "https://www.wuestenrot.de/",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "kaufman & broad sa",
-            "link": "https://de.wikipedia.org/wiki/Kaufman",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "computer programs & systems inc",
-            "link": "https://www.tutorialspoint.com/computer_programming/computer_programming_overview.htm",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "sugi holdings",
-            "link": "https://www.sugi-hd.co.jp/csr/report/pdf/report2022E.pdf"
-        },
-        {
-            "company": "h&r real estate investment",
-            "link": "https://de.wikipedia.org/wiki/H",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "almirall sa",
-            "link": "https://www.almirall.com/documents/portlet_file_entry/4257831/Almirall_AR2018_EN.pdf/1a889580-0e94-f46d-90a6-ba846f0292c6",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "playa hotels & resorts",
-            "link": "https://www.playaresorts.com/",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "lendingclub corp",
-            "link": "https://www.blackrock.com/corporate/literature/publication/blk-annual-stewardship-report-2018.pdf"
-        },
-        {
-            "company": "hyakugo bank ltd",
-            "link": "https://www.hyakugo.co.jp/ir/english/2022/pdf/01.pdf"
-        },
-        {
-            "company": "dye & durham ltd",
-            "link": "https://www.dyepaintball.eu/de/",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "ascopiave",
-            "link": "https://www.gruppoascopiave.it/en/wp-content/uploads/sites/2/2019/06/Annual_Financial_Report_2018.pdf"
-        },
-        {
-            "company": "dennys corp",
-            "link": "https://www.dennys.com/sites/default/files/2022-05/2022_ESG_Report.pdf"
-        },
-        {
-            "company": "nippon signal ltd",
-            "link": "https://sales.signal.co.jp/_userdata/NipponSignalReport.pdf"
-        },
-        {
-            "company": "smartgroup corporation",
-            "link": "https://ir.smartgroup.com.au/FormBuilder/_Resource/_module/w6TkQfNeUU2rMVZtSA7mdA/file/SG_Annual_Report_2018.pdf"
-        },
-        {
-            "company": "migdal insurance & financial hol",
-            "link": "https://www.migdal.co.il/en",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "mitchells & butlers plc",
-            "link": "https://de.wikipedia.org/wiki/Die_Mitchells_gegen_die_Maschinen",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "yuasa trading ltd",
-            "link": "https://www.gs-yuasa.com/en/ir/pdf/GS_Yuasa_Report_2018e.pdf"
-        },
-        {
-            "company": "berkshire hills bancorp inc",
-            "link": "https://www.berkshirebank.com/BerkshireBank/media/Documents/PDFs/BRK9313-2020-CSR-Report_FA_digital_rev_FINAL.pdf"
-        },
-        {
-            "company": "babcock & wilcox enterprises inc",
-            "link": "https://www.babcockinternational.com/de/"
-        },
-        {
-            "company": "health & happiness (h&h) interna",
-            "link": "https://apps.apple.com/de/app/health/id1242545199",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "s&t bancorp inc",
-            "link": "https://www.spiegel.de/",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "1&1 ag",
-            "link": "https://de.wikipedia.org/wiki/1",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "alpha & omega semiconductor ltd",
-            "link": "https://de.wikipedia.org/wiki/Alpha",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "enerflex ltd",
-            "link": "https://vistaenergy.com/contenidos/1620765969.pdf"
-        },
-        {
-            "company": "m&a capital partners ltd",
-            "link": "https://de.wikipedia.org/wiki/M",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "ituran location & control ltd",
-            "link": "https://www.ituran.com/ituranglobal/investors/corporate-profile/",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "great lakes dredge & dock corp",
-            "link": "https://gldd.com/",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "w&t offshore inc",
-            "link": "https://de.wikipedia.org/wiki/W",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "converge technology solutions",
-            "link": "https://corporate.convergeict.com/wp-content/uploads/2022/04/CONVERGE-2021SR-2022-04-06.pdf"
-        },
-        {
-            "company": "brookline bancorp inc",
-            "link": "https://www.brooklinema.gov/DocumentCenter/View/22352/Brookline-Sustainability-Final-Report---August-2020"
-        },
-        {
-            "company": "temple & webster group",
-            "link": "https://de.wikipedia.org/wiki/Temple",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "kato sangyo ltd",
-            "link": "https://www.sango.jp/en/pdf/sgr2018-2.pdf"
-        },
-        {
-            "company": "ambea",
-            "link": "https://www.ambea.com/wp-content/uploads/2018/05/report-from-ambeas-annual-general-meeting-2018.pdf"
-        }
-    ],
-    "2019": [
-        {
-            "company": "E.ON",
-            "link": "https://www.eon.com/content/dam/eon/eon-com/Documents/en/sustainability-report/2019/eon_2019_sustainability_report.pdf"
-        },
-        {
-            "company": "lamar advertising company",
-            "link": "https://www.lamar.com/~/media/0106AAD5B8CE4FC288B88AA9646D7A85.pdf"
-        },
-        {
-            "company": "planet fitness inc",
-            "link": "https://www.planetfitness.com/sites/default/files/2020-04/ImpactReport_2020.pdf"
-        },
-        {
-            "company": "graphic packaging holding",
-            "link": "https://www.graphicpkg.com/documents/2020/11/esg-report.pdf/"
-        },
-        {
-            "company": "texas roadhouse inc",
-            "link": "https://www.texasroadhouse.com/sites/default/files/2022-04/TXRH_2021_Corporate_Sustainability_Report.pdf"
-        },
-        {
-            "company": "wyndham hotels & resorts inc",
-            "link": "https://www.wyndhamhotels.com/de-de",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "technipfmc plc",
-            "link": "https://www.technipfmc.com/media/zbtfgbex/technipfmc-uk-annual-report-2019-final.pdf"
-        },
-        {
-            "company": "h&r block inc",
-            "link": "https://de.wikipedia.org/wiki/H",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "hyatt hotels corp",
-            "link": "https://about.hyatt.com/content/dam/HyattStories/thrive/Hyatt-CDP-Programme-Response-Climate-Change-2019.pdf"
-        },
-        {
-            "company": "b&m european value retail sa",
-            "link": "https://www.bild.de/",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "apartment income reit",
-            "link": "https://www.aircommunities.com/content/dam/aimco/corporate-responsibility/AIR_CR_Report_121021_Digital.pdf"
-        },
-        {
-            "company": "penn entertainment",
-            "link": "https://www.pngaming.com/-/media/png/corporate/pngcorporate/pdfs/2021esgreportdraftpages42322.pdf"
-        },
-        {
-            "company": "academy sports & outdoors inc",
-            "link": "https://www.academy.com/",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "ackermans & van haaren",
-            "link": "https://www.ackermans.co.za/",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "tate & lyle plc",
-            "link": "https://www.tate.org.uk/",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "iac inc",
-            "link": "https://www.iacgroup.com/wp-content/uploads/2020/05/Updated-5_21_2020-IAC-Group-2019-CSR-Report.pdf"
-        },
-        {
-            "company": "leggett & platt inc",
-            "link": "https://www.frenchestateagents.com/pages/german",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "brighthouse financial inc",
-            "link": "https://www.brighthousefinancial.com/content/dam/brighthouse-financial/public/pdfs/other/brighthouse-financial-sustainability-report-2021.pdf"
-        },
-        {
-            "company": "helmerich & payne inc",
-            "link": "http://www.pcas.de/",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "radian group",
-            "link": "https://www.radian.com/-/media/Files/Enterprise/Corporate-Responsibility/Corporate-Responsibility-Report_FINAL.pdf?rev=62f47a1f2ff546e5b87f2c6276381d94"
-        },
-        {
-            "company": "old national bancorp",
-            "link": "https://www.oldnational.com/globalassets/onb-site/onb-documents/onb-about-us/community-social-responsibility-report.pdf"
-        },
-        {
-            "company": "marks & spencer group",
-            "link": "https://www.marks-gmbh.de/",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "rithm capital corp",
-            "link": "https://www.rithmcap.com/media-assets/latest-filings/RITM-2022.9.30-10-QFinal.pdf"
-        },
-        {
-            "company": "dufry ag",
-            "link": "https://www.dufry.com/sites/default/files/document/2020-03/Annual%20Report%202019.pdf"
-        },
-        {
-            "company": "qube holdings",
-            "link": "https://qube.com.au/wp-content/uploads/2020/11/Annual-Report-2019-5.pdf"
-        },
-        {
-            "company": "hoshino resorts reit",
-            "link": "https://wvb.com/corporations/update/download/src/$mnt$pdf_mount$reports$2021$JPN$000$040$JPN000040157.2021.A.00.E.04.30.PDF"
-        },
-        {
-            "company": "federated hermes inc",
-            "link": "https://services.federatedinvestors.com/teamsite-file-server/content/Corporate+Sustainability+Report?token=ZGFmXHBkZlxhYm91dF9mZWRlcmF0ZWRcaW52ZXN0b3JfcmVsYXRpb25zXDUwNTc4LnBkZg%3D%3D%7C1%7CMCsCEyBSYYRRa1xqsbYOVBqvfsRpzXsCFDmmUdDud3KrnNFBiP47DA1dvw%2Bt&location=aHR0cHM6Ly9zZXJ2aWNlcy5mZWRlcmF0ZWRpbnZlc3RvcnMuY29tL3RlYW1zaXRlLWZpbGUtc2VydmVyL2NvbnRlbnQvQ29ycG9yYXRlK1N1c3RhaW5hYmlsaXR5K1JlcG9ydD90b2tlbj1aR0ZtWEhCa1pseGhZbTkxZEY5bVpXUmxjbUYwWldSY2FXNTJaWE4wYjNKZmNtVnNZWFJwYjI1elhEVXdOVGM0TG5Ca1pnJTNEJTNEJTdDMSU3Q01Dc0NFeUJTWVlSUmExeHFzYllPVkJxdmZzUnB6WHNDRkRtbVVkRHVkM0tybk5GQmlQNDdEQTFkdnclMkJ0%7CMC0CFBQuJHvlP49AD6Z8S8DZwuzgLfALAhUAhBYxsZvz3QIhxr6xU7i1CPiHMWM%3D"
-        },
-        {
-            "company": "bendigo & adelaide bank ltd",
-            "link": "https://de.wikipedia.org/wiki/Bendigo",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "phillips edison & company",
-            "link": "https://www.phillipsedison.com/",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "american states water",
-            "link": "https://www.amwater.com/corp/resources/American-Water-CR-Report.pdf"
-        },
-        {
-            "company": "sm energy",
-            "link": "https://www.sminvestments.com/wp-content/uploads/2020/08/SM-Prime-Sustainability-Report-2019.pdf"
-        },
-        {
-            "company": "aritzia subordinate voting inc",
-            "link": "https://s21.q4cdn.com/489771965/files/doc_downloads/2022/09/ARITZIA-COMMUNITY-TM-ESG-REPORT-FY2022_AUG30.pdf"
-        },
-        {
-            "company": "kulicke & soffa industries",
-            "link": "https://de.marketscreener.com/kurs/aktie/KULICKE-AND-SOFFA-INDUSTR-9812/",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "food & life companies ltd",
-            "link": "https://www.instagram.com/frankfurt_foodguide/?hl=de",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "goodyear tire & rubber",
-            "link": "https://www.goodyear.eu/de_de/consumer.html",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "park hotels & resorts inc",
-            "link": "https://www.pkhotelsandresorts.com/",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "flsmidth & co.",
-            "link": "https://www.flsmidth.com/",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "gaztransport & technigaz sa",
-            "link": "https://www.finanzen.net/aktien/gaztransport_et_technigaz_sa-aktie",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "amp ltd",
-            "link": "https://amp2019.reportonline.com.au/documents/AMP_2019_Sustainability_report.pdf"
-        },
-        {
-            "company": "allreal holding",
-            "link": "https://nachhaltigkeit.allreal.ch/fileadmin/user_upload/redakteure/2019/pdf/en/Allreal-NHB2019-Anhang-und-Index-EN.pdf"
+            "company": "cathay general bancorp",
+            "link": "https://sustainability.cathaypacific.com/wp-content/uploads/2019/07/Cathay-Pacific-SD-Report-2018_EN-1.pdf"
         },
         {
             "company": "cavco industries",
@@ -1794,85 +1018,7 @@
         },
         {
             "company": "banca mediolanum",
-            "link": "https://www.bancamediolanum.it/static-assets/documenti/file/en/2023/03/16//DEF_DNF_2019_ENG.pdf"
-        },
-        {
-            "company": "agilysys inc",
-            "link": "https://www.blackrock.com/corporate/literature/publication/blk-annual-stewardship-report-2019.pdf"
-        },
-        {
-            "company": "japan hotel investment",
-            "link": "https://www.daiwahouse.co.jp/sustainable/csr/pdfs/2019/en_Sustainability_All.pdf"
-        },
-        {
-            "company": "northern oil & gas inc",
-            "link": "https://www.northernoil.com/",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "j&j snack foods corp",
-            "link": "https://de.wikipedia.org/wiki/J",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "national storage reit",
-            "link": "https://nationalstorageinvest.com.au/wp-content/uploads/2020/07/191108-NS-Sustainability-Report-18-19-07-11-19-FINAL-LR2.pdf"
-        },
-        {
-            "company": "stadler rail ag",
-            "link": "https://www.stadlerrail.com/media/pdf/sustainability_report_en_2019.pdf"
-        },
-        {
-            "company": "site centers corp",
-            "link": "https://www.sitecenters.com/2019CRS"
-        },
-        {
-            "company": "ald sa",
-            "link": "https://dl.bourse.lu/dl?v=6Ny2mVkXyTm5znSIowf6r/PiW/epL4vfYZIFMqEQcyySNJd+LmbUp30l1h8ZEPC8d4XW9HHTAgO7B9D6HB/gjN1PicQ+W/QbjTq7RJQPcAtxw3598y+WiCha5SEzlfQP4Yc/AVCQ+vb4iRW+0O+vZ0cU7+I8PdEAxkBf9Z+BikrB3gI28NtxcaGDW3uf4hCF7VSqWLGiUVQA+o21bHEca3sjzqLXaLEuPTddPUwQ49apWON4xZJYFwyeDN8ciHqf"
-        },
-        {
-            "company": "jungheinrich pref ag",
-            "link": "https://ar2020.jungheinrich.com/media/downloads/annual-report-2019-data.pdf"
-        },
-        {
-            "company": "frasers logistics & commercial tru",
-            "link": "https://www.frasersproperty.com/reits/flct",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "industrial &",
-            "link": "https://de.wikipedia.org/wiki/Industrial",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "walker & dunlop inc",
-            "link": "https://de.wikipedia.org/wiki/Walker_(Fernsehserie)",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "cadence bank",
-            "link": "https://www.cadence.com/content/dam/cadence-www/global/en_US/documents/company/csr/cadence-2022-environmental-social-and-governance-report.pdf"
-        },
-        {
-            "company": "canadian western bank",
-            "link": "https://www.cwb.com/-/media/cwbgroup/documents/Community-Investment/CSR-archive/2019-CWBFG-Corporate-Social-Responsibility-Report.pdf"
-        },
-        {
-            "company": "outfront media inc",
-            "link": "https://www.outfrontmedia.com/aboutus/-/media/cfed554cfd19464d9f2a649fedb0461a.ashx"
-        },
-        {
-            "company": "john wiley & sons inc",
-            "link": "https://www.wiley.com/en-us",
-            "error": "pdf corrupted"
-        },
-        {
-            "company": "bekaert (d) sa",
-            "link": "https://sustainability2019.bekaert.com/-/media/Brands2017/CSR2019/Files/CSR-Rapport_ENG_2019_V007_low.pdf"
-        },
-        {
-            "company": "hexatronic group",
-            "link": "https://f.hubspotusercontent20.net/hubfs/6655624/hexatronic.com/hexatronic-sustainability-report-2019_lr.pdf"
+            "link": "https://www.bancamediolanum.it/static-assets/documents/sostenibilita/booklet-sostenibilita-2021-eng.pdf"
         }
     ]
 }

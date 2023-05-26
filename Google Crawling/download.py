@@ -20,14 +20,24 @@ def download_pdf(link, yearString, companyName, dbx):
 
     if status_code == 200:
 
-        pdf = open(yearString + "_report.pdf", 'wb')
+        if not os.path.exists("newPDFs/"+companyName):
+            os.makedirs("newPDFs/"+companyName)
+
+        pdf = open(os.path.join("newPDFs/"+companyName, yearString+"_report.pdf"), 'wb')
         pdf.write(response.content)
         pdf.close()
     
-        filepath = yearString + "_report.pdf"
-
-        dropbox_upload(filepath, companyName, dbx)
+        filepath = "newPDFs/" + companyName + "/" + yearString + "_report.pdf"
         return filepath
+
+        # pdf = open(yearString + "_report.pdf", 'wb')
+        # pdf.write(response.content)
+        # pdf.close()
+    
+        # filepath = yearString + "_report.pdf"
+
+        # dropbox_upload(filepath, companyName, dbx)
+        # return filepath
     else:
         print("GET REQUEST FAILED")
         write_json({'company': companyName, 'link': link}, 'exception_at_download.json', yearString)

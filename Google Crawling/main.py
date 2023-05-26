@@ -123,7 +123,7 @@ for key, company in msci_list.items():
 
 companies = pd.concat([dax_list, msci_list])
 
-dbx = dropbox.Dropbox('sl.Be8XAKhHDl66MAaIRYXpOw3AkTX9GS0tsOLdCX-lbblftqGNGiTZm0CDhFsoeXcaH1B8Oc1mYkpDSn4y2PiXuaoy0t3avveBs59x26OsN8RVLVtO2tz1_5b0mtC1waDdwXMReetB1EE:EUR')
+dbx = dropbox.Dropbox('sl.BfETvybupeFZL7XDB3riszW1D7fXDg1Sa4N6W8JYkLEWENJp7rWzSNtnQhAxEWZrU2jUPpKiGP5Z_XRtsV0fbxGHIsGJ68TVu-EA7qNs9J0CTHgq1e7q-gxkaMDHrz_FGTOdwZPZ-Pc:EUR')
 
 
 last_year_index, last_comp_index = find_where_to_start('stopped_search_at.txt')
@@ -150,9 +150,9 @@ year_changed = False
 
 
 
-original_found = 'found_results_0.json'
-new_found = 'found_results_1.json'
-shutil.copyfile(original_found, new_found)
+# original_found = 'found_results_0.json'
+# new_found = 'found_results_1.json'
+# shutil.copyfile(original_found, new_found)
 
 with open('doubt_results_0.json','r') as file:
     try:
@@ -189,8 +189,8 @@ for year in years_to_search[last_year_index:]:
                     filepath = download_pdf(result["link"], year, result["company"], dbx)
                     read_and_reorder_pdf(filepath, year, result["company"], result["query"], result["link"], dbx)
                     is_doubt = True
-                    if filepath != None:
-                        os.remove(filepath)
+                    # if filepath != None:
+                    #     os.remove(filepath)
                     break
         if year in found_list.keys() and not is_doubt:
             # print("look in found results")
@@ -198,8 +198,8 @@ for year in years_to_search[last_year_index:]:
                 if company in result.values():
                     print(result)
                     filepath = download_pdf(result["link"], year, result["company"], dbx)
-                    if filepath != None:
-                        os.remove(filepath)
+                    # if filepath != None:
+                    #     os.remove(filepath)
                     break
 
         f = open('stopped_download_at.txt','w')
@@ -213,3 +213,5 @@ for year in years_to_search[last_year_index:]:
 # "query": "kanto denka kogyo ltd sustainability report 2017 filetype:pdf",
 # "link": "https://www.kantodenka.co.jp/english/sustainability/pdf/sustainability_report_2021e.pdf"
 # dans found
+
+#TODO Recalculer les pourcentages pour la partie 1

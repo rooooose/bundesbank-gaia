@@ -1,10 +1,5 @@
-2017 : 35.15299026425591% were found
-1865 doubtful results until now
-6.258692628650904% couldn't be downloaded
-180 exceptions until now
-
-2018 : 35.38913362701909% were found
-3625 doubtful results until now
-6.424375917767988% couldn't be downloaded
-355 exceptions until now
+2017 : 46.251441753171854% were found
+1864 doubtful results until now
+5.103806228373703% couldn't be downloaded
+177 exceptions until now
 
