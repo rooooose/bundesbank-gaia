@@ -10,13 +10,11 @@
 
 2019 : 56.08236250338662% were found
 5243 doubtful results until now
-14486 found results until now
 5.662422107829856% couldn't be downloaded
 570 exceptions until now
 
 2020 : 64.17652148831843% were found
 6485 doubtful results until now
-16795 found results until now
 8.76838765503317% couldn't be downloaded
 874 exceptions until now
 
@@ -28,7 +26,8 @@
 
 2022 : 71.5027401211422% were found
 8363 doubtful results until now
-21025 found results until now
+21025 results to find
+12662 found results until now
 5.537929045284107% couldn't be downloaded
 1244 exceptions until now
 

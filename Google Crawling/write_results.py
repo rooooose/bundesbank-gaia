@@ -41,7 +41,8 @@ def write_stats(year, i):
 
   conclusion_found = year + " : " + str(found_per_year) + "% were found\n"
   conclusion_doubt = str(doubt_count_total) + " doubtful results until now"
-  conclusion_found_total = str(to_find_total) + " found results until now"
+  conclusion_found_total = str(found_count_total) + " found results until now"
+  tofind_total = str(to_find_total) + " results to find"
   
   if i == "1" :
   
@@ -68,6 +69,7 @@ def write_stats(year, i):
   f.write(conclusion_found)
   f.write(conclusion_doubt+'\n')
   f.write(conclusion_found_total+'\n')
+  f.write(tofind_total+'\n')
 
   if i == "1" :
     f.write(percentage_except)
