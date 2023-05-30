@@ -188,7 +188,7 @@ for year in years_to_search[last_year_index:]:
 #             for result in doubt_list[year]:
 #                 if company in result.values():
 #                     print(result)
-#                     filepath = download_pdf(result["link"], year, result["company"], dbx)
+#                     filepath = download_pdf(result["link"], year, result["company"], dbx, "doubt")
 #                     read_and_reorder_pdf(filepath, year, result["company"], result["query"], result["link"], dbx)
 #                     is_doubt = True
 #                     # if filepath != None:
@@ -199,7 +199,7 @@ for year in years_to_search[last_year_index:]:
 #             for result in found_list[year]:
 #                 if company in result.values():
 #                     print(result)
-#                     filepath = download_pdf(result["link"], year, result["company"], dbx)
+#                     filepath = download_pdf(result["link"], year, result["company"], dbx, "found")
 #                     # if filepath != None:
 #                     #     os.remove(filepath)
 #                     break

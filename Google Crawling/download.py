@@ -9,7 +9,7 @@ def dropbox_upload(filepath, company, dbx):
     with open(filepath, "rb") as f:
         dbx.files_upload(f.read(), "/2023-05-19 (msci)/"+company+"/"+filepath, mode=dropbox.files.WriteMode("overwrite"))
 
-def download_pdf(link, yearString, companyName, dbx):
+def download_pdf(link, yearString, companyName, dbx, sort):
 
     try:
         response = requests.get(link, headers=headers, timeout=30)
@@ -19,16 +19,29 @@ def download_pdf(link, yearString, companyName, dbx):
         status_code = None
 
     if status_code == 200:
+        if sort == "doubt":
 
-        if not os.path.exists("newPDFs/"+companyName):
-            os.makedirs("newPDFs/"+companyName)
+            if not os.path.exists("doubtPDFs/"+companyName):
+                os.makedirs("doubtPDFs/"+companyName)
 
-        pdf = open(os.path.join("newPDFs/"+companyName, yearString+"_report.pdf"), 'wb')
-        pdf.write(response.content)
-        pdf.close()
-    
-        filepath = "newPDFs/" + companyName + "/" + yearString + "_report.pdf"
-        return filepath
+            pdf = open(os.path.join("doubtPDFs/"+companyName, yearString+"_report.pdf"), 'wb')
+            pdf.write(response.content)
+            pdf.close()
+        
+            filepath = "doubtPDFs/" + companyName + "/" + yearString + "_report.pdf"
+            return filepath
+        
+        elif sort == "found":
+
+            if not os.path.exists("foundPDFs/"+companyName):
+                os.makedirs("foundPDFs/"+companyName)
+
+            pdf = open(os.path.join("foundPDFs/"+companyName, yearString+"_report.pdf"), 'wb')
+            pdf.write(response.content)
+            pdf.close()
+        
+            filepath = "foundPDFs/" + companyName + "/" + yearString + "_report.pdf"
+            return filepath
 
         # pdf = open(yearString + "_report.pdf", 'wb')
         # pdf.write(response.content)
