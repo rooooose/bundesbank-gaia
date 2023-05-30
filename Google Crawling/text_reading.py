@@ -45,11 +45,9 @@ def check_pdf_txt(pdf, year, companyName, link, dbx):
             else:
                 return False
         except:
-            file.close()
             print("PDF CORRUPTED")
-            # dbx.files_delete("/2023-05-19 (msci)/"+companyName+"/"+pdf)
-            os.remove(pdf)
-            write_json({'company': companyName, 'link': link, 'error': 'pdf corrupted'}, 'exception_at_download.json', year)
+            # os.remove(pdf)
+            write_json({'company': companyName, 'link': link, 'error': 'pdf corrupted TO DELETE'}, 'exception_at_download.json', year)
             return 403
     else:
         return 403
@@ -65,3 +63,5 @@ def read_and_reorder_pdf(filepath, year, company, query, link, dbx):
     else:
         write_json({'query': query, 'link': link}, 'found_results_1.json', year)
     
+
+ # dbx.files_delete("/2023-05-19 (msci)/"+companyName+"/"+pdf)
