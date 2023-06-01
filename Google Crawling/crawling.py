@@ -47,20 +47,22 @@ def scrape_google_and_order(query, year, company):
     for data in allData[:2]:
 
         link = data.find('a').get('href')
-        splittedLink = link.rsplit('/', 1)
-        splittedFilename = splittedLink[1].split(".pdf")
-        filename = splittedFilename[0]+".pdf"
+        
+        if not link == None:
+            splittedLink = link.rsplit('/', 1)
+            splittedFilename = splittedLink[1].split(".pdf")
+            filename = splittedFilename[0]+".pdf"
 
-        if any(companyName in str.lower(link) for companyName in allowed_names_in_link) and (year in filename) and ("report" in link or "Report" in link or "bericht" in link or "Bericht" in link):
-            
-            most_relevant_link = link
-            write_json({'company': company, 'query': query, 'link': most_relevant_link}, 'found_results_0.json', year)
-            break
+            if any(companyName in str.lower(link) for companyName in allowed_names_in_link) and (year in filename) and ("report" in link or "Report" in link or "bericht" in link or "Bericht" in link):
                 
-        else:
+                most_relevant_link = link
+                write_json({'company': company, 'query': query, 'link': most_relevant_link}, 'found_results_0.json', year)
+                break
+                    
+            else:
 
-            # If the first link is doubtful, we try again with the second, and if the second is also, then we wright the first link in the doubt_file
-            if not first_iteration:
-                write_json({'company': company, 'query': query, 'link': most_relevant_link}, 'doubt_results_0.json', year)
+                # If the first link is doubtful, we try again with the second, and if the second is also, then we wright the first link in the doubt_file
+                if not first_iteration:
+                    write_json({'company': company, 'query': query, 'link': most_relevant_link}, 'doubt_results_0.json', year)
 
-            first_iteration = False
+                first_iteration = False

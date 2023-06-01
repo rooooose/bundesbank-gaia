@@ -93,7 +93,9 @@ def write_json(new_data, filename, year):
       if year not in file_data.keys():
         file_data[year] = [] 
       
-      file_data[year].append(new_data)
+      if not new_data in file_data[year]:
+        file_data[year].append(new_data)
+        
       # Sets file's current position at offset.
       file.seek(0)
       # convert back to json.
