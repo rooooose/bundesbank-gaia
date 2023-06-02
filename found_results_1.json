@@ -22896,6 +22896,90 @@
         {
             "query": "elecom ltd sustainability report 2019 filetype:pdf",
             "link": "https://www.elecom.co.jp/ir/society/pdf/i-2021_eng.pdf"
+        },
+        {
+            "query": "tokyu construction ltd sustainability report 2019 filetype:pdf",
+            "link": "https://www.tokyu-cnst.co.jp/topics/assets/IR2019_EN-WEB.pdf"
+        },
+        {
+            "query": "altri sgps sa sustainability report 2019 filetype:pdf",
+            "link": "https://web3.cmvm.pt/sdi/emitentes/docs/PC82473.pdf"
+        },
+        {
+            "query": "customers bancorp inc sustainability report 2019 filetype:pdf",
+            "link": "https://www.customersbank.com/esg/2020_CustomersBankESGReport.pdf"
+        },
+        {
+            "query": "taro pharmaceutical sustainability report 2019 filetype:pdf",
+            "link": "https://sunpharma.com/wp-content/uploads/2020/12/Taro-Pharmaceutical-Industries-Ltd.-and-its-subsidiaries-1.pdf"
+        },
+        {
+            "query": "sumitomo mitsui construction ltd sustainability report 2019 filetype:pdf",
+            "link": "https://www.smfg.co.jp/english/sustainability/common/pdf/2019/2019SustainabilityReportEN_all.pdf"
+        },
+        {
+            "query": "quanterix corp sustainability report 2019 filetype:pdf",
+            "link": "https://ir.quanterix.com/static-files/43292f54-1e7b-42f8-931e-7ec998f8e74c"
+        },
+        {
+            "query": "porr ag sustainability report 2019 filetype:pdf",
+            "link": "https://porr.de/fileadmin/s_porr-de/Medien/Presse/2022/220428_PORR_FY_FINAL_EN.pdf"
+        },
+        {
+            "query": "fuso chemical ltd sustainability report 2019 filetype:pdf",
+            "link": "https://fusokk.co.jp/eng/wp/wp-content/uploads/2022/07/3a767507c4f53e0e5edc835c1650740c.pdf"
+        },
+        {
+            "query": "s4 capital plc sustainability report 2019 filetype:pdf",
+            "link": "https://www.s4capital.com/annualreport19/pdf/s4capital_web%20version.pdf"
+        },
+        {
+            "query": "zumiez inc sustainability report 2019 filetype:pdf",
+            "link": "https://www.annualreports.com/HostedData/AnnualReportArchive/b/NYSE_BOOT_2019.pdf"
+        },
+        {
+            "query": "corticeira amorim sa sustainability report 2019 filetype:pdf",
+            "link": "https://www.amorim.com/xms/files/v1/2019_Amorim_RC_EN_Sustentabilidade_Website_7Mai.pdf"
+        },
+        {
+            "query": "mcphy energy sa sustainability report 2019 filetype:pdf",
+            "link": "https://www.mcphy-finance.com/images/PDF/04_documentation_gb/Universal_Registration_Document/2020/20.04.23.URD_2019_McPhy_V200421_EN.pdf"
+        },
+        {
+            "query": "microvision inc sustainability report 2019 filetype:pdf",
+            "link": "https://www.asml.com/-/media/asml/files/investors/financial-results/a-results/2019/2019-integrated-report-based-on-ifrs.pdf"
+        },
+        {
+            "query": "norske skog sustainability report 2019 filetype:pdf",
+            "link": "https://www.norskeskog.com/Files/Filer/2020/Norske%20Skog_HQ_SDG%20rappport_2019_spread.pdf"
+        },
+        {
+            "query": "converge technology solutions sustainability report 2019 filetype:pdf",
+            "link": "https://www.infineon.com/dgdl/Sustainability+at+Infineon+2019.pdf?fileId=5546d4616e8d476e016e9282f50a0008"
+        },
+        {
+            "query": "central asia metals plc sustainability report 2019 filetype:pdf",
+            "link": "https://esginvesting-cdn-1.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/04/13134948/CAML-Sustainability-Report-2019.pdf"
+        },
+        {
+            "query": "ut group sustainability report 2019 filetype:pdf",
+            "link": "https://sustainability.utexas.edu/sites/sustainability.utexas.edu/files/PSSC_AnnualReport_2020_final1.pdf"
+        },
+        {
+            "query": "mesoblast ltd sustainability report 2019 filetype:pdf",
+            "link": "https://www.annualreports.com/HostedData/AnnualReportArchive/m/ASX_MSB_2019.pdf"
+        },
+        {
+            "query": "zenrin ltd sustainability report 2019 filetype:pdf",
+            "link": "https://www.zenrin.co.jp/english/ir/pdf/18-tanshin_e.pdf"
+        },
+        {
+            "query": "omni bridgeway ltd sustainability report 2019 filetype:pdf",
+            "link": "https://omnibridgeway.com/docs/default-source/investors/asx-announcements/13-b-annual-report-to-shareholders"
+        },
+        {
+            "query": "rmr group sustainability report 2019 filetype:pdf",
+            "link": "https://s21.q4cdn.com/317921054/files/doc_downloads/2020/10/RMR-2019-SUSTAINABILITY-REPORT-DIGITAL.pdf"
         }
     ],
     "2020": [
@@ -41120,4 +41204,8 @@
         },
         {
             "company": "s immo ag",
-            "query": "s immo 
+            "query": "s immo ag sustainability report 2022 filetype:pdf",
+            "link": "https://www.caimmo.com/fileadmin/documents/Finanzberichte/2022/Annual_Report_2022_01.pdf"
+        }
+    ]
+}

@@ -2282,6 +2282,21 @@
             "company": "m&a capital partners ltd",
             "link": "https://de.wikipedia.org/wiki/M",
             "error": "pdf corrupted"
+        },
+        {
+            "company": "ituran location & control ltd",
+            "link": "https://www.ituran.com/ituranglobal/investors/corporate-profile/#:~:text=Established%20in%201995%2C%20Ituran%20has,wireless%20communications%20products%20in%201994.",
+            "error": "pdf corrupted"
+        },
+        {
+            "company": "great lakes dredge & dock corp",
+            "link": "https://gldd.com/",
+            "error": "pdf corrupted"
+        },
+        {
+            "company": "w&t offshore inc",
+            "link": "https://de.wikipedia.org/wiki/W",
+            "error": "pdf corrupted"
         }
     ]
 }
