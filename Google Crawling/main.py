@@ -152,9 +152,9 @@ for year in years_to_search[last_year_index:]:
 
 
 
-original_found = 'found_results_0.json'
-new_found = 'found_results_1.json'
-shutil.copyfile(original_found, new_found)
+# original_found = 'found_results_0.json'
+# new_found = 'found_results_1.json'
+# shutil.copyfile(original_found, new_found)
 
 with open('doubt_results_0.json','r') as file:
     try:
