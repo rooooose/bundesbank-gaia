@@ -211,7 +211,3 @@ for year in years_to_search[last_year_index:]:
     
     write_stats(year, "1")
 
-
-
-
-#TODO Recalculer les pourcentages pour la partie 1
