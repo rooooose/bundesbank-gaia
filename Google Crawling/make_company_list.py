@@ -1,7 +1,6 @@
 import pandas as pd
 import re
 
-
 msci_list = pd.read_csv("Google Crawling/msci.csv")["Name"]
 dax_list = pd.read_csv("Google Crawling/dax.csv")["COMPANIES"]
 
@@ -77,7 +76,7 @@ tolerated_terms = [
     " energias"
 ]
 
-def make_clean_list():
+def make_clean_list(msci_list):
 
     msci_list = msci_list.apply(str.lower)
 
