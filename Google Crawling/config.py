@@ -1,4 +1,5 @@
 import random
+import dropbox
 
 user_agent_list = [
         'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15',
@@ -25,3 +26,5 @@ headers = {'User-Agent': user_agent,
             "Sec-Fetch-User": "?1",
             'Cache-Control': 'no-cache'
 }
+
+dbx = dropbox.Dropbox('sl.BfETvybupeFZL7XDB3riszW1D7fXDg1Sa4N6W8JYkLEWENJp7rWzSNtnQhAxEWZrU2jUPpKiGP5Z_XRtsV0fbxGHIsGJ68TVu-EA7qNs9J0CTHgq1e7q-gxkaMDHrz_FGTOdwZPZ-Pc:EUR')

@@ -1,0 +1,14 @@
+2017 : 84.84848484848484% were found
+5 doubtful results until now
+40 found results until now
+45 results to find
+15.151515151515152% couldn't be downloaded
+5 exceptions until now
+
+2018 : 100.0% were found
+5 doubtful results until now
+44 found results until now
+49 results to find
+6.666666666666667% couldn't be downloaded
+6 exceptions until now
+

@@ -1,16 +1,32 @@
 import requests
-from vars_for_requests import headers
+from config import headers
 import os
 from write_results import write_json
 import dropbox
 
 def dropbox_upload(filepath, company, dbx):
-    
+    """
+    Args:
+        filepath (string): pdf path to save
+        company (string)
+        dbx (Dropbox)
+    """
     with open(filepath, "rb") as f:
         dbx.files_upload(f.read(), "/2023-05-19 (msci)/"+company+"/"+filepath, mode=dropbox.files.WriteMode("overwrite"))
 
 def download_pdf(link, yearString, companyName, dbx, sort):
+    """_summary_
 
+    Args:
+        link (string): link of pdf
+        yearString (string)
+        companyName (string)
+        dbx (Dropbox)
+        sort ("string"): indicates if the pdf is doubtful or not
+
+    Returns:
+        _type_: _description_
+    """
     try:
         response = requests.get(link, headers=headers, timeout=30)
         status_code = response.status_code

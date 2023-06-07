@@ -1,0 +1,30 @@
+{
+    "2017": [
+        {
+            "query": "Deutsche Post sustainability report 2017 filetype:pdf",
+            "link": "https://www.dpdhl.com/content/dam/dpdhl/en/media-center/responsibility/dpdhl-corporate-responsibility-report-2017.pdf"
+        },
+        {
+            "query": "KplusS sustainability report 2017 filetype:pdf",
+            "link": "https://www.kpluss.com/en-us/.pdf/investor-relations/2017/gb2017.pdf"
+        },
+        {
+            "query": "MAN sustainability report 2017 filetype:pdf",
+            "link": "https://ir.traton.com/download/companies/traton/annual_brands/MANGB2017_EN.pdf",
+            "error": "PDF could not be read"
+        },
+        {
+            "query": "builders firstsource inc sustainability report 2017 filetype:pdf",
+            "link": "https://www.firstsource.com/wp-content/uploads/2018/07/FY-2017-2018.pdf"
+        },
+        {
+            "query": "deckers outdoor corp sustainability report 2017 filetype:pdf",
+            "link": "https://www.deckers.com/sites/default/files/images/responsibility/Deckers%202020%20Corporate%20Responsibility%20Report.pdf"
+        },
+        {
+            "query": "deckers outdoor corp sustainability report 2017 filetype:pdf",
+            "link": "https://www.deckers.com/sites/default/files/images/responsibility/Deckers%202020%20Corporate%20Responsibility%20Report.pdf",
+            "error": "PDF could not be read"
+        }
+    ]
+}

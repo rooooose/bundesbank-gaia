@@ -1,0 +1,204 @@
+{
+    "2017": [
+        {
+            "company": "Adidas",
+            "query": "Adidas sustainability report 2017 filetype:pdf",
+            "link": "https://www.adidas-group.com/media/filer_public/6a/69/6a690baa-8430-42c5-841d-d9222a150aff/annual_report_gb-2017_en_secured.pdf"
+        },
+        {
+            "company": "Allianz",
+            "query": "Allianz sustainability report 2017 filetype:pdf",
+            "link": "https://www.allianz.com/content/dam/onemarketing/azcom/Allianz_com/responsibility/documents/Allianz_Group_Sustainability_Report_2017-web.pdf"
+        },
+        {
+            "company": "BASF",
+            "query": "BASF sustainability report 2017 filetype:pdf",
+            "link": "https://www.basf.com/global/documents/en/news-and-media/publications/reports/2018/BASF_Report_2017.pdf"
+        },
+        {
+            "company": "Beiersdorf",
+            "query": "Beiersdorf sustainability report 2017 filetype:pdf",
+            "link": "https://www.beiersdorf.com/~/media/Beiersdorf/sustainability/reporting/sustainability-review/2017/Beiersdorf-Consumer-Sustainability-Review-2017.pdf"
+        },
+        {
+            "company": "BMW",
+            "query": "BMW sustainability report 2017 filetype:pdf",
+            "link": "https://www.bmwgroup.com/content/dam/grpw/websites/bmwgroup_com/ir/downloads/en/2017/BMW-Group-SustainableValueReport-2017--EN.pdf"
+        },
+        {
+            "company": "Commerzbank",
+            "query": "Commerzbank sustainability report 2017 filetype:pdf",
+            "link": "https://www.commerzbank.de/media/nachhaltigkeit/gri_bilanz_2017/GRI_Report_2017.pdf"
+        },
+        {
+            "company": "Daimler",
+            "query": "Daimler sustainability report 2017 filetype:pdf",
+            "link": "https://group.mercedes-benz.com/documents/sustainability/other/daimler-sustainability-report-2017.pdf"
+        },
+        {
+            "company": "Deutsche Bank",
+            "query": "Deutsche Bank sustainability report 2017 filetype:pdf",
+            "link": "https://investor-relations.db.com/files/documents/annual-reports/Deutsche_Bank_GRI_Content_Index_Non-Financial_Report_2017.pdf?language_id=1"
+        },
+        {
+            "company": "Deutsche Boerse",
+            "query": "Deutsche Boerse sustainability report 2017 filetype:pdf",
+            "link": "https://www.deutsche-boerse.com/resource/blob/82362/e986e62162c3d76fb11e26b6689e9968/data/DBG-financial-report-2017.pdf"
+        },
+        {
+            "company": "E.ON",
+            "query": "E.ON sustainability report 2017 filetype:pdf",
+            "link": "https://www.eon.com/content/dam/eon/eon-com/Documents/en/sustainability-report/EON_Sustainability_Report_2017.pdf"
+        },
+        {
+            "company": "Fresenius Medical Care",
+            "query": "Fresenius Medical Care sustainability report 2017 filetype:pdf",
+            "link": "https://www.freseniusmedicalcare.com/fileadmin/data/com/pdf/investors/03_Publications/2017/FME_Annual_Report_2017.pdf"
+        },
+        {
+            "company": "Fresenius SE",
+            "query": "Fresenius SE sustainability report 2017 filetype:pdf",
+            "link": "https://www.fresenius.com/sites/default/files/2022-01/Fresenius_Annual_Report_2017.pdf"
+        },
+        {
+            "company": "HeidelbergCement",
+            "query": "HeidelbergCement sustainability report 2017 filetype:pdf",
+            "link": "https://www.heidelbergmaterials.com/sites/default/files/assets/document/16/40/heidelbergcement-nachhaltigkeitsbericht-2017.pdf"
+        },
+        {
+            "company": "Infineon",
+            "query": "Infineon sustainability report 2017 filetype:pdf",
+            "link": "https://www.infineon.com/dgdl/Infineon+Annual+Report+2017.pdf?fileId=5546d4615fe36363015fea7bc7620023"
+        },
+        {
+            "company": "Linde",
+            "query": "Linde sustainability report 2017 filetype:pdf",
+            "link": "https://www.linde.com/-/media/linde/merger/documents/sustainable-development/praxair-2017-sustainable-value-report.pdf?la=en"
+        },
+        {
+            "company": "Lufthansa",
+            "query": "Lufthansa sustainability report 2017 filetype:pdf",
+            "link": "https://www.lufthansagroup.com/media/downloads/en/responsibility/LH-sustainability-report-2017.pdf"
+        },
+        {
+            "company": "Merck",
+            "query": "Merck sustainability report 2017 filetype:pdf",
+            "link": "https://www.merckgroup.com/investors/reports-and-financials/earnings-materials/2017-q4/en/2017-Q4-Report-EN.pdf"
+        },
+        {
+            "company": "Metro",
+            "query": "Metro sustainability report 2017 filetype:pdf",
+            "link": "https://www.sydneymetro.info/sites/default/files/2021-09/SydneyMetro_SustainabilityReport2017.pdf"
+        },
+        {
+            "company": "Munich Re",
+            "query": "Munich Re sustainability report 2017 filetype:pdf",
+            "link": "https://www.munichre.com/content/dam/munichre/contentlounge/website-pieces/documents/CorporateResponsibilityReport_2017-2018.pdf/_jcr_content/renditions/original./CorporateResponsibilityReport_2017-2018.pdf"
+        },
+        {
+            "company": "RWE",
+            "query": "RWE sustainability report 2017 filetype:pdf",
+            "link": "https://www.rwe.com/-/media/RWE/documents/09-verantwortung-nachhaltigkeit/cr-berichte/EN/en-bericht-2017.pdf"
+        },
+        {
+            "company": "SAP",
+            "query": "SAP sustainability report 2017 filetype:pdf",
+            "link": "https://ungc-production.s3.us-west-2.amazonaws.com/attachments/cop_2018/461806/original/sap-2017-integrated-report.pdf?1521207778"
+        },
+        {
+            "company": "ThyssenKrupp",
+            "query": "ThyssenKrupp sustainability report 2017 filetype:pdf",
+            "link": "https://www.annualreports.com/HostedData/AnnualReportArchive/t/thyssenKrupp-ag_2017.pdf"
+        },
+        {
+            "company": "Volkswagen",
+            "query": "Volkswagen sustainability report 2017 filetype:pdf",
+            "link": "https://www.volkswagenag.com/presence/nachhaltigkeit/documents/sustainability-report/2017/Nonfinancial_Report_2017_e.pdf"
+        },
+        {
+            "company": "s immo ag",
+            "query": "s immo ag sustainability report 2017 filetype:pdf",
+            "link": "https://www.leg-wohnen.de/fileadmin/dateien/02_Unternehmen/Nachhaltigkeit/Nachhaltigkeitsberichte/LEG_NHB_2017_EN.pdf"
+        },
+        {
+            "query": "Bayer sustainability report 2017 filetype:pdf",
+            "link": "https://www.bayer.com/sites/default/files/bayer_ar17_entire.pdf"
+        },
+        {
+            "query": "Deutsche Telekom sustainability report 2017 filetype:pdf",
+            "link": "https://www.telekom.com/resource/blob/512798/3accce9a6968ba72b7bc3b63ffa31e02/dl-180222-q4-17-pdf-data.pdf"
+        },
+        {
+            "query": "Henkel sustainability report 2017 filetype:pdf",
+            "link": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/h/OTC_HENKY_2017.pdf"
+        },
+        {
+            "query": "Siemens sustainability report 2017 filetype:pdf",
+            "link": "https://www.siemens.com/investor/pool/en/investor_relations/siemens_sustainability_information2017.pdf"
+        }
+    ],
+    "2018": [
+        {
+            "company": "Adidas",
+            "query": "Adidas sustainability report 2018 filetype:pdf",
+            "link": "https://www.adidas-group.com/media/filer_public/e9/ba/e9bad34f-ca11-44f6-977f-364d0650feaf/annual_report_gb-2018-en_secured.pdf"
+        },
+        {
+            "company": "Allianz",
+            "query": "Allianz sustainability report 2018 filetype:pdf",
+            "link": "https://www.allianz.com/content/dam/onemarketing/azcom/Allianz_com/sustainability/documents/Allianz_Group_Sustainability_Report_2018-web.pdf"
+        },
+        {
+            "company": "BASF",
+            "query": "BASF sustainability report 2018 filetype:pdf",
+            "link": "https://www.basf.com/cz/documents/BASF_Report_2018.pdf"
+        },
+        {
+            "company": "Beiersdorf",
+            "query": "Beiersdorf sustainability report 2018 filetype:pdf",
+            "link": "https://www.beiersdorf.com/~/media/Beiersdorf/sustainability/reporting/sustainability-review/2018/Beiersdorf-Sustainability-Review-EN-2018.pdf"
+        },
+        {
+            "company": "Commerzbank",
+            "query": "Commerzbank sustainability report 2018 filetype:pdf",
+            "link": "https://ungc-production.s3.us-west-2.amazonaws.com/attachments/cop_2019/477078/original/Commerzbank_GRI_Report_2018_EN.pdf?1564481132"
+        },
+        {
+            "company": "Daimler",
+            "query": "Daimler sustainability report 2018 filetype:pdf",
+            "link": "https://group.mercedes-benz.com/documents/sustainability/other/daimler-nachhaltigkeitsbericht-2018-en.pdf"
+        },
+        {
+            "company": "Deutsche Bank",
+            "query": "Deutsche Bank sustainability report 2018 filetype:pdf",
+            "link": "https://investor-relations.db.com/files/documents/annual-reports/Deutsche_Bank_Annual_Report_2018.pdf?language_id=1"
+        },
+        {
+            "company": "Deutsche Boerse",
+            "query": "Deutsche Boerse sustainability report 2018 filetype:pdf",
+            "link": "https://www.deutsche-boerse.com/resource/blob/1441006/f7953188907a2dccca8fa078ff0a394d/data/DBG-annual-report-2018.pdf"
+        },
+        {
+            "company": "E.ON",
+            "query": "E.ON sustainability report 2018 filetype:pdf",
+            "link": "https://www.eon.com/content/dam/eon/eon-com/Documents/en/sustainability-report/2018/innogy-sustainability-report-2018.pdf"
+        },
+        {
+            "company": "Fresenius Medical Care",
+            "query": "Fresenius Medical Care sustainability report 2018 filetype:pdf",
+            "link": "https://www.freseniusmedicalcare.com/fileadmin/data/com/pdf/Media_Center/Publications/Annual_Reports/FME_Annual-Report_2018.pdf"
+        },
+        {
+            "company": "Fresenius SE",
+            "query": "Fresenius SE sustainability report 2018 filetype:pdf",
+            "link": "https://www.fresenius.com/sites/default/files/2022-01/Fresenius_Annual_Report_2018.pdf"
+        }
+    ],
+    "2022": [
+        {
+            "company": "s immo ag",
+            "query": "s immo ag sustainability report 2022 filetype:pdf",
+            "link": "https://www.caimmo.com/fileadmin/documents/Finanzberichte/2022/Annual_Financial_Report_2022.pdf"
+        }
+    ]
+}

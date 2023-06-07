@@ -77,7 +77,14 @@ tolerated_terms = [
 ]
 
 def make_clean_list(msci_list):
+    """Cleans the MSCI companies list and joins all the dataframes together in one list
 
+    Args:
+        msci_list (Dataframe)
+
+    Returns:
+        Dataframe: merged Dataframe of all companies
+    """
     msci_list = msci_list.apply(str.lower)
 
     for key, company in msci_list.items():

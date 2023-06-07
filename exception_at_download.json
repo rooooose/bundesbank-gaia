@@ -1,0 +1,46 @@
+{
+    "2017": [
+        {
+            "company": "E.ON",
+            "link": "https://www.eon.com/content/dam/eon/eon-com/Documents/en/sustainability-report/EON_Sustainability_Report_2017.pdf"
+        },
+        {
+            "company": "MAN",
+            "link": "https://ir.traton.com/download/companies/traton/annual_brands/MANGB2017_EN.pdf"
+        },
+        {
+            "company": "Merck",
+            "link": "https://www.merckgroup.com/investors/reports-and-financials/earnings-materials/2017-q4/en/2017-Q4-Report-EN.pdf"
+        },
+        {
+            "company": "Metro",
+            "link": "https://www.sydneymetro.info/sites/default/files/2021-09/SydneyMetro_SustainabilityReport2017.pdf"
+        },
+        {
+            "company": "Munich Re",
+            "link": "https://www.munichre.com/content/dam/munichre/contentlounge/website-pieces/documents/CorporateResponsibilityReport_2017-2018.pdf/_jcr_content/renditions/original./CorporateResponsibilityReport_2017-2018.pdf"
+        },
+        {
+            "company": "Linde",
+            "link": "https://www.linde.com/-/media/linde/merger/documents/sustainable-development/praxair-2017-sustainable-value-report.pdf?la=en"
+        },
+        {
+            "company": "Lufthansa",
+            "link": "https://www.lufthansagroup.com/media/downloads/en/responsibility/LH-sustainability-report-2017.pdf"
+        },
+        {
+            "company": "Volkswagen",
+            "link": "https://www.volkswagenag.com/presence/nachhaltigkeit/documents/sustainability-report/2017/Nonfinancial_Report_2017_e.pdf"
+        },
+        {
+            "company": "deckers outdoor corp",
+            "link": "https://www.deckers.com/sites/default/files/images/responsibility/Deckers%202020%20Corporate%20Responsibility%20Report.pdf"
+        }
+    ],
+    "2018": [
+        {
+            "company": "E.ON",
+            "link": "https://www.eon.com/content/dam/eon/eon-com/Documents/en/sustainability-report/2018/innogy-sustainability-report-2018.pdf"
+        }
+    ]
+}
