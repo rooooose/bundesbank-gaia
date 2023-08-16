@@ -3,7 +3,12 @@
         {
             "company": "Bayer",
             "query": "Bayer sustainability report 2017 filetype:pdf",
-            "link": "https://www.bayer.com/sites/default/files/bayer_ar17_entire.pdf"
+            "link": "https://www.bayer.com/sites/default/files/2020-05/bayer_ar17_entire.pdf"
+        },
+        {
+            "company": "Deutsche Boerse",
+            "query": "Deutsche Boerse sustainability report 2017 filetype:pdf",
+            "link": "https://www.deutsche-boerse.com/resource/blob/82450/b81190165f9d6cf2c327c6548ceeff00/data/DBG-gri-index-2017_en.pdf"
         },
         {
             "company": "Deutsche Post",
@@ -18,7 +23,7 @@
         {
             "company": "Henkel",
             "query": "Henkel sustainability report 2017 filetype:pdf",
-            "link": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/h/OTC_HENKY_2017.pdf"
+            "link": "https://www.annualreports.com/HostedData/AnnualReportArchive/h/OTC_HENKY_2017.pdf"
         },
         {
             "company": "KplusS",
@@ -36,91 +41,124 @@
             "link": "https://www.siemens.com/investor/pool/en/investor_relations/siemens_sustainability_information2017.pdf"
         },
         {
+            "company": "ThyssenKrupp",
+            "query": "ThyssenKrupp sustainability report 2017 filetype:pdf",
+            "link": "https://www.annualreports.com/HostedData/AnnualReportArchive/t/thyssenKrupp-ag_2018.pdf"
+        },
+        {
+            "company": "Volkswagen",
+            "query": "Volkswagen sustainability report 2017 filetype:pdf",
+            "link": "https://www.audi.com/content/dam/gbp2/company/sustainability/downloads/sustainability-reports/Audi-Nachhaltigkeitsbericht-EN-2017.pdf"
+        },
+        {
             "company": "builders firstsource inc",
             "query": "builders firstsource inc sustainability report 2017 filetype:pdf",
-            "link": "https://www.firstsource.com/wp-content/uploads/2018/07/FY-2017-2018.pdf"
+            "link": "https://s202.q4cdn.com/867695273/files/doc_downloads/esg/Builders-FirstSource_2023-CSR-Report.pdf"
         },
         {
-            "company": "deckers outdoor corp",
-            "query": "deckers outdoor corp sustainability report 2017 filetype:pdf",
-            "link": "https://www.deckers.com/sites/default/files/images/responsibility/Deckers%202020%20Corporate%20Responsibility%20Report.pdf"
-        },
-        {
-            "company": "BUILDERS FIRSTSOURCE INC",
-            "query": "BUILDERS FIRSTSOURCE INC sustainability report 2017 filetype:pdf",
-            "link": "https://bmc.a.bigcontent.io/v1/static/Builders_FirstSource_2022_CSR_Report"
-        },
-        {
-            "company": "DECKERS OUTDOOR CORP",
-            "query": "DECKERS OUTDOOR CORP sustainability report 2017 filetype:pdf",
-            "link": "https://www.deckers.com/sites/default/files/images/responsibility/Deckers%202020%20Corporate%20Responsibility%20Report.pdf"
-        },
-        {
-            "company": "LIFE STORAGE INC",
-            "query": "LIFE STORAGE INC sustainability report 2017 filetype:pdf",
+            "company": "life storage inc",
+            "query": "life storage inc sustainability report 2017 filetype:pdf",
             "link": "https://www.lifestorage.com/assets/pdf/ls_esg2022.pdf"
         },
         {
-            "company": "WATSCO INC",
-            "query": "WATSCO INC sustainability report 2017 filetype:pdf",
-            "link": "https://investors.watsco.com/static-files/076aec87-3f7f-46de-9816-4ae0a11cabf2"
+            "company": "watsco inc",
+            "query": "watsco inc sustainability report 2017 filetype:pdf",
+            "link": "https://investors.watsco.com/static-files/7aba235f-694b-416e-aa16-4b8e8a872086"
         },
         {
-            "company": "LATTICE SEMICONDUCTOR CORP",
-            "query": "LATTICE SEMICONDUCTOR CORP sustainability report 2017 filetype:pdf",
-            "link": "https://www.latticesemi.com/-/media/LatticeSemi/Documents/About/ESG-2022-Report-10312022.ashx?document_id=53006"
+            "company": "lattice semiconductor corp",
+            "query": "lattice semiconductor corp sustainability report 2017 filetype:pdf",
+            "link": "https://ir.latticesemi.com/static-files/16d9cf41-601d-48cc-80a4-dd597e22316b"
         },
         {
-            "company": "FIVE BELOW INC",
-            "query": "FIVE BELOW INC sustainability report 2017 filetype:pdf",
-            "link": "https://www.ebrd.com/documents/comms-and-bis/sustainability-report-2017-complete-document.pdf"
+            "company": "five below inc",
+            "query": "five below inc sustainability report 2017 filetype:pdf",
+            "link": "https://www.semperitgroup.com/fileadmin/user_upload/MediaLibrary/SemperitGroup/Company/Sustainability/Nachhaltigkeitsbericht_2017_EN.pdf"
         },
         {
-            "company": "PENUMBRA INC",
-            "query": "PENUMBRA INC sustainability report 2017 filetype:pdf",
-            "link": "https://s21.q4cdn.com/721716299/files/doc_downloads/governance_documents/2022/Penumbra-ESG-Report-2022.pdf"
+            "company": "penumbra inc",
+            "query": "penumbra inc sustainability report 2017 filetype:pdf",
+            "link": "https://www.penumbrainc.com/pdf/penumbra-esg-report/"
         },
         {
-            "company": "SHOCKWAVE MEDICAL INC",
-            "query": "SHOCKWAVE MEDICAL INC sustainability report 2017 filetype:pdf",
+            "company": "shockwave medical inc",
+            "query": "shockwave medical inc sustainability report 2017 filetype:pdf",
             "link": "https://ir.shockwavemedical.com/static-files/9afb09a2-bd2b-40df-80df-68f9e12da03e"
         },
         {
-            "company": "TAPESTRY INC",
-            "query": "TAPESTRY INC sustainability report 2017 filetype:pdf",
-            "link": "https://tapestry.gcs-web.com/static-files/81060675-163a-4273-9d56-e2bcd80a2527"
+            "company": "tapestry inc",
+            "query": "tapestry inc sustainability report 2017 filetype:pdf",
+            "link": "https://tapestry.gcs-web.com/static-files/5afb2a16-462b-466f-b91d-1aa175ed9d07"
         },
         {
-            "company": "SERVICE CORPORATION INTERNATIONAL",
-            "query": "SERVICE CORPORATION INTERNATIONAL sustainability report 2017 filetype:pdf",
+            "company": "service corporation",
+            "query": "service corporation sustainability report 2017 filetype:pdf",
             "link": "https://sciannualmeeting.com/media/ltio3xwo/sci-2022-sustainability-report.pdf"
         },
         {
-            "company": "FLOOR DECOR HOLDINGS INC CLASS A",
-            "query": "FLOOR DECOR HOLDINGS INC CLASS A sustainability report 2017 filetype:pdf",
+            "company": "floor decor holdings",
+            "query": "floor decor holdings sustainability report 2017 filetype:pdf",
             "link": "https://d1io3yog0oux5.cloudfront.net/flooranddecor/files/pages/esg/esg-data-download/FND_ESG_Data_Supplemental_121021.pdf"
-        }
-    ],
-    "2018": [
-        {
-            "company": "Bayer",
-            "query": "Bayer sustainability report 2018 filetype:pdf",
-            "link": "https://www.bayer.com/sites/default/files/2020-04/bayer_ar18_entire.pdf"
         },
         {
-            "company": "BMW",
-            "query": "BMW sustainability report 2018 filetype:pdf",
-            "link": "https://www.bmwgroup.com/content/dam/grpw/websites/bmwgroup_com/responsibility/downloads/en/2019/2019-BMW-Group-SVR-2018-Englisch.pdf"
+            "company": "rexford industrial realty reit",
+            "query": "rexford industrial realty reit sustainability report 2017 filetype:pdf",
+            "link": "https://www.annualreports.com/HostedData/AnnualReportArchive/r/NYSE_REXR_2017.pdf"
         },
         {
-            "company": "Deutsche Post",
-            "query": "Deutsche Post sustainability report 2018 filetype:pdf",
-            "link": "https://www.dpdhl.com/content/dam/dpdhl/en/media-center/responsibility/dpdhl-corporate-responsibility-report-2018.pdf"
+            "company": "sarepta therapeutics inc",
+            "query": "sarepta therapeutics inc sustainability report 2017 filetype:pdf",
+            "link": "https://www.annualreports.com/HostedData/AnnualReportArchive/s/NASDAQ_SRPT_2017.pdf"
         },
         {
-            "company": "Deutsche Telekom",
-            "query": "Deutsche Telekom sustainability report 2018 filetype:pdf",
-            "link": "https://report.telekom.com/annual-report-2018/servicepages/downloads/files/entire_dtag_ar18.pdf?pk_campaign=lp_pdf"
+            "company": "bjs wholesale club holdings",
+            "query": "bjs wholesale club holdings sustainability report 2017 filetype:pdf",
+            "link": "https://www.annualreports.com/HostedData/AnnualReportArchive/b/NYSE_BJ_2019.pdf"
+        },
+        {
+            "company": "willscot mobile mini holdings",
+            "query": "willscot mobile mini holdings sustainability report 2017 filetype:pdf",
+            "link": "https://www.annualreports.com/Click/29574"
+        },
+        {
+            "company": "manhattan associates inc",
+            "query": "manhattan associates inc sustainability report 2017 filetype:pdf",
+            "link": "https://ir.manh.com/static-files/fd3cdc1a-a1f0-4750-8bcd-b343c31e04e4"
+        },
+        {
+            "company": "performance food group",
+            "query": "performance food group sustainability report 2017 filetype:pdf",
+            "link": "https://www.dpdhl.com/content/dam/dpdhl/en/media-center/responsibility/dpdhl-corporate-responsibility-report-2017.pdf"
+        },
+        {
+            "company": "lincoln electric holdings",
+            "query": "lincoln electric holdings sustainability report 2017 filetype:pdf",
+            "link": "https://ir.lincolnelectric.com/static-files/2c938637-530f-4f13-9b33-4755055a50d4"
+        },
+        {
+            "company": "flex ltd",
+            "query": "flex ltd sustainability report 2017 filetype:pdf",
+            "link": "https://www.indutrade.com/globalassets/press-kit/annual-reports-eng/2017-annual-report.pdf"
+        },
+        {
+            "company": "royal gold inc",
+            "query": "royal gold inc sustainability report 2017 filetype:pdf",
+            "link": "https://www.annualreports.com/HostedData/AnnualReportArchive/r/NASDAQ_RGLD_2020.pdf"
+        },
+        {
+            "company": "us foods holding",
+            "query": "us foods holding sustainability report 2017 filetype:pdf",
+            "link": "https://www.usfoods.com/content/dam/usf/pdf/dce/supporting_materials/2021-CSR-Report.pdf"
+        },
+        {
+            "company": "renaissancere holding",
+            "query": "renaissancere holding sustainability report 2017 filetype:pdf",
+            "link": "https://investor.renre.com/static-files/7076e865-377b-4cf9-b953-01eb7de170d1"
+        },
+        {
+            "company": "churchill downs inc",
+            "query": "churchill downs inc sustainability report 2017 filetype:pdf",
+            "link": "https://ir.churchilldownsincorporated.com/static-files/8cece8f9-9ca1-4cb6-a412-6becedec4bc8"
         }
     ]
 }

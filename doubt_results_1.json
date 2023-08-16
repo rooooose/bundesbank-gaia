@@ -9,22 +9,68 @@
             "link": "https://www.kpluss.com/en-us/.pdf/investor-relations/2017/gb2017.pdf"
         },
         {
-            "query": "MAN sustainability report 2017 filetype:pdf",
-            "link": "https://ir.traton.com/download/companies/traton/annual_brands/MANGB2017_EN.pdf",
+            "query": "ThyssenKrupp sustainability report 2017 filetype:pdf",
+            "link": "https://www.annualreports.com/HostedData/AnnualReportArchive/t/thyssenKrupp-ag_2018.pdf"
+        },
+        {
+            "query": "Volkswagen sustainability report 2017 filetype:pdf",
+            "link": "https://www.audi.com/content/dam/gbp2/company/sustainability/downloads/sustainability-reports/Audi-Nachhaltigkeitsbericht-EN-2017.pdf",
             "error": "PDF could not be read"
         },
         {
             "query": "builders firstsource inc sustainability report 2017 filetype:pdf",
-            "link": "https://www.firstsource.com/wp-content/uploads/2018/07/FY-2017-2018.pdf"
-        },
-        {
-            "query": "deckers outdoor corp sustainability report 2017 filetype:pdf",
-            "link": "https://www.deckers.com/sites/default/files/images/responsibility/Deckers%202020%20Corporate%20Responsibility%20Report.pdf"
-        },
-        {
-            "query": "deckers outdoor corp sustainability report 2017 filetype:pdf",
-            "link": "https://www.deckers.com/sites/default/files/images/responsibility/Deckers%202020%20Corporate%20Responsibility%20Report.pdf",
+            "link": "https://s202.q4cdn.com/867695273/files/doc_downloads/esg/Builders-FirstSource_2023-CSR-Report.pdf",
             "error": "PDF could not be read"
+        },
+        {
+            "query": "life storage inc sustainability report 2017 filetype:pdf",
+            "link": "https://www.lifestorage.com/assets/pdf/ls_esg2022.pdf",
+            "error": "PDF could not be read"
+        },
+        {
+            "query": "five below inc sustainability report 2017 filetype:pdf",
+            "link": "https://www.semperitgroup.com/fileadmin/user_upload/MediaLibrary/SemperitGroup/Company/Sustainability/Nachhaltigkeitsbericht_2017_EN.pdf"
+        },
+        {
+            "query": "penumbra inc sustainability report 2017 filetype:pdf",
+            "link": "https://www.penumbrainc.com/pdf/penumbra-esg-report/"
+        },
+        {
+            "query": "shockwave medical inc sustainability report 2017 filetype:pdf",
+            "link": "https://ir.shockwavemedical.com/static-files/9afb09a2-bd2b-40df-80df-68f9e12da03e"
+        },
+        {
+            "query": "service corporation sustainability report 2017 filetype:pdf",
+            "link": "https://sciannualmeeting.com/media/ltio3xwo/sci-2022-sustainability-report.pdf",
+            "error": "PDF could not be read"
+        },
+        {
+            "query": "bjs wholesale club holdings sustainability report 2017 filetype:pdf",
+            "link": "https://www.annualreports.com/HostedData/AnnualReportArchive/b/NYSE_BJ_2019.pdf"
+        },
+        {
+            "query": "willscot mobile mini holdings sustainability report 2017 filetype:pdf",
+            "link": "https://www.annualreports.com/Click/29574"
+        },
+        {
+            "query": "manhattan associates inc sustainability report 2017 filetype:pdf",
+            "link": "https://ir.manh.com/static-files/fd3cdc1a-a1f0-4750-8bcd-b343c31e04e4"
+        },
+        {
+            "query": "performance food group sustainability report 2017 filetype:pdf",
+            "link": "https://www.dpdhl.com/content/dam/dpdhl/en/media-center/responsibility/dpdhl-corporate-responsibility-report-2017.pdf"
+        },
+        {
+            "query": "flex ltd sustainability report 2017 filetype:pdf",
+            "link": "https://www.indutrade.com/globalassets/press-kit/annual-reports-eng/2017-annual-report.pdf"
+        },
+        {
+            "query": "royal gold inc sustainability report 2017 filetype:pdf",
+            "link": "https://www.annualreports.com/HostedData/AnnualReportArchive/r/NASDAQ_RGLD_2020.pdf"
+        },
+        {
+            "query": "churchill downs inc sustainability report 2017 filetype:pdf",
+            "link": "https://ir.churchilldownsincorporated.com/static-files/8cece8f9-9ca1-4cb6-a412-6becedec4bc8"
         }
     ]
 }

@@ -7,7 +7,7 @@ import os, time
 import shutil
 import make_company_list
 from make_company_list import msci_list
-from config import dbx
+# from config import dbx
 
 def find_where_to_start(file):
     """reads where the code last stopped in txt files (at which company and which year)
@@ -103,7 +103,7 @@ def download_from_doubt_links(year, result, is_doubt):
     """
     
     print(result)
-    filepath = download_pdf(result["link"], year, result["company"], dbx, "doubt")
+    filepath = download_pdf(result["link"], year, result["company"], "doubt")
     read_and_reorder_pdf(filepath, year, result["company"], result["query"], result["link"])
     is_doubt = True
     # if filepath != None:
@@ -119,7 +119,7 @@ def download_from_found_links(year, result):
         result (dict): element of found_list
     """
     print(result)
-    filepath = download_pdf(result["link"], year, result["company"], dbx, "found")
+    filepath = download_pdf(result["link"], year, result["company"], "found")
     # if filepath != None:
     #     os.remove(filepath)
                 
